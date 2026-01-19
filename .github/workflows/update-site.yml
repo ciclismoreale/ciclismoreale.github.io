@@ -1,8 +1,10 @@
 name: Update website
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    # Every 12 hours (UTC)
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
@@ -40,6 +42,10 @@ jobs:
       - name: Render Quarto site to docs/
         run: |
           quarto render
+
+      - name: Write deployment timestamp
+        run: |
+          date -u +"%Y-%m-%d %H:%M:%S UTC" > docs/last_updated.txt
 
       - name: Commit and push updated site
         run: |
