@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "🛞 CICLISMO REALE"
+  title: "🚲 CICLISMO REALE"
   navbar:
     pinned: true
     left:
