@@ -106,7 +106,8 @@ title: "CQ Ranking"
         true_team = row["Team"] if pd.notna(row["Team"]) else ""
         fanta_team = row["Fantasquadra"]
         cq_pts = row["CQ"]
-        base_asta = f'{row["Base d\'asta"]:,}'.replace(",", " ")
+        base_asta_value = row["Base d'asta"]
+        base_asta = f'{base_asta_value:,}'.replace(",", " ")
 
         f.write(
             f'<tr class="page page-{page}" style="display:none;">\n'
