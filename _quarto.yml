@@ -5,6 +5,7 @@ project:
 website:
   title: "🛞 CICLISMO REALE"
   navbar:
+    pinned: true
     left:
       - squadre.qmd
       - cq_ranking.qmd
