@@ -4,6 +4,7 @@ project:
 
 website:
   title: "🛞 CICLISMO REALE"
+  favicon: "🛞"
   navbar:
     left:
       - squadre.qmd
