@@ -6,14 +6,14 @@
   margin-top: 1rem;
   display: flex;
   flex-direction: column;
-  gap: 0.75rem; /* spacing between cards */
+  gap: 0.5rem; /* slightly smaller gap between cards */
 }
 
 /* Individual race card */
 .rss-card {
   border: 1px solid #e5e7eb;
   border-radius: 10px;
-  padding: 0.75rem 1rem;
+  padding: 0.6rem 0.9rem; /* slightly smaller padding */
   background: #f9fafb;
   box-shadow: 0 1px 3px rgba(0,0,0,0.08);
   transition: transform 0.15s ease, box-shadow 0.15s ease;
@@ -26,15 +26,15 @@
 
 /* Title */
 .rss-title {
-  font-size: 1.1rem;
+  font-size: 1.05rem;
   font-weight: 700;
-  margin-bottom: 0.25rem;
-  line-height: 1.3;
+  margin-bottom: 0.2rem;
+  line-height: 1.15; /* tighter spacing */
 }
 
 .rss-title a {
   text-decoration: none;
-  color: #1e40af; /* slightly darker blue */
+  color: #1e40af;
 }
 
 .rss-title a:hover {
@@ -45,18 +45,18 @@
 .rss-date {
   font-size: 0.75rem;
   color: #6b7280;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.4rem;
 }
 
 /* Description */
 .rss-desc {
   font-family: system-ui, sans-serif;
-  font-size: 0.85rem;
+  font-size: 0.84rem;
   white-space: pre-wrap;
   margin: 0;
   color: #4b5563;
-  line-height: 1.35;
-  max-height: 4.5em; /* roughly 3 lines */
+  line-height: 1.25; /* reduced spacing between lines */
+  max-height: 4.2em; /* ~3 lines */
   overflow: hidden;
   text-overflow: ellipsis;
 }
