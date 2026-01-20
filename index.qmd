@@ -4,9 +4,6 @@ title: "CICLISMO REALE"
 
 {{< include last_updated.md >}}
 
-Qui andrà la classifica generale.
-
-
 TO DO LIST:
 
 - CQ ranking for the current year (modify `scrape_cq_ranking.py`) - the current one is based on last year.
