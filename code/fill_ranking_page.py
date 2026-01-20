@@ -5,7 +5,7 @@ import json
 # ----------------- FILE PATHS -----------------
 csv_file = "data/cqranking_riders.csv"
 teams_json = "data/teams.json"
-output_file = "cq_ranking.qmd"
+output_file = "c_cq_ranking.md"
 
 # ----------------- READ CSV -----------------
 df = pd.read_csv(csv_file)

@@ -8,6 +8,7 @@ website:
     left:
       - squadre.qmd
       - cq_ranking.qmd
+      - classifica.qmd
   announcement: 
     icon: info-circle
     dismissable: false
@@ -24,7 +25,7 @@ format:
     toc: false
     grid: 
       body-width: 1000px
-      sidebar-width: 200px
-      margin-width: 200px
+      sidebar-width: 70px
+      margin-width: 350px
 
 

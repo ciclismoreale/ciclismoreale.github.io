@@ -1,3 +1,6 @@
 ---
-title: "Classifica"
+title: "Classifiche"
 ---
+<hr>
+
+Qui da aggiungere. 

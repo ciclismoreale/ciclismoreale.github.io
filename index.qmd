@@ -2,6 +2,12 @@
 title: "Ciao!"
 ---
 
+::: {.main-content}
 {{< include last_updated.md >}}
 
 {{< include recent-races.md >}}
+:::
+
+::: {.aside}
+{{< include classifica_totale.html >}}
+:::

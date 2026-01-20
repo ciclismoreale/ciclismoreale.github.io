@@ -3,6 +3,25 @@
 <div class="rss-scroll">
 
 <div class="rss-card">
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45402" target="_blank">Tour Down Under, Prologue : Adelaide I.T.T.</a></div>
+<div class="rss-date">20 Jan 2026</div>
+<pre class="rss-desc">Date: 20 Jan 2026 - Category: 2.WT1s
+
+
+1. WATSON Samuel (GBR/IGD)
+
+2. VERNON Ethan (GBR/NSN)
+
+3. PITHIE Laurence (NZL/RBH)
+
+
+ Leader: WATSON Samuel (GBR/IGD)
+
+
+Now on CQranking.com: Top 140</pre>
+</div>
+
+<div class="rss-card">
 <div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45396" target="_blank">Pune Grand Tour, Prologue : Pune I.T.T.</a></div>
 <div class="rss-date">19 Jan 2026</div>
 <pre class="rss-desc">Date: 19 Jan 2026 - Category: 2.2s
@@ -191,25 +210,6 @@ Now on CQranking.com: Top 10</pre>
 2. MENDEZ PEREZ Diego Alejandro (VEN/???)
 
 3. ROJAS VEGA Brandon Alejandro (COL/GES)
-
-
- Leader: VILORIA VIERAS Enmanuel David (VEN/???)
-
-
-Now on CQranking.com: Top 10</pre>
-</div>
-
-<div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45387" target="_blank">Vuelta al Tachira, Stage 3 : San Cristobal - San Cristobal</a></div>
-<div class="rss-date">11 Jan 2026</div>
-<pre class="rss-desc">Date: 11 Jan 2026 - Category: 2.2s
-
-
-1. COLMENARES BAUTISTA Jad Sair (VEN/???)
-
-2. RINCON PEÑUELA German (VEN/???)
-
-3. ABREU SOLER Jorge Luis (VEN/???)
 
 
  Leader: VILORIA VIERAS Enmanuel David (VEN/???)
