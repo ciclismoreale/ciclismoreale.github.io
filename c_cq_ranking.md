@@ -53,11 +53,31 @@ title: "CQ Ranking"
 <td style="text-align:center;">16/11/1995</td>
 <td style="text-align:center;">UAD</td>
 <td style="text-align:center;">S. PIETROBAUDO</td>
-<td style="text-align:center;">50</td>
+<td style="text-align:center;">60</td>
 <td style="text-align:center;">1 000 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
 <td style="text-align:center;">5</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/DEN.gif" width="20"></td>
+<td style="text-align:left;">LUND ANDRESEN Tobias</td>
+<td style="text-align:center;">20/08/2002</td>
+<td style="text-align:center;">DCT</td>
+<td style="text-align:center;">HAVANA KHARMA KUOTA</td>
+<td style="text-align:center;">56</td>
+<td style="text-align:center;">1 000 000</td>
+</tr>
+<tr class="page page-0" style="display:none;">
+<td style="text-align:center;">6</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/GBR.gif" width="20"></td>
+<td style="text-align:left;">WATSON Samuel</td>
+<td style="text-align:center;">24/09/2001</td>
+<td style="text-align:center;">IGD</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">56</td>
+<td style="text-align:center;">1 000 000</td>
+</tr>
+<tr class="page page-0" style="display:none;">
+<td style="text-align:center;">7</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
 <td style="text-align:left;">COOK Leighton</td>
 <td style="text-align:center;">26/06/1997</td>
@@ -67,7 +87,7 @@ title: "CQ Ranking"
 <td style="text-align:center;">1 000 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">6</td>
+<td style="text-align:center;">8</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
 <td style="text-align:left;">BLEDDYN Oliver</td>
 <td style="text-align:center;">27/01/2002</td>
@@ -77,7 +97,7 @@ title: "CQ Ranking"
 <td style="text-align:center;">1 000 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">7</td>
+<td style="text-align:center;">9</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
 <td style="text-align:left;">DINHAM Matthew</td>
 <td style="text-align:center;">09/04/2000</td>
@@ -87,7 +107,7 @@ title: "CQ Ranking"
 <td style="text-align:center;">1 000 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">8</td>
+<td style="text-align:center;">10</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
 <td style="text-align:left;">ABREU SOLER Jorge Luis</td>
 <td style="text-align:center;">16/03/1990</td>
@@ -97,27 +117,37 @@ title: "CQ Ranking"
 <td style="text-align:center;">1 000 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">9</td>
+<td style="text-align:center;">11</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
 <td style="text-align:left;">O'BRIEN Kelland</td>
 <td style="text-align:center;">22/05/1998</td>
 <td style="text-align:center;">JAY</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">34</td>
-<td style="text-align:center;">1 000 000</td>
+<td style="text-align:center;">750 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">10</td>
+<td style="text-align:center;">12</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/GBR.gif" width="20"></td>
+<td style="text-align:left;">VERNON Ethan</td>
+<td style="text-align:center;">26/08/2000</td>
+<td style="text-align:center;">NSN</td>
+<td style="text-align:center;">LEGNANO</td>
+<td style="text-align:center;">33</td>
+<td style="text-align:center;">750 000</td>
+</tr>
+<tr class="page page-0" style="display:none;">
+<td style="text-align:center;">13</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
 <td style="text-align:left;">O'CONNOR Ben</td>
 <td style="text-align:center;">25/11/1995</td>
 <td style="text-align:center;">JAY</td>
 <td style="text-align:center;">TOPINA M.B.</td>
 <td style="text-align:center;">30</td>
-<td style="text-align:center;">1 000 000</td>
+<td style="text-align:center;">750 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">11</td>
+<td style="text-align:center;">14</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
 <td style="text-align:left;">GILMORE Brady</td>
 <td style="text-align:center;">14/04/2001</td>
@@ -127,7 +157,17 @@ title: "CQ Ranking"
 <td style="text-align:center;">750 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">12</td>
+<td style="text-align:center;">15</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/GBR.gif" width="20"></td>
+<td style="text-align:left;">BRENNAN Matthew</td>
+<td style="text-align:center;">06/08/2005</td>
+<td style="text-align:center;">TVL</td>
+<td style="text-align:center;">LEGNANO</td>
+<td style="text-align:center;">28</td>
+<td style="text-align:center;">750 000</td>
+</tr>
+<tr class="page page-0" style="display:none;">
+<td style="text-align:center;">16</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
 <td style="text-align:left;">CHRISTIE-JOHNSTON Alastair</td>
 <td style="text-align:center;">29/03/1998</td>
@@ -137,7 +177,7 @@ title: "CQ Ranking"
 <td style="text-align:center;">750 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">13</td>
+<td style="text-align:center;">17</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
 <td style="text-align:left;">MENDEZ PEREZ Diego Alejandro</td>
 <td style="text-align:center;">11/10/2006</td>
@@ -147,7 +187,17 @@ title: "CQ Ranking"
 <td style="text-align:center;">750 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">14</td>
+<td style="text-align:center;">18</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
+<td style="text-align:left;">BETTLES Carter</td>
+<td style="text-align:center;">02/09/1998</td>
+<td style="text-align:center;">ROI</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">22</td>
+<td style="text-align:center;">750 000</td>
+</tr>
+<tr class="page page-0" style="display:none;">
+<td style="text-align:center;">19</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/THA.gif" width="20"></td>
 <td style="text-align:left;">POULARD Athit (Baptiste)</td>
 <td style="text-align:center;">28/01/2003</td>
@@ -157,17 +207,7 @@ title: "CQ Ranking"
 <td style="text-align:center;">750 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">15</td>
-<td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
-<td style="text-align:left;">BETTLES Carter</td>
-<td style="text-align:center;">02/09/1998</td>
-<td style="text-align:center;">ROI</td>
-<td style="text-align:center;">-</td>
 <td style="text-align:center;">20</td>
-<td style="text-align:center;">750 000</td>
-</tr>
-<tr class="page page-0" style="display:none;">
-<td style="text-align:center;">16</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/COL.gif" width="20"></td>
 <td style="text-align:left;">GOMEZ GOMEZ Camilo Andres</td>
 <td style="text-align:center;">29/04/2003</td>
@@ -177,47 +217,67 @@ title: "CQ Ranking"
 <td style="text-align:center;">750 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">17</td>
+<td style="text-align:center;">21</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/COL.gif" width="20"></td>
 <td style="text-align:left;">ROJAS VEGA Brandon Alejandro</td>
 <td style="text-align:center;">02/07/2002</td>
 <td style="text-align:center;">GES</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">19</td>
-<td style="text-align:center;">750 000</td>
+<td style="text-align:center;">500 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">18</td>
+<td style="text-align:center;">22</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
 <td style="text-align:left;">VILORIA VIERAS Enmanuel David</td>
 <td style="text-align:center;">11/08/2001</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">19</td>
-<td style="text-align:center;">750 000</td>
+<td style="text-align:center;">500 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">19</td>
+<td style="text-align:center;">23</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/NZL.gif" width="20"></td>
+<td style="text-align:left;">PITHIE Laurence</td>
+<td style="text-align:center;">17/07/2002</td>
+<td style="text-align:center;">RBH</td>
+<td style="text-align:center;">MASTRO BIRRAIO & PURITO GCP</td>
+<td style="text-align:center;">18</td>
+<td style="text-align:center;">500 000</td>
+</tr>
+<tr class="page page-0" style="display:none;">
+<td style="text-align:center;">24</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
+<td style="text-align:left;">WELSFORD Sam</td>
+<td style="text-align:center;">19/01/1996</td>
+<td style="text-align:center;">IGD</td>
+<td style="text-align:center;">MARTINONE UNO</td>
+<td style="text-align:center;">18</td>
+<td style="text-align:center;">500 000</td>
+</tr>
+<tr class="page page-0" style="display:none;">
+<td style="text-align:center;">25</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
 <td style="text-align:left;">LEAHY Conor</td>
 <td style="text-align:center;">16/04/1999</td>
 <td style="text-align:center;">BRE</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">17</td>
-<td style="text-align:center;">750 000</td>
+<td style="text-align:center;">500 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">20</td>
+<td style="text-align:center;">26</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
 <td style="text-align:left;">MACKELLAR Alastair</td>
 <td style="text-align:center;">20/01/2002</td>
 <td style="text-align:center;">EFE</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">16</td>
-<td style="text-align:center;">750 000</td>
+<td style="text-align:center;">500 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">21</td>
+<td style="text-align:center;">27</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
 <td style="text-align:left;">MCKENZIE Hamish</td>
 <td style="text-align:center;">13/09/2004</td>
@@ -227,7 +287,7 @@ title: "CQ Ranking"
 <td style="text-align:center;">500 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">22</td>
+<td style="text-align:center;">28</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/COL.gif" width="20"></td>
 <td style="text-align:left;">GIL SANCHEZ Angel Alexander</td>
 <td style="text-align:center;">25/09/1992</td>
@@ -237,7 +297,7 @@ title: "CQ Ranking"
 <td style="text-align:center;">500 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">23</td>
+<td style="text-align:center;">29</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
 <td style="text-align:left;">GALVIZ GARCIA Carlos Johan</td>
 <td style="text-align:center;">27/10/1988</td>
@@ -247,7 +307,17 @@ title: "CQ Ranking"
 <td style="text-align:center;">500 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">24</td>
+<td style="text-align:center;">30</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/NZL.gif" width="20"></td>
+<td style="text-align:left;">MUDGWAY Luke</td>
+<td style="text-align:center;">12/06/1996</td>
+<td style="text-align:center;">LNS</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">12</td>
+<td style="text-align:center;">500 000</td>
+</tr>
+<tr class="page page-0" style="display:none;">
+<td style="text-align:center;">31</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
 <td style="text-align:left;">RICHARDS Kane</td>
 <td style="text-align:center;">01/12/1996</td>
@@ -257,7 +327,7 @@ title: "CQ Ranking"
 <td style="text-align:center;">500 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">25</td>
+<td style="text-align:center;">32</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
 <td style="text-align:left;">BROWNING Fergus</td>
 <td style="text-align:center;">04/12/2003</td>
@@ -267,7 +337,17 @@ title: "CQ Ranking"
 <td style="text-align:center;">500 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">26</td>
+<td style="text-align:center;">33</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/NED.gif" width="20"></td>
+<td style="text-align:left;">VAN POPPEL Danny</td>
+<td style="text-align:center;">26/07/1993</td>
+<td style="text-align:center;">RBH</td>
+<td style="text-align:center;">LEGNANO</td>
+<td style="text-align:center;">10</td>
+<td style="text-align:center;">500 000</td>
+</tr>
+<tr class="page page-0" style="display:none;">
+<td style="text-align:center;">34</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/THA.gif" width="20"></td>
 <td style="text-align:left;">SUPAN Aphisit</td>
 <td style="text-align:center;">25/08/2006</td>
@@ -277,7 +357,7 @@ title: "CQ Ranking"
 <td style="text-align:center;">500 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">27</td>
+<td style="text-align:center;">35</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
 <td style="text-align:left;">PAREDES LOPEZ Anderson Timoteo</td>
 <td style="text-align:center;">20/03/1995</td>
@@ -287,7 +367,7 @@ title: "CQ Ranking"
 <td style="text-align:center;">500 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">28</td>
+<td style="text-align:center;">36</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
 <td style="text-align:left;">PORTER Rudy</td>
 <td style="text-align:center;">15/12/2000</td>
@@ -297,7 +377,17 @@ title: "CQ Ranking"
 <td style="text-align:center;">500 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">29</td>
+<td style="text-align:center;">37</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
+<td style="text-align:left;">WALSH Liam</td>
+<td style="text-align:center;">29/05/2001</td>
+<td style="text-align:center;">CBW</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">8</td>
+<td style="text-align:center;">500 000</td>
+</tr>
+<tr class="page page-0" style="display:none;">
+<td style="text-align:center;">38</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
 <td style="text-align:left;">GIL BRICEÑO Gusneiver Jose</td>
 <td style="text-align:center;">09/05/1987</td>
@@ -307,17 +397,7 @@ title: "CQ Ranking"
 <td style="text-align:center;">500 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">30</td>
-<td style="text-align:center;"><img src="https://cqranking.com/common/flags/THA.gif" width="20"></td>
-<td style="text-align:left;">SIRIRONNACHAI Sarawut</td>
-<td style="text-align:center;">23/08/1992</td>
-<td style="text-align:center;">-</td>
-<td style="text-align:center;">-</td>
-<td style="text-align:center;">7</td>
-<td style="text-align:center;">500 000</td>
-</tr>
-<tr class="page page-0" style="display:none;">
-<td style="text-align:center;">31</td>
+<td style="text-align:center;">39</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
 <td style="text-align:left;">BURTON Matthew</td>
 <td style="text-align:center;">20/01/1988</td>
@@ -327,97 +407,87 @@ title: "CQ Ranking"
 <td style="text-align:center;">500 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">32</td>
-<td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
-<td style="text-align:left;">MAESTRE LEAL Winston Jose</td>
-<td style="text-align:center;">23/06/2006</td>
+<td style="text-align:center;">40</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/THA.gif" width="20"></td>
+<td style="text-align:left;">SIRIRONNACHAI Sarawut</td>
+<td style="text-align:center;">23/08/1992</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">7</td>
 <td style="text-align:center;">500 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">33</td>
+<td style="text-align:center;">41</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
-<td style="text-align:left;">MENDEZ CARRERO Arlex Jose</td>
-<td style="text-align:center;">27/07/2005</td>
+<td style="text-align:left;">MAESTRE LEAL Winston Jose</td>
+<td style="text-align:center;">23/06/2006</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">-</td>
-<td style="text-align:center;">6</td>
-<td style="text-align:center;">500 000</td>
+<td style="text-align:center;">7</td>
+<td style="text-align:center;">250 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">34</td>
-<td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
-<td style="text-align:left;">QUINTERO DUARTE Antoni Samuel</td>
-<td style="text-align:center;">12/02/2005</td>
-<td style="text-align:center;">-</td>
-<td style="text-align:center;">-</td>
-<td style="text-align:center;">6</td>
-<td style="text-align:center;">500 000</td>
-</tr>
-<tr class="page page-0" style="display:none;">
-<td style="text-align:center;">35</td>
-<td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
-<td style="text-align:left;">GOYO PIÑA Jesus Miguel</td>
-<td style="text-align:center;">14/07/2004</td>
-<td style="text-align:center;">-</td>
-<td style="text-align:center;">-</td>
-<td style="text-align:center;">6</td>
-<td style="text-align:center;">500 000</td>
-</tr>
-<tr class="page page-0" style="display:none;">
-<td style="text-align:center;">36</td>
+<td style="text-align:center;">42</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
 <td style="text-align:left;">PLOWRIGHT Jensen</td>
 <td style="text-align:center;">15/05/2000</td>
 <td style="text-align:center;">APT</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">6</td>
-<td style="text-align:center;">500 000</td>
+<td style="text-align:center;">250 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">37</td>
-<td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
-<td style="text-align:left;">WALSH Liam</td>
-<td style="text-align:center;">29/05/2001</td>
-<td style="text-align:center;">CBW</td>
+<td style="text-align:center;">43</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
+<td style="text-align:left;">MENDEZ CARRERO Arlex Jose</td>
+<td style="text-align:center;">27/07/2005</td>
 <td style="text-align:center;">-</td>
-<td style="text-align:center;">5</td>
-<td style="text-align:center;">500 000</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">6</td>
+<td style="text-align:center;">250 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">38</td>
-<td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
-<td style="text-align:left;">STENNING Oliver</td>
-<td style="text-align:center;">27/02/1998</td>
+<td style="text-align:center;">44</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
+<td style="text-align:left;">QUINTERO DUARTE Antoni Samuel</td>
+<td style="text-align:center;">12/02/2005</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">-</td>
-<td style="text-align:center;">5</td>
-<td style="text-align:center;">500 000</td>
+<td style="text-align:center;">6</td>
+<td style="text-align:center;">250 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">39</td>
+<td style="text-align:center;">45</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
+<td style="text-align:left;">GOYO PIÑA Jesus Miguel</td>
+<td style="text-align:center;">14/07/2004</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">6</td>
+<td style="text-align:center;">250 000</td>
+</tr>
+<tr class="page page-0" style="display:none;">
+<td style="text-align:center;">46</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
 <td style="text-align:left;">LANE WELSH Tali</td>
 <td style="text-align:center;">17/08/2000</td>
 <td style="text-align:center;">CBW</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">5</td>
-<td style="text-align:center;">500 000</td>
+<td style="text-align:center;">250 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">40</td>
+<td style="text-align:center;">47</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
 <td style="text-align:left;">EATHER Kurt</td>
 <td style="text-align:center;">24/05/2001</td>
 <td style="text-align:center;">CBW</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">5</td>
-<td style="text-align:center;">500 000</td>
+<td style="text-align:center;">250 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">41</td>
+<td style="text-align:center;">48</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
 <td style="text-align:left;">AGNOLETTO Blake</td>
 <td style="text-align:center;">21/10/2002</td>
@@ -427,17 +497,27 @@ title: "CQ Ranking"
 <td style="text-align:center;">250 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">42</td>
-<td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
-<td style="text-align:left;">COLMENARES BAUTISTA Jad Sair</td>
-<td style="text-align:center;">22/08/2004</td>
-<td style="text-align:center;">-</td>
-<td style="text-align:center;">-</td>
-<td style="text-align:center;">4</td>
+<td style="text-align:center;">49</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/FRA.gif" width="20"></td>
+<td style="text-align:left;">GAUTHERAT Pierre</td>
+<td style="text-align:center;">16/01/2003</td>
+<td style="text-align:center;">DCT</td>
+<td style="text-align:center;">MARTINONE UNO</td>
+<td style="text-align:center;">5</td>
 <td style="text-align:center;">250 000</td>
 </tr>
 <tr class="page page-0" style="display:none;">
-<td style="text-align:center;">43</td>
+<td style="text-align:center;">50</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
+<td style="text-align:left;">STENNING Oliver</td>
+<td style="text-align:center;">27/02/1998</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">5</td>
+<td style="text-align:center;">250 000</td>
+</tr>
+<tr class="page page-1" style="display:none;">
+<td style="text-align:center;">51</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/ECU.gif" width="20"></td>
 <td style="text-align:left;">OBANDO ROSAS Bryan Raul</td>
 <td style="text-align:center;">18/08/2001</td>
@@ -446,8 +526,18 @@ title: "CQ Ranking"
 <td style="text-align:center;">4</td>
 <td style="text-align:center;">250 000</td>
 </tr>
-<tr class="page page-0" style="display:none;">
-<td style="text-align:center;">44</td>
+<tr class="page page-1" style="display:none;">
+<td style="text-align:center;">52</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
+<td style="text-align:left;">COLMENARES BAUTISTA Jad Sair</td>
+<td style="text-align:center;">22/08/2004</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">4</td>
+<td style="text-align:center;">250 000</td>
+</tr>
+<tr class="page page-1" style="display:none;">
+<td style="text-align:center;">53</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/THA.gif" width="20"></td>
 <td style="text-align:left;">JUMCHAT Nattapol</td>
 <td style="text-align:center;">24/06/1996</td>
@@ -456,8 +546,8 @@ title: "CQ Ranking"
 <td style="text-align:center;">4</td>
 <td style="text-align:center;">250 000</td>
 </tr>
-<tr class="page page-0" style="display:none;">
-<td style="text-align:center;">45</td>
+<tr class="page page-1" style="display:none;">
+<td style="text-align:center;">54</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/THA.gif" width="20"></td>
 <td style="text-align:left;">CHAWCHIANGKWANG Peerapol</td>
 <td style="text-align:center;">17/10/1986</td>
@@ -466,8 +556,8 @@ title: "CQ Ranking"
 <td style="text-align:center;">4</td>
 <td style="text-align:center;">250 000</td>
 </tr>
-<tr class="page page-0" style="display:none;">
-<td style="text-align:center;">46</td>
+<tr class="page page-1" style="display:none;">
+<td style="text-align:center;">55</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/THA.gif" width="20"></td>
 <td style="text-align:left;">LADNGERN Peerapong</td>
 <td style="text-align:center;">21/12/1995</td>
@@ -476,8 +566,8 @@ title: "CQ Ranking"
 <td style="text-align:center;">4</td>
 <td style="text-align:center;">250 000</td>
 </tr>
-<tr class="page page-0" style="display:none;">
-<td style="text-align:center;">47</td>
+<tr class="page page-1" style="display:none;">
+<td style="text-align:center;">56</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/COL.gif" width="20"></td>
 <td style="text-align:left;">FLOREZ LOPEZ Miguel Eduardo</td>
 <td style="text-align:center;">21/02/1996</td>
@@ -486,18 +576,18 @@ title: "CQ Ranking"
 <td style="text-align:center;">3</td>
 <td style="text-align:center;">250 000</td>
 </tr>
-<tr class="page page-0" style="display:none;">
-<td style="text-align:center;">48</td>
-<td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
-<td style="text-align:left;">TORRES CASTELLANOS Edwin Yair</td>
-<td style="text-align:center;">14/02/1997</td>
-<td style="text-align:center;">-</td>
-<td style="text-align:center;">-</td>
-<td style="text-align:center;">2</td>
+<tr class="page page-1" style="display:none;">
+<td style="text-align:center;">57</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/SUI.gif" width="20"></td>
+<td style="text-align:left;">SCHMID Mauro</td>
+<td style="text-align:center;">04/12/1999</td>
+<td style="text-align:center;">JAY</td>
+<td style="text-align:center;">SANROMARIANO</td>
+<td style="text-align:center;">3</td>
 <td style="text-align:center;">250 000</td>
 </tr>
-<tr class="page page-0" style="display:none;">
-<td style="text-align:center;">49</td>
+<tr class="page page-1" style="display:none;">
+<td style="text-align:center;">58</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
 <td style="text-align:left;">RINCON PEÑUELA German</td>
 <td style="text-align:center;">10/11/1998</td>
@@ -506,65 +596,145 @@ title: "CQ Ranking"
 <td style="text-align:center;">2</td>
 <td style="text-align:center;">250 000</td>
 </tr>
-<tr class="page page-0" style="display:none;">
-<td style="text-align:center;">50</td>
+<tr class="page page-1" style="display:none;">
+<td style="text-align:center;">59</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/NED.gif" width="20"></td>
+<td style="text-align:left;">ZIJLAARD Maikel</td>
+<td style="text-align:center;">01/06/1999</td>
+<td style="text-align:center;">TUD</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">250 000</td>
+</tr>
+<tr class="page page-1" style="display:none;">
+<td style="text-align:center;">60</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
+<td style="text-align:left;">TORRES CASTELLANOS Edwin Yair</td>
+<td style="text-align:center;">14/02/1997</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">250 000</td>
+</tr>
+<tr class="page page-1" style="display:none;">
+<td style="text-align:center;">61</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/BEL.gif" width="20"></td>
+<td style="text-align:left;">TAMINIAUX Lionel</td>
+<td style="text-align:center;">21/05/1996</td>
+<td style="text-align:center;">LOI</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">100 000</td>
+</tr>
+<tr class="page page-1" style="display:none;">
+<td style="text-align:center;">62</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/BEL.gif" width="20"></td>
+<td style="text-align:left;">SANTY Arne</td>
+<td style="text-align:center;">20/10/2000</td>
+<td style="text-align:center;">TIS</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">100 000</td>
+</tr>
+<tr class="page page-1" style="display:none;">
+<td style="text-align:center;">63</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td>
 <td style="text-align:left;">HOPKINS Dylan</td>
 <td style="text-align:center;">23/09/2001</td>
 <td style="text-align:center;">ROI</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">2</td>
-<td style="text-align:center;">250 000</td>
+<td style="text-align:center;">100 000</td>
 </tr>
 <tr class="page page-1" style="display:none;">
-<td style="text-align:center;">51</td>
+<td style="text-align:center;">64</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
 <td style="text-align:left;">RUJANO VELAZQUEZ Jeison Jose</td>
 <td style="text-align:center;">18/08/2001</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">2</td>
-<td style="text-align:center;">250 000</td>
+<td style="text-align:center;">100 000</td>
 </tr>
 <tr class="page page-1" style="display:none;">
-<td style="text-align:center;">52</td>
+<td style="text-align:center;">65</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/GER.gif" width="20"></td>
+<td style="text-align:left;">TEUTENBERG Tim Torn</td>
+<td style="text-align:center;">19/06/2002</td>
+<td style="text-align:center;">LTK</td>
+<td style="text-align:center;">OFFICINA BOCCETTINI CC</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">100 000</td>
+</tr>
+<tr class="page page-1" style="display:none;">
+<td style="text-align:center;">66</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
 <td style="text-align:left;">VILLASMIL PEÑA Alexander</td>
 <td style="text-align:center;">27/02/1999</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">1</td>
-<td style="text-align:center;">250 000</td>
+<td style="text-align:center;">100 000</td>
 </tr>
 <tr class="page page-1" style="display:none;">
-<td style="text-align:center;">53</td>
-<td style="text-align:center;"><img src="https://cqranking.com/common/flags/COL.gif" width="20"></td>
-<td style="text-align:left;">GOMEZ JARAMILLO Nicolas David</td>
-<td style="text-align:center;">27/05/2000</td>
-<td style="text-align:center;">GES</td>
+<td style="text-align:center;">67</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/BEL.gif" width="20"></td>
+<td style="text-align:left;">LAURYSSEN Yorben</td>
+<td style="text-align:center;">25/01/2002</td>
+<td style="text-align:center;">TIS</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">1</td>
-<td style="text-align:center;">250 000</td>
+<td style="text-align:center;">100 000</td>
 </tr>
 <tr class="page page-1" style="display:none;">
-<td style="text-align:center;">54</td>
+<td style="text-align:center;">68</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/CYP.gif" width="20"></td>
 <td style="text-align:left;">MILTIADIS Andreas</td>
 <td style="text-align:center;">30/08/1996</td>
 <td style="text-align:center;">QPT</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">1</td>
-<td style="text-align:center;">250 000</td>
+<td style="text-align:center;">100 000</td>
 </tr>
 <tr class="page page-1" style="display:none;">
-<td style="text-align:center;">55</td>
+<td style="text-align:center;">69</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/GRE.gif" width="20"></td>
+<td style="text-align:left;">BOUGLAS Georgios</td>
+<td style="text-align:center;">17/11/1990</td>
+<td style="text-align:center;">BBH</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">100 000</td>
+</tr>
+<tr class="page page-1" style="display:none;">
+<td style="text-align:center;">70</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/COL.gif" width="20"></td>
+<td style="text-align:left;">GOMEZ JARAMILLO Nicolas David</td>
+<td style="text-align:center;">27/05/2000</td>
+<td style="text-align:center;">GES</td>
+<td style="text-align:center;">-</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">100 000</td>
+</tr>
+<tr class="page page-1" style="display:none;">
+<td style="text-align:center;">71</td>
+<td style="text-align:center;"><img src="https://cqranking.com/common/flags/NED.gif" width="20"></td>
+<td style="text-align:left;">VAN UDEN Casper</td>
+<td style="text-align:center;">22/07/2001</td>
+<td style="text-align:center;">TPP</td>
+<td style="text-align:center;">DPJ</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">100 000</td>
+</tr>
+<tr class="page page-1" style="display:none;">
+<td style="text-align:center;">72</td>
 <td style="text-align:center;"><img src="https://cqranking.com/common/flags/VEN.gif" width="20"></td>
 <td style="text-align:left;">GARCIA VERA Moises Alenjandro</td>
 <td style="text-align:center;">22/04/2005</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">-</td>
 <td style="text-align:center;">1</td>
-<td style="text-align:center;">250 000</td>
+<td style="text-align:center;">100 000</td>
 </tr>
 </tbody>
 </table>

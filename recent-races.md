@@ -3,9 +3,80 @@
 <div class="rss-scroll">
 
 <div class="rss-card">
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45404" target="_blank">Tour Down Under, Stage 2 : Norwood - Uraidla</a></div>
+<div class="rss-desc">Date: 22 Jan 2026 - Category: 2.WT1s
+
+
+1. VINE Jay (AUS/UAD)
+
+2. NARVAEZ PRADO Jhonatan Manuel (ECU/UAD)
+
+3. SCHMID Mauro (SUI/JAY)
+
+
+ Leader: VINE Jay (AUS/UAD)
+
+
+Now on CQranking.com: Top 138</div>
+</div>
+
+<div class="rss-card">
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45398" target="_blank">Pune Grand Tour, Stage 2 : Pune - Maval</a></div>
+<div class="rss-desc">Date: 21 Jan 2026 - Category: 2.2s
+
+
+1. MUDGWAY Luke (NZL/LNS)
+
+2. BETTLES Carter (AUS/ROI)
+
+3. LAURYSSEN Yorben (BEL/TIS)
+
+
+ Leader: MUDGWAY Luke (NZL/LNS)
+
+
+Now on CQranking.com: Top 10</div>
+</div>
+
+<div class="rss-card">
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45403" target="_blank">Tour Down Under, Stage 1 : Tanunda - Tanunda</a></div>
+<div class="rss-desc">Date: 21 Jan 2026 - Category: 2.WT1s
+
+
+1. LUND ANDRESEN Tobias (DEN/DCT)
+
+2. BRENNAN Matthew (GBR/TVL)
+
+3. WELSFORD Sam (AUS/IGD)
+
+
+ Leader: LUND ANDRESEN Tobias (DEN/DCT)
+
+
+Now on CQranking.com: Top 138</div>
+</div>
+
+<div class="rss-card">
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45397" target="_blank">Pune Grand Tour, Stage 1 : Mulshi - Haveli</a></div>
+<div class="rss-desc">Date: 20 Jan 2026 - Category: 2.2s
+
+
+1. MUDGWAY Luke (NZL/LNS)
+
+2. SANTY Arne (BEL/TIS)
+
+3. BOUGLAS Georgios (GRE/BBH)
+
+
+ Leader: MUDGWAY Luke (NZL/LNS)
+
+
+Now on CQranking.com: Top 10</div>
+</div>
+
+<div class="rss-card">
 <div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45402" target="_blank">Tour Down Under, Prologue : Adelaide I.T.T.</a></div>
-<div class="rss-date">20 Jan 2026</div>
-<pre class="rss-desc">Date: 20 Jan 2026 - Category: 2.WT1s
+<div class="rss-desc">Date: 20 Jan 2026 - Category: 2.WT1s
 
 
 1. WATSON Samuel (GBR/IGD)
@@ -18,13 +89,12 @@
  Leader: WATSON Samuel (GBR/IGD)
 
 
-Now on CQranking.com: Top 140</pre>
+Now on CQranking.com: Top 140</div>
 </div>
 
 <div class="rss-card">
 <div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45396" target="_blank">Pune Grand Tour, Prologue : Pune I.T.T.</a></div>
-<div class="rss-date">19 Jan 2026</div>
-<pre class="rss-desc">Date: 19 Jan 2026 - Category: 2.2s
+<div class="rss-desc">Date: 19 Jan 2026 - Category: 2.2s
 
 
 1. BROWNING Fergus (AUS/TSG)
@@ -37,13 +107,12 @@ Now on CQranking.com: Top 140</pre>
  Leader: BROWNING Fergus (AUS/TSG)
 
 
-Now on CQranking.com: Top 10</pre>
+Now on CQranking.com: Top 10</div>
 </div>
 
 <div class="rss-card">
 <div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45395" target="_blank">Vuelta al Tachira, General classification</a></div>
-<div class="rss-date">18 Jan 2026</div>
-<pre class="rss-desc">Date: 18 Jan 2026 - Category: 2.2
+<div class="rss-desc">Date: 18 Jan 2026 - Category: 2.2
 
 
 1. ABREU SOLER Jorge Luis (VEN/???)
@@ -54,13 +123,12 @@ Now on CQranking.com: Top 10</pre>
 
 
 
-Now on CQranking.com: Top 20</pre>
+Now on CQranking.com: Top 20</div>
 </div>
 
 <div class="rss-card">
 <div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45394" target="_blank">Vuelta al Tachira, Stage 10 : Ureña - San Cristobal</a></div>
-<div class="rss-date">18 Jan 2026</div>
-<pre class="rss-desc">Date: 18 Jan 2026 - Category: 2.2s
+<div class="rss-desc">Date: 18 Jan 2026 - Category: 2.2s
 
 
 1. GIL SANCHEZ Angel Alexander (COL/GES)
@@ -71,13 +139,12 @@ Now on CQranking.com: Top 20</pre>
 
 
 
-Now on CQranking.com: Top 10</pre>
+Now on CQranking.com: Top 10</div>
 </div>
 
 <div class="rss-card">
 <div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45344" target="_blank">National Championships Thailand (Thong Pha Phum) R.R.</a></div>
-<div class="rss-date">18 Jan 2026</div>
-<pre class="rss-desc">Date: 18 Jan 2026 - Category: NC5
+<div class="rss-desc">Date: 18 Jan 2026 - Category: NC5
 
 
 1. POULARD Athit (Baptiste) (THA/ROI)
@@ -88,13 +155,12 @@ Now on CQranking.com: Top 10</pre>
 
 
 
-Now on CQranking.com: Top 10</pre>
+Now on CQranking.com: Top 10</div>
 </div>
 
 <div class="rss-card">
 <div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45393" target="_blank">Vuelta al Tachira, Stage 9 : Junin - Junin</a></div>
-<div class="rss-date">17 Jan 2026</div>
-<pre class="rss-desc">Date: 17 Jan 2026 - Category: 2.2s
+<div class="rss-desc">Date: 17 Jan 2026 - Category: 2.2s
 
 
 1. no result (/???)
@@ -103,13 +169,12 @@ Now on CQranking.com: Top 10</pre>
  Leader: ABREU SOLER Jorge Luis (VEN/???)
 
 
-Now on CQranking.com: Top 1</pre>
+Now on CQranking.com: Top 1</div>
 </div>
 
 <div class="rss-card">
 <div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45392" target="_blank">Vuelta al Tachira, Stage 8 : Abejales - Capacho</a></div>
-<div class="rss-date">16 Jan 2026</div>
-<pre class="rss-desc">Date: 16 Jan 2026 - Category: 2.2s
+<div class="rss-desc">Date: 16 Jan 2026 - Category: 2.2s
 
 
 1. GIL BRICEÑO Gusneiver Jose (VEN/???)
@@ -122,13 +187,12 @@ Now on CQranking.com: Top 1</pre>
  Leader: ABREU SOLER Jorge Luis (VEN/???)
 
 
-Now on CQranking.com: Top 10</pre>
+Now on CQranking.com: Top 10</div>
 </div>
 
 <div class="rss-card">
 <div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45343" target="_blank">National Championships Thailand (Thong Pha Phum) I.T.T.</a></div>
-<div class="rss-date">16 Jan 2026</div>
-<pre class="rss-desc">Date: 16 Jan 2026 - Category: NCT5
+<div class="rss-desc">Date: 16 Jan 2026 - Category: NCT5
 
 
 1. POULARD Athit (Baptiste) (THA/ROI)
@@ -139,83 +203,7 @@ Now on CQranking.com: Top 10</pre>
 
 
 
-Now on CQranking.com: Top 5</pre>
-</div>
-
-<div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45391" target="_blank">Vuelta al Tachira, Stage 7 : Tariba - San Cristobal</a></div>
-<div class="rss-date">15 Jan 2026</div>
-<pre class="rss-desc">Date: 15 Jan 2026 - Category: 2.2U
-
-
-1. GOYO PIÑA Jesus Miguel (VEN/???)
-
-2. GOMEZ GOMEZ Camilo Andres (COL/GES)
-
-3. VILLASMIL PEÑA Alexander (VEN/???)
-
-
- Leader: ABREU SOLER Jorge Luis (VEN/???)
-
-
-Now on CQranking.com: Top 10</pre>
-</div>
-
-<div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45390" target="_blank">Vuelta al Tachira, Stage 6 : El Vigia - La Grita</a></div>
-<div class="rss-date">15 Jan 2026</div>
-<pre class="rss-desc">Date: 14 Jan 2026 - Category: 2.2s
-
-
-1. PAREDES LOPEZ Anderson Timoteo (VEN/???)
-
-2. FLOREZ LOPEZ Miguel Eduardo (COL/???)
-
-3. GOMEZ GOMEZ Camilo Andres (COL/GES)
-
-
- Leader: VILORIA VIERAS Enmanuel David (VEN/???)
-
-
-Now on CQranking.com: Top 10</pre>
-</div>
-
-<div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45389" target="_blank">Vuelta al Tachira, Stage 5 : Merida - Merida</a></div>
-<div class="rss-date">13 Jan 2026</div>
-<pre class="rss-desc">Date: 13 Jan 2026 - Category: 2.2s
-
-
-1. ROJAS VEGA Brandon Alejandro (COL/GES)
-
-2. ABREU SOLER Jorge Luis (VEN/???)
-
-3. MENDEZ PEREZ Diego Alejandro (VEN/???)
-
-
- Leader: VILORIA VIERAS Enmanuel David (VEN/???)
-
-
-Now on CQranking.com: Top 10</pre>
-</div>
-
-<div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45388" target="_blank">Vuelta al Tachira, Stage 4 : La Fria - Merida</a></div>
-<div class="rss-date">12 Jan 2026</div>
-<pre class="rss-desc">Date: 12 Jan 2026 - Category: 2.2s
-
-
-1. ABREU SOLER Jorge Luis (VEN/???)
-
-2. MENDEZ PEREZ Diego Alejandro (VEN/???)
-
-3. ROJAS VEGA Brandon Alejandro (COL/GES)
-
-
- Leader: VILORIA VIERAS Enmanuel David (VEN/???)
-
-
-Now on CQranking.com: Top 10</pre>
+Now on CQranking.com: Top 5</div>
 </div>
 
 </div>
