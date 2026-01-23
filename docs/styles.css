@@ -1,7 +1,10 @@
-.columns {
-  display: flex !important;
-  gap: 4rem;
-  flex-wrap: wrap;
+@media (max-width: 800px) {
+  .columns {
+    gap: 3rem;
+    display: flex !important;
+    flex-wrap: wrap;
+  }
+
 }
 
 /* Scrollable RSS container */
