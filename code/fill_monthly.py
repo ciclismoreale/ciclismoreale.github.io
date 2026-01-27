@@ -55,7 +55,7 @@ def scrollable_table(csv_file, output_file):
   background: white;
   font-weight: 600;
   text-align: left;
-  min-width: 220px;
+  min-width: 150px;
   z-index: 3;
 }}
 
