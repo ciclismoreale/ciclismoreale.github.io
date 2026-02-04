@@ -19,6 +19,8 @@ title: "Classifiche"
 ### Punti mensili*
 {{< include monthly_points.md >}}
 
+*\*valido per mesi già conclusi*
+
 ### Piazzamenti mensili*
 {{< include monthly_rank.md >}}
 

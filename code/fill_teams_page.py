@@ -206,7 +206,7 @@ for team in teams_sorted_alpha:
     quarto_content += '<table style="border-collapse:collapse;width:100%;">\n'
     quarto_content += '<thead><tr>\n'
 
-    headers = ["", "", "CQ", "Pre-season", "Net"]
+    headers = ["", "", "CQ", "Pre-asta", "Netti"]
     widths = ["40px", "220px", "50px", "80px", "50px"]
 
     for h, w in zip(headers, widths):
