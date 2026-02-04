@@ -3,123 +3,95 @@
 <div class="rss-scroll">
 
 <div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45404" target="_blank">Tour Down Under, Stage 2 : Norwood - Uraidla</a></div>
-<div class="rss-desc">Date: 22 Jan 2026 - Category: 2.WT1s
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45368" target="_blank">GP La Marseillaise</a></div>
+<div class="rss-desc">Date: 1 Feb 2026 - Category: 1.1
 
 
-1. VINE Jay (AUS/UAD)
+1. COQUARD Bryan (FRA/COF)
 
-2. NARVAEZ PRADO Jhonatan Manuel (ECU/UAD)
+2. DE SCHUYTENEER Steffen (BEL/LOI)
 
-3. SCHMID Mauro (SUI/JAY)
-
-
- Leader: VINE Jay (AUS/UAD)
+3. MOLENAAR Alex (NED/CJR)
 
 
-Now on CQranking.com: Top 138</div>
+
+Now on CQranking.com: Top 124</div>
 </div>
 
 <div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45398" target="_blank">Pune Grand Tour, Stage 2 : Pune - Maval</a></div>
-<div class="rss-desc">Date: 21 Jan 2026 - Category: 2.2s
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45369" target="_blank">Trofeo Palma</a></div>
+<div class="rss-desc">Date: 1 Feb 2026 - Category: 1.1
 
 
-1. MUDGWAY Luke (NZL/LNS)
+1. MARIT Arne (BEL/RBH)
 
-2. BETTLES Carter (AUS/ROI)
+2. KANTER Max (GER/XAT)
 
-3. LAURYSSEN Yorben (BEL/TIS)
-
-
- Leader: MUDGWAY Luke (NZL/LNS)
+3. MAGAGNOTTI Alessio (ITA/RBC)
 
 
-Now on CQranking.com: Top 10</div>
+
+Now on CQranking.com: Top 133</div>
 </div>
 
 <div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45403" target="_blank">Tour Down Under, Stage 1 : Tanunda - Tanunda</a></div>
-<div class="rss-desc">Date: 21 Jan 2026 - Category: 2.WT1s
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45366" target="_blank">Trofeo Andratx - Pollença</a></div>
+<div class="rss-desc">Date: 31 Jan 2026 - Category: 1.1
+
+
+1. EVENEPOEL Remco (BEL/RBH)
+
+2. RONDEL Mathys (FRA/TUD)
+
+3. VAN GILS Maxim (BEL/RBH)
+
+
+
+Now on CQranking.com: Top 100</div>
+</div>
+
+<div class="rss-card">
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45367" target="_blank">Cadel Evans Great Ocean Road Race</a></div>
+<div class="rss-desc">Date: 1 Feb 2026 - Category: 1.WT3
 
 
 1. LUND ANDRESEN Tobias (DEN/DCT)
 
 2. BRENNAN Matthew (GBR/TVL)
 
-3. WELSFORD Sam (AUS/IGD)
+3. GILMORE Brady (AUS/NSN)
 
 
- Leader: LUND ANDRESEN Tobias (DEN/DCT)
 
-
-Now on CQranking.com: Top 138</div>
+Now on CQranking.com: Top 112</div>
 </div>
 
 <div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45397" target="_blank">Pune Grand Tour, Stage 1 : Mulshi - Haveli</a></div>
-<div class="rss-desc">Date: 20 Jan 2026 - Category: 2.2s
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45422" target="_blank">AlUla Tour, General classification</a></div>
+<div class="rss-desc">Date: 31 Jan 2026 - Category: 2.PS
 
 
-1. MUDGWAY Luke (NZL/LNS)
+1. CHRISTEN Jan (SUI/UAD)
 
-2. SANTY Arne (BEL/TIS)
+2. HIGUITA GARCIA Sergio Andres (COL/XAT)
 
-3. BOUGLAS Georgios (GRE/BBH)
-
-
- Leader: MUDGWAY Luke (NZL/LNS)
+3. ARRIETA LIZARRAGA Igor (ESP/UAD)
 
 
-Now on CQranking.com: Top 10</div>
+
+Now on CQranking.com: Top 104</div>
 </div>
 
 <div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45402" target="_blank">Tour Down Under, Prologue : Adelaide I.T.T.</a></div>
-<div class="rss-desc">Date: 20 Jan 2026 - Category: 2.WT1s
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45421" target="_blank">AlUla Tour, Stage 5 : AlUla - Harrat Uwayrid</a></div>
+<div class="rss-desc">Date: 31 Jan 2026 - Category: 2.PSs
 
 
-1. WATSON Samuel (GBR/IGD)
+1. CHRISTEN Jan (SUI/UAD)
 
-2. VERNON Ethan (GBR/NSN)
+2. MUNTON Byron (RSA/MAP)
 
-3. PITHIE Laurence (NZL/RBH)
-
-
- Leader: WATSON Samuel (GBR/IGD)
-
-
-Now on CQranking.com: Top 140</div>
-</div>
-
-<div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45396" target="_blank">Pune Grand Tour, Prologue : Pune I.T.T.</a></div>
-<div class="rss-desc">Date: 19 Jan 2026 - Category: 2.2s
-
-
-1. BROWNING Fergus (AUS/TSG)
-
-2. HOPKINS Dylan (AUS/ROI)
-
-3. MILTIADIS Andreas (CYP/QPT)
-
-
- Leader: BROWNING Fergus (AUS/TSG)
-
-
-Now on CQranking.com: Top 10</div>
-</div>
-
-<div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45395" target="_blank">Vuelta al Tachira, General classification</a></div>
-<div class="rss-desc">Date: 18 Jan 2026 - Category: 2.2
-
-
-1. ABREU SOLER Jorge Luis (VEN/???)
-
-2. MENDEZ PEREZ Diego Alejandro (VEN/???)
-
-3. ROJAS VEGA Brandon Alejandro (COL/GES)
+3. ARRIETA LIZARRAGA Igor (ESP/UAD)
 
 
 
@@ -127,83 +99,103 @@ Now on CQranking.com: Top 20</div>
 </div>
 
 <div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45394" target="_blank">Vuelta al Tachira, Stage 10 : Ureña - San Cristobal</a></div>
-<div class="rss-desc">Date: 18 Jan 2026 - Category: 2.2s
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45365" target="_blank">Trofeo Serra Tramuntana</a></div>
+<div class="rss-desc">Date: 30 Jan 2026 - Category: 1.1
 
 
-1. GIL SANCHEZ Angel Alexander (COL/GES)
+1. EVENEPOEL Remco (BEL/RBH)
 
-2. GOYO PIÑA Jesus Miguel (VEN/???)
+2. MORGADO Antonio Tomas (POR/UAD)
 
-3. MENDEZ PEREZ Diego Alejandro (VEN/???)
+3. SCARONI Christian (ITA/XAT)
 
 
 
-Now on CQranking.com: Top 10</div>
+Now on CQranking.com: Top 112</div>
 </div>
 
 <div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45344" target="_blank">National Championships Thailand (Thong Pha Phum) R.R.</a></div>
-<div class="rss-desc">Date: 18 Jan 2026 - Category: NC5
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45420" target="_blank">AlUla Tour, Stage 4 : AlUla - Hegra</a></div>
+<div class="rss-desc">Date: 30 Jan 2026 - Category: 2.PSs
 
 
-1. POULARD Athit (Baptiste) (THA/ROI)
+1. MALUCELLI Matteo (ITA/XAT)
 
-2. SUPAN Aphisit (THA/TCC)
+2. MILAN Jonathan (ITA/LTK)
 
-3. SIRIRONNACHAI Sarawut (THA/???)
+3. BIESTERBOS Frits (NED/TPP)
 
 
+ Leader: VOISARD Yannis (SUI/TUD)
 
-Now on CQranking.com: Top 10</div>
+
+Now on CQranking.com: Top 20</div>
 </div>
 
 <div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45393" target="_blank">Vuelta al Tachira, Stage 9 : Junin - Junin</a></div>
-<div class="rss-desc">Date: 17 Jan 2026 - Category: 2.2s
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45362" target="_blank">Trofeo Calvia</a></div>
+<div class="rss-desc">Date: 28 Jan 2026 - Category: 1.1
 
 
-1. no result (/???)
+1. MORGADO Antonio Tomas (POR/UAD)
+
+2. ALVAREZ MARTINEZ Hector (ESP/LTF)
+
+3. HOLTER Aadne (NOR/UXM)
 
 
- Leader: ABREU SOLER Jorge Luis (VEN/???)
 
-
-Now on CQranking.com: Top 1</div>
+Now on CQranking.com: Top 95</div>
 </div>
 
 <div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45392" target="_blank">Vuelta al Tachira, Stage 8 : Abejales - Capacho</a></div>
-<div class="rss-desc">Date: 16 Jan 2026 - Category: 2.2s
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45363" target="_blank">Trofeo Ses Salines - Sant Jordi T.T.T.</a></div>
+<div class="rss-desc">Date: 29 Jan 2026 - Category: 1.1
 
 
-1. GIL BRICEÑO Gusneiver Jose (VEN/???)
+1. Red Bull - BORA - hansgrohe
 
-2. GALVIZ GARCIA Carlos Johan (VEN/???)
+2. Movistar Team
 
-3. MENDEZ PEREZ Diego Alejandro (VEN/???)
+3. Team Jayco - AlUla
 
-
- Leader: ABREU SOLER Jorge Luis (VEN/???)
-
-
-Now on CQranking.com: Top 10</div>
+Now on CQranking.com: Top 21</div>
 </div>
 
 <div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45343" target="_blank">National Championships Thailand (Thong Pha Phum) I.T.T.</a></div>
-<div class="rss-desc">Date: 16 Jan 2026 - Category: NCT5
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45419" target="_blank">AlUla Tour, Stage 3 : AlUla - Bir Jaydah Mountain Wirkah</a></div>
+<div class="rss-desc">Date: 29 Jan 2026 - Category: 2.PSs
 
 
-1. POULARD Athit (Baptiste) (THA/ROI)
+1. VOISARD Yannis (SUI/TUD)
 
-2. LADNGERN Peerapong (THA/ROI)
+2. EULALIO Afonso (POR/TBV)
 
-3. CHAWCHIANGKWANG Peerapol (THA/TCC)
+3. HIGUITA GARCIA Sergio Andres (COL/XAT)
 
 
+ Leader: VOISARD Yannis (SUI/TUD)
 
-Now on CQranking.com: Top 5</div>
+
+Now on CQranking.com: Top 20</div>
+</div>
+
+<div class="rss-card">
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45418" target="_blank">AlUla Tour, Stage 2 : Al Manshiya - Al Manshiya</a></div>
+<div class="rss-desc">Date: 28 Jan 2026 - Category: 2.PSs
+
+
+1. MILAN Jonathan (ITA/LTK)
+
+2. SKERL Daniel (ITA/TBV)
+
+3. ACKERMANN Pascal (GER/JAY)
+
+
+ Leader: MILAN Jonathan (ITA/LTK)
+
+
+Now on CQranking.com: Top 20</div>
 </div>
 
 </div>
