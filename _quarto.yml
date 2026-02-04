@@ -11,6 +11,8 @@ website:
       - classifica.qmd
       - squadre.qmd
       - cq_ranking.qmd
+    right:
+      - medagliere.qmd
   announcement: 
     icon: info-circle
     dismissable: false
