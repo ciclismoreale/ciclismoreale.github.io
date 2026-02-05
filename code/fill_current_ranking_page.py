@@ -97,7 +97,7 @@ with open(output_file, "w", encoding="utf-8") as f:
         dob = row["Date of birth"] if pd.notna(row["Date of birth"]) else ""
         true_team = row["Team"] if pd.notna(row["Team"]) else ""
         fanta_team = row["Fantasquadra"]
-        cq_pts = row["CQ"]
+        cq_pts = int(row["CQ"])
         base_asta_value = row["Base d'asta"]
         base_asta = f'{base_asta_value:,}'.replace(",", " ")
 
