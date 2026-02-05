@@ -10,7 +10,7 @@ import time
 CHROMEDRIVER_PATH = "/usr/bin/chromedriver"
 PAGE_SIZE = 100
 MAX_RIDERS = 5000
-BASE_URL = "https://cqranking.com/men/asp/gen/cqRankingRider.asp?year=2026&current=0&start={}"
+BASE_URL = "https://cqranking.com/men/asp/gen/cqRankingRider.asp?year=2026&current=1&start={}"
 # ----------------------------------------
 
 # Chrome setup
@@ -102,5 +102,5 @@ driver.quit()
 
 # Save to CSV
 df = pd.DataFrame(all_data, columns=headers)
-df.to_csv("data/cqranking_riders.csv", index=False, encoding="utf-8")
+df.to_csv("data/current_cqranking_riders.csv", index=False, encoding="utf-8")
 print(f"Scraping complete. Saved {len(df)} riders.")

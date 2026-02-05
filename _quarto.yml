@@ -12,6 +12,7 @@ website:
       - squadre.qmd
       - cq_ranking.qmd
     right:
+      - current_cq_ranking.qmd
       - medagliere.qmd
   announcement: 
     icon: info-circle

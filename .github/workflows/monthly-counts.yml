@@ -29,7 +29,9 @@ jobs:
       - name: Run scraping & content scripts
         run: |
           python code/scrape_cq_ranking.py
+          python code/scrape_current_cq_ranking.py
           python code/fill_ranking_page.py
+          python code/fill_current_ranking_page.py
           python code/fill_teams_page.py
           python code/update_monthly.py
           python code/rss_news.py

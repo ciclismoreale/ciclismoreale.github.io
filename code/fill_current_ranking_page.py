@@ -3,9 +3,9 @@ import math
 import json
 
 # ----------------- FILE PATHS -----------------
-csv_file = "data/cqranking_riders.csv"
+csv_file = "data/current_cqranking_riders.csv"
 teams_json = "data/teams.json"
-output_file = "c_cq_ranking.md"
+output_file = "c_current_cq_ranking.md"
 
 # ----------------- READ CSV -----------------
 df = pd.read_csv(csv_file)
@@ -29,6 +29,27 @@ def get_fantateam(rider):
 
 df["Fantasquadra"] = df["Rider"].apply(get_fantateam)
 
+# ----------------- ADD BASE D'ASTA COLUMN -----------------
+def compute_base_asta(rank):
+    if pd.isna(rank):
+        return ""
+    rank = int(rank)
+    if rank <= 10:
+        return 1_000_000
+    elif rank <= 20:
+        return 750_000
+    elif rank <= 40:
+        return 500_000
+    elif rank <= 60:
+        return 250_000
+    elif rank <= 80:
+        return 100_000
+    elif rank <= 100:
+        return 50_000
+    else:
+        return 30_000
+
+df["Base d'asta"] = df["Rank"].apply(compute_base_asta)
 
 # ----------------- PAGINATION -----------------
 ROWS_PER_PAGE = 100
@@ -48,6 +69,7 @@ with open(output_file, "w", encoding="utf-8") as f:
         "Squadra",
         "Fantasquadra",
         "CQ pts",
+        "Base d'asta"
     ]
 
     widths = [
@@ -58,6 +80,7 @@ with open(output_file, "w", encoding="utf-8") as f:
         "80px",
         "180px",
         "60px",
+        "90px"
     ]
 
     for h, w in zip(headers, widths):
@@ -75,6 +98,8 @@ with open(output_file, "w", encoding="utf-8") as f:
         true_team = row["Team"] if pd.notna(row["Team"]) else ""
         fanta_team = row["Fantasquadra"]
         cq_pts = row["CQ"]
+        base_asta_value = row["Base d'asta"]
+        base_asta = f'{base_asta_value:,}'.replace(",", " ")
 
         f.write(
             f'<tr class="page page-{page}" style="display:none;">\n'
@@ -85,6 +110,7 @@ with open(output_file, "w", encoding="utf-8") as f:
             f'<td style="text-align:center;">{true_team}</td>\n'
             f'<td style="text-align:center;">{fanta_team}</td>\n'
             f'<td style="text-align:center;">{cq_pts}</td>\n'
+            f'<td style="text-align:center;">{base_asta}</td>\n'
             '</tr>\n'
         )
 

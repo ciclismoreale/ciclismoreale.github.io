@@ -1,0 +1,6 @@
+---
+title: "CQ Ranking attuale"
+---
+<hr>
+
+{{< include c_current_cq_ranking.md >}}
