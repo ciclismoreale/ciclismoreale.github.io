@@ -74,7 +74,7 @@ with open(output_file, "w", encoding="utf-8") as f:
         dob = row["Date of birth"] if pd.notna(row["Date of birth"]) else ""
         true_team = row["Team"] if pd.notna(row["Team"]) else ""
         fanta_team = row["Fantasquadra"]
-        cq_pts = int(row["CQ"])
+        cq_pts = row["CQ"]
 
         f.write(
             f'<tr class="page page-{page}" style="display:none;">\n'
