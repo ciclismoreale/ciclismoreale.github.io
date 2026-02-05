@@ -1,6 +1,6 @@
 ### AG2R LA COMUNALE <span style='float:right'> CQ pts: 277</span>
 
-**Budget:** 306 500 $
+**Budget:** 3 065 000 $
 <details>
 <summary>Corridori</summary>
 <table style="border-collapse:collapse;width:100%;">
@@ -250,7 +250,7 @@
 <tr><td style="text-align:center;"></td><td style="text-align:left;">THOMAS Geraint</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 </tbody></table>
 </details>
-### LEGNANO <span style='float:right'> CQ pts: 477</span>
+### LEGNANO <span style='float:right'> CQ pts: 482</span>
 
 **Budget:** 2 117 500 $
 <details>
@@ -272,6 +272,7 @@
 <tr><td style="text-align:center;"><img src="https://cqranking.com/common/flags/NED.gif" width="20"></td><td style="text-align:left;">VAN POPPEL Danny</td><td style="text-align:center;">15</td><td style="text-align:center;">0</td><td style="text-align:center;">15</td></tr>
 <tr><td style="text-align:center;"><img src="https://cqranking.com/common/flags/SUI.gif" width="20"></td><td style="text-align:left;">KÜNG Stefan</td><td style="text-align:center;">8</td><td style="text-align:center;">0</td><td style="text-align:center;">8</td></tr>
 <tr><td style="text-align:center;"><img src="https://cqranking.com/common/flags/SWE.gif" width="20"></td><td style="text-align:left;">SÖDERQVIST Jakob</td><td style="text-align:center;">5</td><td style="text-align:center;">0</td><td style="text-align:center;">5</td></tr>
+<tr><td style="text-align:center;"><img src="https://cqranking.com/common/flags/IRL.gif" width="20"></td><td style="text-align:left;">DUNBAR Edward</td><td style="text-align:center;">5</td><td style="text-align:center;">0</td><td style="text-align:center;">5</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">DE LIE Arnaud</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">MARTINEZ Lenny</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">ARENSMAN Thymen</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
@@ -281,14 +282,13 @@
 <tr><td style="text-align:center;"></td><td style="text-align:left;">GEOGHEGAN HART Tao</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">THIJSSEN Gerben</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">BENNETT Sam</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
-<tr><td style="text-align:center;"></td><td style="text-align:left;">DUNBAR Eddie</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">MARTINEZ POVEDA Daniel Felipe</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">GELDERS Gil</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 </tbody></table>
 </details>
 ### MARTINONE UNO <span style='float:right'> CQ pts: 312</span>
 
-**Budget:** 158 500 $
+**Budget:** 1 585 000 $
 <details>
 <summary>Corridori</summary>
 <table style="border-collapse:collapse;width:100%;">
@@ -379,7 +379,7 @@
 <tr><td style="text-align:center;"><img src="https://cqranking.com/common/flags/DEN.gif" width="20"></td><td style="text-align:left;">CORT NIELSEN Magnus</td><td style="text-align:center;">7</td><td style="text-align:center;">0</td><td style="text-align:center;">7</td></tr>
 <tr><td style="text-align:center;"><img src="https://cqranking.com/common/flags/GER.gif" width="20"></td><td style="text-align:left;">TEUTENBERG Tim Torn</td><td style="text-align:center;">6</td><td style="text-align:center;">0</td><td style="text-align:center;">6</td></tr>
 <tr><td style="text-align:center;"><img src="https://cqranking.com/common/flags/DEN.gif" width="20"></td><td style="text-align:left;">FOLDAGER Anders</td><td style="text-align:center;">5</td><td style="text-align:center;">0</td><td style="text-align:center;">5</td></tr>
-<tr><td style="text-align:center;"></td><td style="text-align:left;">VINGEGAARD RASMUSSEN Jonas</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
+<tr><td style="text-align:center;"></td><td style="text-align:left;">VINGEGAARD HANSEN Jonas</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">GEE Derek</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">PELLIZZARI Giulio</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">PARET-PEINTRE Aurélien</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
@@ -430,7 +430,7 @@
 <tr><td style="text-align:center;"></td><td style="text-align:left;">JAKOBSEN Fabio</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 </tbody></table>
 </details>
-### S. PIETROBAUDO <span style='float:right'> CQ pts: 521</span>
+### S. PIETROBAUDO <span style='float:right'> CQ pts: 524</span>
 
 **Budget:** 2 172 000 $
 <details>
@@ -449,6 +449,7 @@
 <tr><td style="text-align:center;"><img src="https://cqranking.com/common/flags/FRA.gif" width="20"></td><td style="text-align:left;">JEANNIERE Emilien</td><td style="text-align:center;">49</td><td style="text-align:center;">0</td><td style="text-align:center;">49</td></tr>
 <tr><td style="text-align:center;"><img src="https://cqranking.com/common/flags/POL.gif" width="20"></td><td style="text-align:left;">KWIATKOWSKI Michal</td><td style="text-align:center;">10</td><td style="text-align:center;">0</td><td style="text-align:center;">10</td></tr>
 <tr><td style="text-align:center;"><img src="https://cqranking.com/common/flags/NED.gif" width="20"></td><td style="text-align:left;">TEUNISSEN Mike</td><td style="text-align:center;">3</td><td style="text-align:center;">0</td><td style="text-align:center;">3</td></tr>
+<tr><td style="text-align:center;"><img src="https://cqranking.com/common/flags/RUS.gif" width="20"></td><td style="text-align:left;">VLASOV Aleksandr</td><td style="text-align:center;">3</td><td style="text-align:center;">0</td><td style="text-align:center;">3</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">ALMEIDA Joao Pedro Gonçalves</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">PEDERSEN Mads</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">YATES Simon</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
@@ -460,13 +461,12 @@
 <tr><td style="text-align:center;"></td><td style="text-align:left;">TEUNS Dylan</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">WIDAR Jarno</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">BUCHMANN Emanuel</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
-<tr><td style="text-align:center;"></td><td style="text-align:left;">VLASOV Aleksandr</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">STAUNE-MITTET Johannes</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">HERZOG Emil</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">FAURE PROST Alexy</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 </tbody></table>
 </details>
-### SANROMARIANO <span style='float:right'> CQ pts: 970</span>
+### SANROMARIANO <span style='float:right'> CQ pts: 1003</span>
 
 **Budget:** 3 392 500 $
 <details>
@@ -486,6 +486,7 @@
 <tr><td style="text-align:center;"><img src="https://cqranking.com/common/flags/COL.gif" width="20"></td><td style="text-align:left;">HIGUITA GARCIA Sergio Andres</td><td style="text-align:center;">120</td><td style="text-align:center;">0</td><td style="text-align:center;">120</td></tr>
 <tr><td style="text-align:center;"><img src="https://cqranking.com/common/flags/AUS.gif" width="20"></td><td style="text-align:left;">MATTHEWS Michael</td><td style="text-align:center;">90</td><td style="text-align:center;">0</td><td style="text-align:center;">90</td></tr>
 <tr><td style="text-align:center;"><img src="https://cqranking.com/common/flags/NOR.gif" width="20"></td><td style="text-align:left;">KULSET Johannes</td><td style="text-align:center;">52</td><td style="text-align:center;">0</td><td style="text-align:center;">52</td></tr>
+<tr><td style="text-align:center;"><img src="https://cqranking.com/common/flags/ERI.gif" width="20"></td><td style="text-align:left;">GIRMAY HAILU Biniam</td><td style="text-align:center;">33</td><td style="text-align:center;">0</td><td style="text-align:center;">33</td></tr>
 <tr><td style="text-align:center;"><img src="https://cqranking.com/common/flags/ESP.gif" width="20"></td><td style="text-align:left;">MAS NICOLAU Enric</td><td style="text-align:center;">12</td><td style="text-align:center;">0</td><td style="text-align:center;">12</td></tr>
 <tr><td style="text-align:center;"><img src="https://cqranking.com/common/flags/FRA.gif" width="20"></td><td style="text-align:left;">COSNEFROY Benoit</td><td style="text-align:center;">9</td><td style="text-align:center;">0</td><td style="text-align:center;">9</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">DEL TORO ROMERO Isaac</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
@@ -494,7 +495,6 @@
 <tr><td style="text-align:center;"></td><td style="text-align:left;">GREGOIRE Romain</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">KOOIJ Olav</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">POWLESS Neilson</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
-<tr><td style="text-align:center;"></td><td style="text-align:left;">GIRMAY HAILU Biniam</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">LAPEIRA Paul</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">HAYTER Ethan</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>
 <tr><td style="text-align:center;"></td><td style="text-align:left;">ADRIA OLIVERAS Roger</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td><td style="text-align:center;">0</td></tr>

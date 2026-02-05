@@ -3,6 +3,126 @@
 <div class="rss-scroll">
 
 <div class="rss-card">
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45430" target="_blank">Volta a la Comunitat Valenciana, Stage 2 : Carlet - Alginet I.T.T.</a></div>
+<div class="rss-desc">Date: 5 Feb 2026 - Category: 2.PSs
+
+
+1. EVENEPOEL Remco (BEL/RBH)
+
+2. VLASOV Aleksandr (RUS/RBH)
+
+3. VACEK Mathias (CZE/LTK)
+
+
+ Leader: GIRMAY HAILU Biniam (ERI/NSN)
+
+
+Now on CQranking.com: Top 20</div>
+</div>
+
+<div class="rss-card">
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45351" target="_blank">National Championships Colombia (Zipaquirá) I.T.T.</a></div>
+<div class="rss-desc">Date: 5 Feb 2026 - Category: NCT3
+
+
+1. RIVERA VARGAS Brandon Smith (COL/IGD)
+
+2. MARTINEZ POVEDA Daniel Felipe (COL/RBH)
+
+3. CONTRERAS PINZON Rodrigo (COL/TNC)
+
+
+
+Now on CQranking.com: Top 20</div>
+</div>
+
+<div class="rss-card">
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45349" target="_blank">National Championships South Africa (Midvaal) I.T.T.</a></div>
+<div class="rss-desc">Date: 5 Feb 2026 - Category: NCT4
+
+
+1. DE BOD Stefan (RSA/MAP)
+
+2. MUNTON Byron (RSA/MAP)
+
+3. HATHERLY Alan (RSA/JAY)
+
+
+
+Now on CQranking.com: Top 10</div>
+</div>
+
+<div class="rss-card">
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45424" target="_blank">Etoile de Bessèges / Tour du Gard, Stage 2 : Saint-Gilles - Domessargues</a></div>
+<div class="rss-desc">Date: 5 Feb 2026 - Category: 2.1s
+
+
+1. KOCKELMANN Mathieu (LUX/LOI)
+
+2. GROENEWEGEN Dylan (NED/URR)
+
+3. MOSCHETTI Matteo (ITA/PQT)
+
+
+ Leader: CRABBE Tom (BEL/TFB)
+
+
+Now on CQranking.com: Top 20</div>
+</div>
+
+<div class="rss-card">
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45345" target="_blank">National Championships New Zealand (Cambridge) I.T.T.</a></div>
+<div class="rss-desc">Date: 5 Feb 2026 - Category: NCT3
+
+
+1. FISHER-BLACK Finn (NZL/RBH)
+
+2. HADEN Glenn (NZL/???)
+
+3. ROBERTS Reef (NZL/CGF)
+
+
+
+Now on CQranking.com: Top 20</div>
+</div>
+
+<div class="rss-card">
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45429" target="_blank">Volta a la Comunitat Valenciana, Stage 1 : Segorre - Torreblanca</a></div>
+<div class="rss-desc">Date: 4 Feb 2026 - Category: 2.PSs
+
+
+1. GIRMAY HAILU Biniam (ERI/NSN)
+
+2. MARIT Arne (BEL/RBH)
+
+3. LONARDI Giovanni (ITA/PTV)
+
+
+ Leader: GIRMAY HAILU Biniam (ERI/NSN)
+
+
+Now on CQranking.com: Top 20</div>
+</div>
+
+<div class="rss-card">
+<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45423" target="_blank">Etoile de Bessèges / Tour du Gard, Stage 1 : Bellegarde - Bellegarde</a></div>
+<div class="rss-desc">Date: 4 Feb 2026 - Category: 2.1s
+
+
+1. CRABBE Tom (BEL/TFB)
+
+2. KUBIS Lukas (SVK/URR)
+
+3. IZQUIERDO Clément (FRA/COF)
+
+
+ Leader: CRABBE Tom (BEL/TFB)
+
+
+Now on CQranking.com: Top 20</div>
+</div>
+
+<div class="rss-card">
 <div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45368" target="_blank">GP La Marseillaise</a></div>
 <div class="rss-desc">Date: 1 Feb 2026 - Category: 1.1
 
@@ -15,7 +135,7 @@
 
 
 
-Now on CQranking.com: Top 124</div>
+Now on CQranking.com: Top 125</div>
 </div>
 
 <div class="rss-card">
@@ -80,122 +200,6 @@ Now on CQranking.com: Top 112</div>
 
 
 Now on CQranking.com: Top 104</div>
-</div>
-
-<div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45421" target="_blank">AlUla Tour, Stage 5 : AlUla - Harrat Uwayrid</a></div>
-<div class="rss-desc">Date: 31 Jan 2026 - Category: 2.PSs
-
-
-1. CHRISTEN Jan (SUI/UAD)
-
-2. MUNTON Byron (RSA/MAP)
-
-3. ARRIETA LIZARRAGA Igor (ESP/UAD)
-
-
-
-Now on CQranking.com: Top 20</div>
-</div>
-
-<div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45365" target="_blank">Trofeo Serra Tramuntana</a></div>
-<div class="rss-desc">Date: 30 Jan 2026 - Category: 1.1
-
-
-1. EVENEPOEL Remco (BEL/RBH)
-
-2. MORGADO Antonio Tomas (POR/UAD)
-
-3. SCARONI Christian (ITA/XAT)
-
-
-
-Now on CQranking.com: Top 112</div>
-</div>
-
-<div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45420" target="_blank">AlUla Tour, Stage 4 : AlUla - Hegra</a></div>
-<div class="rss-desc">Date: 30 Jan 2026 - Category: 2.PSs
-
-
-1. MALUCELLI Matteo (ITA/XAT)
-
-2. MILAN Jonathan (ITA/LTK)
-
-3. BIESTERBOS Frits (NED/TPP)
-
-
- Leader: VOISARD Yannis (SUI/TUD)
-
-
-Now on CQranking.com: Top 20</div>
-</div>
-
-<div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45362" target="_blank">Trofeo Calvia</a></div>
-<div class="rss-desc">Date: 28 Jan 2026 - Category: 1.1
-
-
-1. MORGADO Antonio Tomas (POR/UAD)
-
-2. ALVAREZ MARTINEZ Hector (ESP/LTF)
-
-3. HOLTER Aadne (NOR/UXM)
-
-
-
-Now on CQranking.com: Top 95</div>
-</div>
-
-<div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45363" target="_blank">Trofeo Ses Salines - Sant Jordi T.T.T.</a></div>
-<div class="rss-desc">Date: 29 Jan 2026 - Category: 1.1
-
-
-1. Red Bull - BORA - hansgrohe
-
-2. Movistar Team
-
-3. Team Jayco - AlUla
-
-Now on CQranking.com: Top 21</div>
-</div>
-
-<div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45419" target="_blank">AlUla Tour, Stage 3 : AlUla - Bir Jaydah Mountain Wirkah</a></div>
-<div class="rss-desc">Date: 29 Jan 2026 - Category: 2.PSs
-
-
-1. VOISARD Yannis (SUI/TUD)
-
-2. EULALIO Afonso (POR/TBV)
-
-3. HIGUITA GARCIA Sergio Andres (COL/XAT)
-
-
- Leader: VOISARD Yannis (SUI/TUD)
-
-
-Now on CQranking.com: Top 20</div>
-</div>
-
-<div class="rss-card">
-<div class="rss-title"><a href="http://www.cqranking.com/men/asp/gen/race.asp?raceid=45418" target="_blank">AlUla Tour, Stage 2 : Al Manshiya - Al Manshiya</a></div>
-<div class="rss-desc">Date: 28 Jan 2026 - Category: 2.PSs
-
-
-1. MILAN Jonathan (ITA/LTK)
-
-2. SKERL Daniel (ITA/TBV)
-
-3. ACKERMANN Pascal (GER/JAY)
-
-
- Leader: MILAN Jonathan (ITA/LTK)
-
-
-Now on CQranking.com: Top 20</div>
 </div>
 
 </div>
