@@ -4,3 +4,5 @@ title: "CQ Ranking attuale"
 <hr>
 
 {{< include c_current_cq_ranking.md >}}
+
+**NOTA:** Questa pagina si aggiorna mensilmente.
