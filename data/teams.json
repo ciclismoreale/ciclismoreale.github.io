@@ -24,7 +24,12 @@
         "VAN BAARLE Dylan",
         "JORGENSON Matteo",
         "NARVAEZ PRADO Jhonatan Manuel"
-      ]
+      ],
+      "preseason": {
+        "CRESCIOLI Ludovico": 14,
+        "VANSEVENANT Mauri": 81,
+        "PEDERSEN Rasmus Søjberg": 3
+      }
     },
     {
       "name": "BERGERO NEXT GEN",
@@ -76,7 +81,9 @@
         "COSTA Rui Alberto Faria",
         "WALSCHEID Maximilian",
         "WILLIAMS Stephen"
-      ]
+      ],
+      "preseason": {
+      }
     },
     {
       "name": "DPJ",
@@ -102,7 +109,9 @@
         "VERGALLITO Luca",
         "HAGENES Per Strand",
         "SVRCEK Martin"
-      ]
+      ],
+      "preseason": {
+      }
     },
     {
       "name": "GIANCICLI WW",
@@ -128,7 +137,9 @@
         "REMIJN Senna",
         "GRUEL Thibaud",
         "VENDRAME Andrea"
-      ]
+      ],
+      "preseason": {
+      }
     },
     {
       "name": "GONDAVERI",
@@ -154,7 +165,10 @@
         "PERICAS CAPDEVILA Adria",
         "ROWE Elliot",
         "MATTIO Pietro"
-      ]
+      ],
+      "preseason": {
+        "GAVIRIA RENDON Fernando": 15
+      }
     },
     {
       "name": "LEGNANO",
@@ -180,7 +194,10 @@
         "DUNBAR Edward",
         "MARTINEZ POVEDA Daniel Felipe",
         "HOBBS Noah"
-      ]
+      ],
+      "preseason": {
+        "THIJSSEN Gerben": 10
+      }
     },
     {
       "name": "MARTINONE UNO",
@@ -206,7 +223,13 @@
         "GRAAT Tijmen",
         "LOPEZ GRANIZO Harold Martin",
         "OMRZEL Jakob"
-      ]
+      ],
+      "preseason": {
+        "GARCIA CORTINA Ivan": 14,
+        "OLDANI Stefano": 12,
+        "SCHULTZ Nicholas": 10,
+        "VENDRAME Andrea": 124
+      }
     },
     {
       "name": "MASTRO BIRRAIO GCP",
@@ -232,7 +255,12 @@
         "MARIT Arne",
         "MIHKELS Madis",
         "NERURKAR Lukas"
-      ]
+      ],
+      "preseason": {
+        "VADER Milan": 20,
+        "ROTA Lorenzo": 23,
+        "POELS Wout": 6
+      }
     },
     {
       "name": "PANETTERIA BERGERO",
@@ -258,7 +286,11 @@
         "TUCKWELL Luke",
         "WRIGHT Fred",
         "JAKOBSEN Fabio"
-      ]
+      ],
+      "preseason": {
+        "FABBRO Matteo": 15,
+        "MOSCON Gianni": 20
+      }
     },
     {
       "name": "OFFICINA BOCCETTINI CC",
@@ -284,7 +316,10 @@
         "VINGEGAARD HANSEN Jonas",
         "ZANA Filippo",
         "WATSON Samuel"
-      ]
+      ],
+      "preseason": {
+        "HERREGODTS Rune": 25
+      }
     },
     {
       "name": "S. PIETROBAUDO",
@@ -310,7 +345,10 @@
         "STAUNE-MITTET Johannes",
         "HERZOG Emil",
         "FAURE PROST Alexy"
-      ]
+      ],
+      "preseason": {
+        "TEUNISSEN Mike": 3
+      }
     },
     {
       "name": "SANROMARIANO",
@@ -336,7 +374,10 @@
         "ALVAREZ MARTINEZ Hector",
         "COSNEFROY Benoit",
         "SPARFEL Aubin"
-      ]
+      ],
+      "preseason": {
+        "HIGUITA GARCIA Sergio Andres": 120
+      }
     },
     {
       "name": "TOPINA M.B.",
@@ -362,7 +403,11 @@
         "ISIDORE Noa",
         "ØRN-KRISTOFF Felix",
         "BEHRENS Niklas"
-      ]
+      ],
+      "preseason": {
+        "HAIG Jack": 10,
+        "RUTSCH Jonas": 5
+      }
     }
   ]
 }

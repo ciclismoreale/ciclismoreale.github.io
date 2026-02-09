@@ -85,7 +85,13 @@ for team in teams_data["teams"]:
             int(cq_pre),
             int(net_cq)
         ])
+    # add pre-season riders
+    preseason = ""
+    for rider, points in team["preseason"].items():
+        total_points += points
+        preseason += f"{rider} ({points}) "
 
+    
     # Sort riders by net points descending
     riders_info.sort(key=lambda x: x[4], reverse=True)
 
@@ -97,7 +103,8 @@ for team in teams_data["teams"]:
         "total_points": int(total_points),
         "monthly_points": int(monthly_points),
         "riders_info": riders_info,
-        "budget": team["budget"]
+        "budget": team["budget"],
+        "preseason": preseason
     })
 
 # =========================
@@ -224,8 +231,12 @@ for team in teams_sorted_alpha:
             f'<td style="text-align:center;">{net}</td>'
             '</tr>\n'
         )
-
-    quarto_content += '</tbody></table>\n</details>\n'
+    quarto_content += '</tbody></table>\n'
+    if team["preseason"] != "":
+        quarto_content += "**Pre-asta: **"
+        quarto_content += team["preseason"]
+        quarto_content += '\n'
+    quarto_content += '</details>\n'
 
 with open(quarto_file, "w", encoding="utf-8") as f:
     f.write(quarto_content)
