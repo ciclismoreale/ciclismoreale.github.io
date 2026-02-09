@@ -17,7 +17,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: false
-    content: "Sistemone in costruzione, portate pazienza!"
+    content: "**SQUADRE DA AGGIORNARE** Sistemone in costruzione, portate pazienza!"
     type: primary
     position: below-navbar
 
