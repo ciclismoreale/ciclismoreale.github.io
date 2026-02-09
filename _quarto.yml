@@ -15,9 +15,9 @@ website:
       - current_cq_ranking.qmd
       - medagliere.qmd
   announcement: 
-    icon: info-circle
+    icon: exclamation-triangle
     dismissable: false
-    content: "**SQUADRE DA AGGIORNARE** Sistemone in costruzione, portate pazienza!"
+    content: "**SQUADRE AGGIORNATE:** controllate spelling dei nomi e budget!"
     type: primary
     position: below-navbar
 
