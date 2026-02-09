@@ -2,6 +2,8 @@
 title: "Ciao!"
 ---
 
+**SQUADRE DA AGGIORNARE**
+
 ::: {.main-content}
 {{< include last_updated.md >}}
 
