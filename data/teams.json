@@ -1,8 +1,34 @@
 {
   "teams": [
     {
-      "name": "AG2R LA COMUNALE",
-      "budget": 3065000,
+      "name": "BABY YODA - OSF",
+      "budget": 1880000,
+      "riders": [
+        "PHILIPSEN Jasper",
+        "LUND ANDRESEN Tobias",
+        "FRETIN Milan",
+        "PIGANZOLI Davide",
+        "BENOOT Tiesj",
+        "CHRISTEN Fabio",
+        "ZAMBANINI Edoardo",
+        "CASTRILLO ZAPATER Pablo",
+        "BARONCINI Filippo",
+        "VAN EETVELT Lennert",
+        "RAMIREZ TORRES Mateo Pablo",
+        "ARRIETA LIZARRAGA Igor",
+        "BRENNER Marco",
+        "DOUBLE Paul",
+        "GARCIA PIERNA Raul",
+        "GAROFOLI Gianmarco",
+        "TORRES ARIAS Pablo",
+        "VAN BAARLE Dylan",
+        "JORGENSON Matteo",
+        "NARVAEZ PRADO Jhonatan Manuel"
+      ]
+    },
+    {
+      "name": "BERGERO NEXT GEN",
+      "budget": 1050000,
       "riders": [
         "POGACAR Tadej",
         "ONLEY Oscar",
@@ -18,43 +44,17 @@
         "NAESEN Oliver",
         "LUTSENKO Alexey",
         "BENNETT George",
-        "DEKKER David",
-        "MASNADA Fausto",
+        "GUALDI Simone",
+        "SCARONI Christian",
         "CONSONNI Simone",
         "KRON Andreas Lorentz",
         "GIAIMI Luca",
-        "SCHELLING Ide"
-      ]
-    },
-    {
-      "name": "CYBER RACING TEAM",
-      "budget": 2315000,
-      "riders": [
-        "NARVAEZ PRADO Jhonatan Manuel",
-        "JORGENSON Matteo",
-        "VELASCO Simone",
-        "FEDOROV Yevgeniy",
-        "TESFATSION Natnael Ocbit",
-        "ARRIETA LIZARRAGA Igor",
-        "MIHKELS Madis",
-        "LOPEZ PEREZ Juan Pedro",
-        "CATTANEO Mattia",
-        "STEWART Jake",
-        "MILESI Lorenzo",
-        "CAPIOT Amaury",
-        "CAVAGNA Rémi",
-        "NIZZOLO Giacomo",
-        "EWAN Caleb",
-        "DEGENKOLB John",
-        "MORO Manlio",
-        "VAN DER HOORN Taco",
-        "CLARKE Simon",
-        "DINHAM Matthew"
+        "RACCAGNI NOVIERO Simone"
       ]
     },
     {
       "name": "DAINESTO PAGILLO",
-      "budget": 2025000,
+      "budget": 2000000,
       "riders": [
         "VAN DER POEL Mathieu",
         "GALL Felix",
@@ -80,7 +80,7 @@
     },
     {
       "name": "DPJ",
-      "budget": 2835000,
+      "budget": 2000000,
       "riders": [
         "AYUSO PESQUERA Juan",
         "VAUQUELIN Kévin",
@@ -106,7 +106,7 @@
     },
     {
       "name": "GIANCICLI WW",
-      "budget": 1506000,
+      "budget": 1090000,
       "riders": [
         "EVENEPOEL Remco",
         "VAN AERT Wout",
@@ -121,13 +121,13 @@
         "PARET PEINTRE Valentin",
         "GAUDU David",
         "BOL Cees",
-        "BARDET Romain",
+        "IZAGIRRE INSAUSTI Ion",
         "DE PRETTO Davide",
         "SENECHAL Florian",
         "KRIJNSEN Jelte",
-        "LAZKANO LOPEZ Oier",
-        "SANCHEZ MAYO Pelayo",
-        "RONHAAR Pim"
+        "REMIJN Senna",
+        "GRUEL Thibaud",
+        "VENDRAME Andrea"
       ]
     },
     {
@@ -145,46 +145,20 @@
         "BAGIOLI Andrea",
         "BLACKMORE Joseph",
         "ANDERSEN Søren Kragh",
-        "FORMOLO Davide",
+        "AGOSTINACCHIO Mattia",
         "FINN Lorenzo",
         "ZINGLE Axel",
         "HATHERLY Alan",
         "POLITT Nils",
         "VALJAVEC Erazem",
-        "GAVIRIA RENDON Fernando",
-        "BATTISTELLA Samuele",
+        "PERICAS CAPDEVILA Adria",
+        "ROWE Elliot",
         "MATTIO Pietro"
       ]
     },
     {
-      "name": "HAVANA KHARMA KUOTA",
-      "budget": 1330000,
-      "riders": [
-        "PHILIPSEN Jasper",
-        "LUND ANDRESEN Tobias",
-        "FRETIN Milan",
-        "PIGANZOLI Davide",
-        "BENOOT Tiesj",
-        "CHRISTEN Fabio",
-        "ZAMBANINI Edoardo",
-        "CASTRILLO ZAPATER Pablo",
-        "BARONCINI Filippo",
-        "VAN EETVELT Lennert",
-        "DONOVAN Mark",
-        "MOLLEMA Bauke",
-        "BRENNER Marco",
-        "PEDERSEN Rasmus Søjberg",
-        "CRESCIOLI Ludovico",
-        "VALTER Attila",
-        "TORRES ARIAS Pablo",
-        "VAN BAARLE Dylan",
-        "VANSEVENANT Mauri",
-        "THOMAS Geraint"
-      ]
-    },
-    {
       "name": "LEGNANO",
-      "budget": 2117500,
+      "budget": 1210000,
       "riders": [
         "DE LIE Arnaud",
         "MAGNIER Paul",
@@ -201,16 +175,16 @@
         "RUBIO REYES Einer Augusto",
         "SÖDERQVIST Jakob",
         "GEOGHEGAN HART Tao",
-        "THIJSSEN Gerben",
-        "BENNETT Sam",
+        "CRABBE Tom",
+        "DECOMBLE Maxime",
         "DUNBAR Edward",
         "MARTINEZ POVEDA Daniel Felipe",
-        "GELDERS Gil"
+        "HOBBS Noah"
       ]
     },
     {
       "name": "MARTINONE UNO",
-      "budget": 1585000,
+      "budget": 1290000,
       "riders": [
         "HEALY Ben",
         "HINDLEY Jai",
@@ -219,24 +193,24 @@
         "VENTURINI Clément",
         "EEKHOFF Nils",
         "TARLING Joshua",
-        "VENDRAME Andrea",
+        "ASKEY Lewis",
         "WELSFORD Sam",
-        "GARCIA CORTINA Ivan",
+        "ETXEBERRIA ANSALAS Haimar",
         "BAUDIN Alex",
         "VERMAERKE Kevin",
         "POOLE Max",
         "GAUTHERAT Pierre",
-        "MOLARD Rudy",
+        "FREDHEIM Stian",
         "PAGE Hugo",
-        "OLDANI Stefano",
+        "KOPECKY Matyas",
         "GRAAT Tijmen",
-        "SWIFT Connor",
-        "SCHULTZ Nicholas"
+        "LOPEZ GRANIZO Harold Martin",
+        "OMRZEL Jakob"
       ]
     },
     {
-      "name": "MASTRO BIRRAIO & PURITO GCP",
-      "budget": 1670000,
+      "name": "MASTRO BIRRAIO GCP",
+      "budget": 1330000,
       "riders": [
         "MERLIER Tim",
         "ROGLIC Primoz",
@@ -249,46 +223,20 @@
         "MENTEN Milan",
         "BERCKMOES Jenno",
         "FISHER-BLACK Finn",
-        "POELS Wout",
+        "DE SCHUYTENEER Steffen",
         "VAN DEN BROEK Frank",
         "KIELICH Timo",
         "PITHIE Laurence",
         "KÄMNA Lennard",
-        "ROTA Lorenzo",
-        "VADER Milan",
-        "DEWULF Stan",
-        "VAN DE PAAR Jarne"
-      ]
-    },
-    {
-      "name": "OFFICINA BOCCETTINI CC",
-      "budget": 1230000,
-      "riders": [
-        "VINGEGAARD HANSEN Jonas",
-        "GEE-WEST Derek",
-        "PELLIZZARI Giulio",
-        "PARET-PEINTRE Aurélien",
-        "GROVES Kaden",
-        "CORT NIELSEN Magnus",
-        "THOMAS Benjamin",
-        "TEUTENBERG Tim Torn",
-        "ALBANESE Vincenzo",
-        "ZANA Filippo",
-        "LAMPERTI Luke",
-        "LAFAY Victor",
-        "FOLDAGER Anders",
-        "DE GENDT Aimé",
-        "VAN ASBROECK Tom",
-        "BRAMBILLA Gianluca",
-        "STEINHAUSER Georg",
-        "HERREGODTS Rune",
-        "HIRT Jan",
-        "BOUDAT Thomas"
+        "KUBIS Lukas",
+        "MARIT Arne",
+        "MIHKELS Madis",
+        "NERURKAR Lukas"
       ]
     },
     {
       "name": "PANETTERIA BERGERO",
-      "budget": 1452000,
+      "budget": 1060000,
       "riders": [
         "CICCONE Giulio",
         "SKJELMOSE JENSEN Mattias",
@@ -304,30 +252,56 @@
         "GLOAG Thomas",
         "BUSATTO Francesco",
         "AUGUST Andrew",
-        "CHAVES RUBIO Jhoan Esteban",
+        "NOVAK Pavel",
         "AFFINI Edoardo",
         "SERRANO RODRIGUEZ Gonzalo",
-        "FABBRO Matteo",
-        "MOSCON Gianni",
+        "TUCKWELL Luke",
+        "WRIGHT Fred",
         "JAKOBSEN Fabio"
       ]
     },
     {
+      "name": "OFFICINA BOCCETTINI CC",
+      "budget": 1150000,
+      "riders": [
+        "ALBANESE Vincenzo",
+        "CORT NIELSEN Magnus",
+        "COSTIOU Ewen",
+        "DE GENDT Aimé",
+        "FOLDAGER Anders",
+        "GEE-WEST Derek",
+        "GROVES Kaden",
+        "LAFAY Victor",
+        "LAMPERTI Luke",
+        "MOSCHETTI Matteo",
+        "MULUBRHAN Henok",
+        "PARET-PEINTRE Aurélien",
+        "PELLIZZARI Giulio",
+        "STEINHAUSER Georg",
+        "TEUTENBERG Tim Torn",
+        "THOMAS Benjamin",
+        "VAN ASBROECK Tom",
+        "VINGEGAARD HANSEN Jonas",
+        "ZANA Filippo",
+        "WATSON Samuel"
+      ]
+    },
+    {
       "name": "S. PIETROBAUDO",
-      "budget": 2172000,
+      "budget": 1870000,
       "riders": [
         "ALMEIDA Joao Pedro Gonçalves",
         "PEDERSEN Mads",
         "VINE Jay",
         "JEANNIERE Emilien",
-        "YATES Simon",
+        "TURNER Ben",
         "CARAPAZ MONTENEGRO Richard Antonio",
-        "TEUNISSEN Mike",
+        "JEGAT Jordan",
         "SCHACHMANN Maximilian",
         "STUYVEN Jasper",
         "VAN GILS Maxim",
         "BAUHAUS Phil",
-        "DEMARE Arnaud",
+        "RONDEL Mathys",
         "TEUNS Dylan",
         "WIDAR Jarno",
         "KWIATKOWSKI Michal",
@@ -340,7 +314,7 @@
     },
     {
       "name": "SANROMARIANO",
-      "budget": 3392500,
+      "budget": 830000,
       "riders": [
         "DEL TORO ROMERO Isaac",
         "PIDCOCK Thomas",
@@ -359,14 +333,14 @@
         "HAYTER Ethan",
         "ADRIA OLIVERAS Roger",
         "NORDHAGEN Jørgen",
-        "HIGUITA GARCIA Sergio Andres",
+        "ALVAREZ MARTINEZ Hector",
         "COSNEFROY Benoit",
-        "FIETZKE Paul"
+        "SPARFEL Aubin"
       ]
     },
     {
       "name": "TOPINA M.B.",
-      "budget": 1745000,
+      "budget": 1580000,
       "riders": [
         "STORER Michael",
         "HIRSCHI Marc",
@@ -377,16 +351,16 @@
         "KUSS Sepp",
         "SEGAERT Alec",
         "SOBRERO Matteo",
-        "IZAGIRRE INSAUSTI Ion",
+        "BARRY Ashlin",
         "BISSEGGER Stefan",
         "BISIAUX Léo",
-        "RUTSCH Jonas",
+        "BARRE Louis",
         "ROLLAND Brieuc",
         "BJERG Mikkel",
-        "HAIG Jack",
+        "MOURIS Michiel",
         "RAFFERTY Darren",
         "ISIDORE Noa",
-        "PEDERSEN Henrik Breiner",
+        "ØRN-KRISTOFF Felix",
         "BEHRENS Niklas"
       ]
     }
