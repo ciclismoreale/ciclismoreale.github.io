@@ -3,9 +3,6 @@ import numpy as np
 import json
 import os
 
-# ------------------
-# paths
-# ------------------
 mon_rank_path = "data/monthly_rank.csv"
 mon_points_path = "data/monthly_points.csv"
 current_month_path = "data/mensile.csv"
