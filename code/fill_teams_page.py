@@ -1,9 +1,7 @@
 import json
 import pandas as pd
 
-# =========================
 # Paths
-# =========================
 json_file = "data/teams.json"
 csv_file = "data/cqranking_riders.csv"
 csv_file_pre = "data/cqranking_riders_preseason.csv"
@@ -18,9 +16,7 @@ ranking_html_file_monthly = "classifica_mensile.html"
 ranking_csv_total = "data/totale.csv"
 ranking_csv_monthly = "data/mensile.csv"
 
-# =========================
 # Load data
-# =========================
 with open(json_file, "r", encoding="utf-8") as f:
     teams_data = json.load(f)
 
@@ -33,7 +29,7 @@ df_pre["Rider"] = df_pre["Rider"].astype(str).str.strip()
 
 df_monthly["team"] = df_monthly["Squadra"].astype(str).str.strip()
 
-# Pre-season lookup
+# Pre-season
 preseason_points = (
     df_pre.set_index("Rider")["CQ"]
     .fillna(0)
@@ -41,7 +37,7 @@ preseason_points = (
     .to_dict()
 )
 
-# Monthly lookup (points BEFORE this month)
+# Monthly points
 monthly_base_points = (
     df_monthly.set_index("team")["Totale"]
     .fillna(0)
@@ -49,9 +45,7 @@ monthly_base_points = (
     .to_dict()
 )
 
-# =========================
 # Compute team points
-# =========================
 teams_points = []
 
 for team in teams_data["teams"]:
@@ -107,9 +101,7 @@ for team in teams_data["teams"]:
         "preseason": preseason
     })
 
-# =========================
 # HTML builders
-# =========================
 medals = ["🥇", "🥈", "🥉", "🪵"]
 
 def build_html_ranking(teams_sorted, title=None, small=False):
@@ -146,9 +138,7 @@ def build_html_ranking(teams_sorted, title=None, small=False):
     parts.append('</tbody></table></div>')
     return "".join(parts)
 
-# =========================
-# TOTAL ranking
-# =========================
+# Total ranking
 total_sorted = sorted(
     teams_points, key=lambda x: x["total_points"], reverse=True
 )
@@ -169,9 +159,7 @@ with open(ranking_html_file_big, "w", encoding="utf-8") as f:
 with open(ranking_html_file_small, "w", encoding="utf-8") as f:
     f.write(total_html_small)
 
-# =========================
-# MONTHLY ranking
-# =========================
+# Monthly ranking
 monthly_sorted = sorted(
     teams_points, key=lambda x: x["monthly_points"], reverse=True
 )
@@ -183,9 +171,7 @@ monthly_html = build_html_ranking(
 with open(ranking_html_file_monthly, "w", encoding="utf-8") as f:
     f.write(monthly_html)
 
-# =========================
 # CSV outputs
-# =========================
 pd.DataFrame([
     {"Rank": i + 1, "Squadra": t["name"], "Punti": t["total_points"]}
     for i, t in enumerate(total_sorted)
@@ -196,9 +182,7 @@ pd.DataFrame([
     for i, t in enumerate(monthly_sorted)
 ]).to_csv(ranking_csv_monthly, index=False)
 
-# =========================
-# Quarto output (unchanged)
-# =========================
+# Quarto output
 teams_sorted_alpha = sorted(teams_points, key=lambda x: x["name"].lower())
 quarto_content = ""
 
@@ -240,5 +224,3 @@ for team in teams_sorted_alpha:
 
 with open(quarto_file, "w", encoding="utf-8") as f:
     f.write(quarto_content)
-
-print("Total & monthly rankings (HTML + CSV) generated successfully.")

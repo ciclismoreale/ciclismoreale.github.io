@@ -10,18 +10,17 @@ output_file = "c_cq_ranking.md"
 # ----------------- READ CSV -----------------
 df = pd.read_csv(csv_file)
 
-# ----------------- LOAD FANTA-TEAMS -----------------
+# ----------------- LOAD TEAMS -----------------
 with open(teams_json, "r", encoding="utf-8") as jf:
     teams_data = json.load(jf)
 
-# rider -> fanta-team lookup (case-insensitive)
 rider_to_fantateam = {}
 for team in teams_data.get("teams", []):
     team_name = team.get("name", "-")
     for rider in team.get("riders", []):
         rider_to_fantateam[rider.upper()] = team_name
 
-# ----------------- ADD FANTASQUADRA COLUMN -----------------
+# ----------------- FANTASQUADRA -----------------
 def get_fantateam(rider):
     if pd.isna(rider):
         return "-"
@@ -125,4 +124,3 @@ showPage(0);
 </script>
 """)
 
-print(f"Paginated table written to '{output_file}'")

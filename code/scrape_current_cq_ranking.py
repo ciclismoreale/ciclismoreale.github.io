@@ -42,7 +42,6 @@ while total_rank <= MAX_RIDERS:
         print("No table found. Stopping.")
         break
 
-    # Extract headers from <th> row (only once)
     if not headers:
         ths = table.find_elements(By.XPATH, ".//tr[1]/th")
         headers = [th.text.strip() for th in ths if th.text.strip()]
@@ -63,7 +62,6 @@ while total_rank <= MAX_RIDERS:
         row_data = []
         flag_url = ""
 
-        # Extract text and flag image
         for c in cells:
             img = c.find_elements(By.TAG_NAME, "img")
             if img:
@@ -76,7 +74,6 @@ while total_rank <= MAX_RIDERS:
         if not row_data:
             continue
 
-        # Replace rank with continuous rank
         row_data[0] = str(total_rank)
         # Insert flag
         row_data.insert(2, flag_url)
@@ -90,17 +87,16 @@ while total_rank <= MAX_RIDERS:
         page_data.append(row_data)
         total_rank += 1
 
-        # Stop if we've reached MAX_RIDERS
+        # Stop if MAX_RIDERS reached
         if total_rank > MAX_RIDERS:
             break
 
     all_data.extend(page_data)
-    start_rank += PAGE_SIZE  # Move to next page
+    start_rank += PAGE_SIZE  # next page
     time.sleep(0.01)
 
 driver.quit()
 
-# Save to CSV
 df = pd.DataFrame(all_data, columns=headers)
 df.to_csv("data/current_cqranking_riders.csv", index=False, encoding="utf-8")
 print(f"Scraping complete. Saved {len(df)} riders.")
