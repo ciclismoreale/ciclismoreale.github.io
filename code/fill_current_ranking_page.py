@@ -99,6 +99,7 @@ with open(output_file, "w", encoding="utf-8") as f:
         try:
             cq_pts = int(row["CQ"])
         except:
+            print(row)
             cq_pts = "-"
         base_asta_value = row["Base d'asta"]
         base_asta = f'{base_asta_value:,}'.replace(",", " ")

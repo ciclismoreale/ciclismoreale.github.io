@@ -76,6 +76,7 @@ with open(output_file, "w", encoding="utf-8") as f:
         try:
             cq_pts = int(row["CQ"])
         except:
+            print(row)
             cq_pts = "-"
 
         f.write(
