@@ -48,7 +48,10 @@ for team in teams_data["teams"]:
     # update rank
     rnk = int(current_month_df.at[i_cur, "Rank"])
     mon_rank_df.at[i_rank, month] = rnk
-    team["budget"] += 200000 - (rnk - 1) * 10000
+    if rnk < 5:
+        team["budget"] += 200000 - (rnk - 1) * 10000
+    else:
+        team["budget"] += 150000
 
     # update points
     pnt = int(current_month_df.at[i_cur, "Punti"])
