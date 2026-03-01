@@ -1,415 +1,411 @@
 {
-  "teams": [
-    {
-      "name": "BABY YODA - OSF",
-      "budget": 1880000,
-      "riders": [
-        "PHILIPSEN Jasper",
-        "LUND ANDRESEN Tobias",
-        "FRETIN Milan",
-        "PIGANZOLI Davide",
-        "BENOOT Tiesj",
-        "CHRISTEN Fabio",
-        "ZAMBANINI Edoardo",
-        "CASTRILLO ZAPATER Pablo",
-        "BARONCINI Filippo",
-        "VAN EETVELT Lennert",
-        "RAMIREZ TORRES Mateo Pablo",
-        "ARRIETA LIZARRAGA Igor",
-        "BRENNER Marco",
-        "DOUBLE Paul",
-        "GARCIA PIERNA Raul",
-        "GAROFOLI Gianmarco",
-        "TORRES ARIAS Pablo",
-        "VAN BAARLE Dylan",
-        "JORGENSON Matteo",
-        "NARVAEZ PRADO Jhonatan Manuel"
-      ],
-      "preseason": {
-        "CRESCIOLI Ludovico": 14,
-        "VANSEVENANT Mauri": 81,
-        "PEDERSEN Rasmus Søjberg": 3
-      }
-    },
-    {
-      "name": "BERGERO CORSE",
-      "budget": 1070000,
-      "riders": [
-        "POGACAR Tadej",
-        "ONLEY Oscar",
-        "MILAN Jonathan",
-        "SOLER GIMENEZ Marc",
-        "HERRADA LOPEZ Jesus",
-        "MOZZATO Luca",
-        "KONRAD Patrick",
-        "RYAN Archie",
-        "FOSS Tobias Svendsen",
-        "VAN MOER Brent",
-        "MAROLT Jaka",
-        "NAESEN Oliver",
-        "LUTSENKO Alexey",
-        "BENNETT George",
-        "GUALDI Simone",
-        "SCARONI Christian",
-        "CONSONNI Simone",
-        "KRON Andreas Lorentz",
-        "GIAIMI Luca",
-        "RACCAGNI NOVIERO Andrea"
-      ],
-      "preseason": {
-      }
-    },
-    {
-      "name": "DAINESTO PAGILLO",
-      "budget": 2000000,
-      "riders": [
-        "VAN DER POEL Mathieu",
-        "GALL Felix",
-        "GODON Dorian",
-        "SEIXAS Paul",
-        "SKUJINS Toms",
-        "PLAPP Lucas",
-        "LECERF William Junior",
-        "VACEK Mathias",
-        "GROSSSCHARTNER Felix",
-        "LANDA MEANA Mikel",
-        "BETTIOL Alberto",
-        "ENGELHARDT Felix",
-        "MOLANO BENAVIDES Juan Sebastian",
-        "TURGIS Anthony",
-        "LAPORTE Christophe",
-        "ASGREEN Kasper",
-        "ACKERMANN Pascal",
-        "COSTA Rui Alberto Faria",
-        "WALSCHEID Maximilian",
-        "WILLIAMS Stephen"
-      ],
-      "preseason": {
-      }
-    },
-    {
-      "name": "DPJ",
-      "budget": 2000000,
-      "riders": [
-        "AYUSO PESQUERA Juan",
-        "VAUQUELIN Kévin",
-        "ALAPHILIPPE Julian",
-        "SIVAKOV Pavel",
-        "VAN WILDER Ilan",
-        "SHEFFIELD Magnus",
-        "WITHEN PHILIPSEN Albert",
-        "HERMANS Quinten",
-        "MADOUAS Valentin",
-        "KRISTOFF Alexander",
-        "MOHORIC Matej",
-        "RODRIGUEZ CANO Carlos",
-        "BARGUIL Warren",
-        "VAN UDEN Casper",
-        "LEONARD Michael",
-        "LAMPAERT Yves",
-        "WOODS Michael",
-        "VERGALLITO Luca",
-        "HAGENES Per Strand",
-        "SVRCEK Martin"
-      ],
-      "preseason": {
-      }
-    },
-    {
-      "name": "GIANCICLI WW",
-      "budget": 1090000,
-      "riders": [
-        "EVENEPOEL Remco",
-        "VAN AERT Wout",
-        "WAERENSKJOLD Søren",
-        "BILBAO LOPEZ DE ARMENTIA Pello",
-        "GROENEWEGEN Dylan",
-        "TRENTIN Matteo",
-        "VAN DEN BERG Marijn",
-        "LAURANCE Axel",
-        "PENHOËT Paul",
-        "TILLER Rasmus Fossum",
-        "PARET PEINTRE Valentin",
-        "GAUDU David",
-        "BOL Cees",
-        "IZAGIRRE INSAUSTI Ion",
-        "DE PRETTO Davide",
-        "SENECHAL Florian",
-        "KRIJNSEN Jelte",
-        "REMIJN Senna",
-        "GRUEL Thibaud",
-        "VENDRAME Andrea"
-      ],
-      "preseason": {
-      }
-    },
-    {
-      "name": "GONDAVERI",
-      "budget": 1030000,
-      "riders": [
-        "GANNA Filippo",
-        "YATES Adam",
-        "WELLENS Tim",
-        "TULETT Ben",
-        "JOHANNESSEN Tobias Halland",
-        "ULISSI Diego",
-        "UIJTDEBROEKS Cian",
-        "MARTIN Guillaume",
-        "BAGIOLI Andrea",
-        "BLACKMORE Joseph",
-        "ANDERSEN Søren Kragh",
-        "AGOSTINACCHIO Mattia",
-        "FINN Lorenzo",
-        "ZINGLE Axel",
-        "HATHERLY Alan",
-        "POLITT Nils",
-        "VALJAVEC Erazem",
-        "PERICAS CAPDEVILA Adria",
-        "ROWE Elliot",
-        "MATTIO Pietro"
-      ],
-      "preseason": {
-        "GAVIRIA RENDON Fernando": 15
-      }
-    },
-    {
-      "name": "LEGNANO",
-      "budget": 1210000,
-      "riders": [
-        "DE LIE Arnaud",
-        "MAGNIER Paul",
-        "BRENNAN Matthew",
-        "MARTINEZ Lenny",
-        "ARENSMAN Thymen",
-        "ARANBURU DEVA Alexander",
-        "CHAMPOUSSIN Clément",
-        "ROMEO ABAD Ivan",
-        "VAN POPPEL Danny",
-        "VERNON Ethan",
-        "KÜNG Stefan",
-        "LEKNESSUND Andreas",
-        "RUBIO REYES Einer Augusto",
-        "SÖDERQVIST Jakob",
-        "GEOGHEGAN HART Tao",
-        "CRABBE Tom",
-        "DECOMBLE Maxime",
-        "DUNBAR Edward",
-        "MARTINEZ POVEDA Daniel Felipe",
-        "HOBBS Noah"
-      ],
-      "preseason": {
-        "THIJSSEN Gerben": 10
-      }
-    },
-    {
-      "name": "MARTINONE UNO",
-      "budget": 1290000,
-      "riders": [
-        "HEALY Ben",
-        "HINDLEY Jai",
-        "SILVA COUSSAN Guillermo Thomas",
-        "COVI Alessandro",
-        "VENTURINI Clément",
-        "EEKHOFF Nils",
-        "TARLING Joshua",
-        "ASKEY Lewis",
-        "WELSFORD Sam",
-        "ETXEBERRIA ANSALAS Haimar",
-        "BAUDIN Alex",
-        "VERMAERKE Kevin",
-        "POOLE Max",
-        "GAUTHERAT Pierre",
-        "FREDHEIM Stian",
-        "PAGE Hugo",
-        "KOPECKY Matyas",
-        "GRAAT Tijmen",
-        "LOPEZ GRANIZO Harold Martin",
-        "OMRZEL Jakob"
-      ],
-      "preseason": {
-        "GARCIA CORTINA Ivan": 14,
-        "OLDANI Stefano": 12,
-        "SCHULTZ Nicholas": 10,
-        "VENDRAME Andrea": 124
-      }
-    },
-    {
-      "name": "MASTRO BIRRAIO GCP",
-      "budget": 1330000,
-      "riders": [
-        "MERLIER Tim",
-        "ROGLIC Primoz",
-        "STRONG Corbin",
-        "MEEUS Jordi",
-        "BITTNER Pavel",
-        "BUITRAGO SANCHEZ Santiago",
-        "VERMEERSCH Florian",
-        "DEL GROSSO Tibor",
-        "MENTEN Milan",
-        "BERCKMOES Jenno",
-        "FISHER-BLACK Finn",
-        "DE SCHUYTENEER Steffen",
-        "VAN DEN BROEK Frank",
-        "KIELICH Timo",
-        "PITHIE Laurence",
-        "KÄMNA Lennard",
-        "KUBIS Lukas",
-        "MARIT Arne",
-        "MIHKELS Madis",
-        "NERURKAR Lukas"
-      ],
-      "preseason": {
-        "VADER Milan": 20,
-        "ROTA Lorenzo": 23,
-        "POELS Wout": 6
-      }
-    },
-    {
-      "name": "PANETTERIA BERGERO",
-      "budget": 1060000,
-      "riders": [
-        "CICCONE Giulio",
-        "SKJELMOSE JENSEN Mattias",
-        "LIPOWITZ Florian",
-        "BERNAL GOMEZ Egan Arley",
-        "FORTUNATO Lorenzo",
-        "SIMMONS Quinn",
-        "TIBERI Antonio",
-        "HOFSTETTER Hugo",
-        "BALLERINI Davide",
-        "DAINESE Alberto",
-        "FANCELLU Alessandro",
-        "GLOAG Thomas",
-        "BUSATTO Francesco",
-        "AUGUST Andrew",
-        "NOVAK Pavel",
-        "AFFINI Edoardo",
-        "SERRANO RODRIGUEZ Gonzalo",
-        "TUCKWELL Luke",
-        "WRIGHT Fred",
-        "JAKOBSEN Fabio"
-      ],
-      "preseason": {
-        "FABBRO Matteo": 15,
-        "MOSCON Gianni": 20
-      }
-    },
-    {
-      "name": "OFFICINA BOCCETTINI CC",
-      "budget": 1150000,
-      "riders": [
-        "ALBANESE Vincenzo",
-        "CORT NIELSEN Magnus",
-        "COSTIOU Ewen",
-        "DE GENDT Aimé",
-        "FOLDAGER Anders",
-        "GEE-WEST Derek",
-        "GROVES Kaden",
-        "LAFAY Victor",
-        "LAMPERTI Luke",
-        "MOSCHETTI Matteo",
-        "MULUBRHAN Henok",
-        "PARET-PEINTRE Aurélien",
-        "PELLIZZARI Giulio",
-        "STEINHAUSER Georg",
-        "TEUTENBERG Tim Torn",
-        "THOMAS Benjamin",
-        "VAN ASBROECK Tom",
-        "VINGEGAARD HANSEN Jonas",
-        "ZANA Filippo",
-        "WATSON Samuel"
-      ],
-      "preseason": {
-        "HERREGODTS Rune": 25
-      }
-    },
-    {
-      "name": "S. PIETROBAUDO",
-      "budget": 1870000,
-      "riders": [
-        "ALMEIDA Joao Pedro Gonçalves",
-        "PEDERSEN Mads",
-        "VINE Jay",
-        "JEANNIERE Emilien",
-        "TURNER Ben",
-        "CARAPAZ MONTENEGRO Richard Antonio",
-        "JEGAT Jordan",
-        "SCHACHMANN Maximilian",
-        "STUYVEN Jasper",
-        "VAN GILS Maxim",
-        "BAUHAUS Phil",
-        "RONDEL Mathys",
-        "TEUNS Dylan",
-        "WIDAR Jarno",
-        "KWIATKOWSKI Michal",
-        "BUCHMANN Emanuel",
-        "VLASOV Aleksandr",
-        "STAUNE-MITTET Johannes",
-        "HERZOG Emil",
-        "FAURE PROST Alexy"
-      ],
-      "preseason": {
-        "TEUNISSEN Mike": 3
-      }
-    },
-    {
-      "name": "SANROMARIANO",
-      "budget": 830000,
-      "riders": [
-        "DEL TORO ROMERO Isaac",
-        "PIDCOCK Thomas",
-        "MCNULTY Brandon",
-        "GREGOIRE Romain",
-        "KOOIJ Olav",
-        "POWLESS Neilson",
-        "MATTHEWS Michael",
-        "GIRMAY HAILU Biniam",       
-        "CHRISTEN Jan",
-        "SCHMID Mauro",
-        "MORGADO Antonio Tomas",
-        "KULSET Johannes",
-        "LAPEIRA Paul",
-        "MAS NICOLAU Enric",
-        "HAYTER Ethan",
-        "ADRIA OLIVERAS Roger",
-        "NORDHAGEN Jørgen",
-        "ALVAREZ MARTINEZ Hector",
-        "COSNEFROY Benoit",
-        "SPARFEL Aubin"
-      ],
-      "preseason": {
-        "HIGUITA GARCIA Sergio Andres": 120
-      }
-    },
-    {
-      "name": "TOPINA M.B.",
-      "budget": 1580000,
-      "riders": [
-        "STORER Michael",
-        "HIRSCHI Marc",
-        "ABRAHAMSEN Jonas",
-        "RICCITELLO Matthew",
-        "O'CONNOR Ben",
-        "NYS Thibau",
-        "KUSS Sepp",
-        "SEGAERT Alec",
-        "SOBRERO Matteo",
-        "BARRY Ashlin",
-        "BISSEGGER Stefan",
-        "BISIAUX Léo",
-        "BARRE Louis",
-        "ROLLAND Brieuc",
-        "BJERG Mikkel",
-        "MOURIS Michiel",
-        "RAFFERTY Darren",
-        "ISIDORE Noa",
-        "ØRN-KRISTOFF Felix",
-        "BEHRENS Niklas"
-      ],
-      "preseason": {
-        "HAIG Jack": 10,
-        "RUTSCH Jonas": 5
-      }
-    }
-  ]
+    "teams": [
+        {
+            "name": "BABY YODA - OSF",
+            "budget": 2050000,
+            "riders": [
+                "PHILIPSEN Jasper",
+                "LUND ANDRESEN Tobias",
+                "FRETIN Milan",
+                "PIGANZOLI Davide",
+                "BENOOT Tiesj",
+                "CHRISTEN Fabio",
+                "ZAMBANINI Edoardo",
+                "CASTRILLO ZAPATER Pablo",
+                "BARONCINI Filippo",
+                "VAN EETVELT Lennert",
+                "RAMIREZ TORRES Mateo Pablo",
+                "ARRIETA LIZARRAGA Igor",
+                "BRENNER Marco",
+                "DOUBLE Paul",
+                "GARCIA PIERNA Raul",
+                "GAROFOLI Gianmarco",
+                "TORRES ARIAS Pablo",
+                "VAN BAARLE Dylan",
+                "JORGENSON Matteo",
+                "NARVAEZ PRADO Jhonatan Manuel"
+            ],
+            "preseason": {
+                "CRESCIOLI Ludovico": 14,
+                "VANSEVENANT Mauri": 81,
+                "PEDERSEN Rasmus Søjberg": 3
+            }
+        },
+        {
+            "name": "BERGERO CORSE",
+            "budget": 1220000,
+            "riders": [
+                "POGACAR Tadej",
+                "ONLEY Oscar",
+                "MILAN Jonathan",
+                "SOLER GIMENEZ Marc",
+                "HERRADA LOPEZ Jesus",
+                "MOZZATO Luca",
+                "KONRAD Patrick",
+                "RYAN Archie",
+                "FOSS Tobias Svendsen",
+                "VAN MOER Brent",
+                "MAROLT Jaka",
+                "NAESEN Oliver",
+                "LUTSENKO Alexey",
+                "BENNETT George",
+                "GUALDI Simone",
+                "SCARONI Christian",
+                "CONSONNI Simone",
+                "KRON Andreas Lorentz",
+                "GIAIMI Luca",
+                "RACCAGNI NOVIERO Andrea"
+            ],
+            "preseason": {}
+        },
+        {
+            "name": "DAINESTO PAGILLO",
+            "budget": 2180000,
+            "riders": [
+                "VAN DER POEL Mathieu",
+                "GALL Felix",
+                "GODON Dorian",
+                "SEIXAS Paul",
+                "SKUJINS Toms",
+                "PLAPP Lucas",
+                "LECERF William Junior",
+                "VACEK Mathias",
+                "GROSSSCHARTNER Felix",
+                "LANDA MEANA Mikel",
+                "BETTIOL Alberto",
+                "ENGELHARDT Felix",
+                "MOLANO BENAVIDES Juan Sebastian",
+                "TURGIS Anthony",
+                "LAPORTE Christophe",
+                "ASGREEN Kasper",
+                "ACKERMANN Pascal",
+                "COSTA Rui Alberto Faria",
+                "WALSCHEID Maximilian",
+                "WILLIAMS Stephen"
+            ],
+            "preseason": {}
+        },
+        {
+            "name": "DPJ",
+            "budget": 2150000,
+            "riders": [
+                "AYUSO PESQUERA Juan",
+                "VAUQUELIN Kévin",
+                "ALAPHILIPPE Julian",
+                "SIVAKOV Pavel",
+                "VAN WILDER Ilan",
+                "SHEFFIELD Magnus",
+                "WITHEN PHILIPSEN Albert",
+                "HERMANS Quinten",
+                "MADOUAS Valentin",
+                "KRISTOFF Alexander",
+                "MOHORIC Matej",
+                "RODRIGUEZ CANO Carlos",
+                "BARGUIL Warren",
+                "VAN UDEN Casper",
+                "LEONARD Michael",
+                "LAMPAERT Yves",
+                "WOODS Michael",
+                "VERGALLITO Luca",
+                "HAGENES Per Strand",
+                "SVRCEK Martin"
+            ],
+            "preseason": {}
+        },
+        {
+            "name": "GIANCICLI WW",
+            "budget": 1240000,
+            "riders": [
+                "EVENEPOEL Remco",
+                "VAN AERT Wout",
+                "WAERENSKJOLD Søren",
+                "BILBAO LOPEZ DE ARMENTIA Pello",
+                "GROENEWEGEN Dylan",
+                "TRENTIN Matteo",
+                "VAN DEN BERG Marijn",
+                "LAURANCE Axel",
+                "PENHOËT Paul",
+                "TILLER Rasmus Fossum",
+                "PARET PEINTRE Valentin",
+                "GAUDU David",
+                "BOL Cees",
+                "IZAGIRRE INSAUSTI Ion",
+                "DE PRETTO Davide",
+                "SENECHAL Florian",
+                "KRIJNSEN Jelte",
+                "REMIJN Senna",
+                "GRUEL Thibaud",
+                "VENDRAME Andrea"
+            ],
+            "preseason": {}
+        },
+        {
+            "name": "GONDAVERI",
+            "budget": 1180000,
+            "riders": [
+                "GANNA Filippo",
+                "YATES Adam",
+                "WELLENS Tim",
+                "TULETT Ben",
+                "JOHANNESSEN Tobias Halland",
+                "ULISSI Diego",
+                "UIJTDEBROEKS Cian",
+                "MARTIN Guillaume",
+                "BAGIOLI Andrea",
+                "BLACKMORE Joseph",
+                "ANDERSEN Søren Kragh",
+                "AGOSTINACCHIO Mattia",
+                "FINN Lorenzo",
+                "ZINGLE Axel",
+                "HATHERLY Alan",
+                "POLITT Nils",
+                "VALJAVEC Erazem",
+                "PERICAS CAPDEVILA Adria",
+                "ROWE Elliot",
+                "MATTIO Pietro"
+            ],
+            "preseason": {
+                "GAVIRIA RENDON Fernando": 15
+            }
+        },
+        {
+            "name": "LEGNANO",
+            "budget": 1400000,
+            "riders": [
+                "DE LIE Arnaud",
+                "MAGNIER Paul",
+                "BRENNAN Matthew",
+                "MARTINEZ Lenny",
+                "ARENSMAN Thymen",
+                "ARANBURU DEVA Alexander",
+                "CHAMPOUSSIN Clément",
+                "ROMEO ABAD Ivan",
+                "VAN POPPEL Danny",
+                "VERNON Ethan",
+                "KÜNG Stefan",
+                "LEKNESSUND Andreas",
+                "RUBIO REYES Einer Augusto",
+                "SÖDERQVIST Jakob",
+                "GEOGHEGAN HART Tao",
+                "CRABBE Tom",
+                "DECOMBLE Maxime",
+                "DUNBAR Edward",
+                "MARTINEZ POVEDA Daniel Felipe",
+                "HOBBS Noah"
+            ],
+            "preseason": {
+                "THIJSSEN Gerben": 10
+            }
+        },
+        {
+            "name": "MARTINONE UNO",
+            "budget": 1440000,
+            "riders": [
+                "HEALY Ben",
+                "HINDLEY Jai",
+                "SILVA COUSSAN Guillermo Thomas",
+                "COVI Alessandro",
+                "VENTURINI Clément",
+                "EEKHOFF Nils",
+                "TARLING Joshua",
+                "ASKEY Lewis",
+                "WELSFORD Sam",
+                "ETXEBERRIA ANSALAS Haimar",
+                "BAUDIN Alex",
+                "VERMAERKE Kevin",
+                "POOLE Max",
+                "GAUTHERAT Pierre",
+                "FREDHEIM Stian",
+                "PAGE Hugo",
+                "KOPECKY Matyas",
+                "GRAAT Tijmen",
+                "LOPEZ GRANIZO Harold Martin",
+                "OMRZEL Jakob"
+            ],
+            "preseason": {
+                "GARCIA CORTINA Ivan": 14,
+                "OLDANI Stefano": 12,
+                "SCHULTZ Nicholas": 10,
+                "VENDRAME Andrea": 124
+            }
+        },
+        {
+            "name": "MASTRO BIRRAIO GCP",
+            "budget": 1480000,
+            "riders": [
+                "MERLIER Tim",
+                "ROGLIC Primoz",
+                "STRONG Corbin",
+                "MEEUS Jordi",
+                "BITTNER Pavel",
+                "BUITRAGO SANCHEZ Santiago",
+                "VERMEERSCH Florian",
+                "DEL GROSSO Tibor",
+                "MENTEN Milan",
+                "BERCKMOES Jenno",
+                "FISHER-BLACK Finn",
+                "DE SCHUYTENEER Steffen",
+                "VAN DEN BROEK Frank",
+                "KIELICH Timo",
+                "PITHIE Laurence",
+                "KÄMNA Lennard",
+                "KUBIS Lukas",
+                "MARIT Arne",
+                "MIHKELS Madis",
+                "NERURKAR Lukas"
+            ],
+            "preseason": {
+                "VADER Milan": 20,
+                "ROTA Lorenzo": 23,
+                "POELS Wout": 6
+            }
+        },
+        {
+            "name": "PANETTERIA BERGERO",
+            "budget": 1210000,
+            "riders": [
+                "CICCONE Giulio",
+                "SKJELMOSE JENSEN Mattias",
+                "LIPOWITZ Florian",
+                "BERNAL GOMEZ Egan Arley",
+                "FORTUNATO Lorenzo",
+                "SIMMONS Quinn",
+                "TIBERI Antonio",
+                "HOFSTETTER Hugo",
+                "BALLERINI Davide",
+                "DAINESE Alberto",
+                "FANCELLU Alessandro",
+                "GLOAG Thomas",
+                "BUSATTO Francesco",
+                "AUGUST Andrew",
+                "NOVAK Pavel",
+                "AFFINI Edoardo",
+                "SERRANO RODRIGUEZ Gonzalo",
+                "TUCKWELL Luke",
+                "WRIGHT Fred",
+                "JAKOBSEN Fabio"
+            ],
+            "preseason": {
+                "FABBRO Matteo": 15,
+                "MOSCON Gianni": 20
+            }
+        },
+        {
+            "name": "OFFICINA BOCCETTINI CC",
+            "budget": 1300000,
+            "riders": [
+                "ALBANESE Vincenzo",
+                "CORT NIELSEN Magnus",
+                "COSTIOU Ewen",
+                "DE GENDT Aimé",
+                "FOLDAGER Anders",
+                "GEE-WEST Derek",
+                "GROVES Kaden",
+                "LAFAY Victor",
+                "LAMPERTI Luke",
+                "MOSCHETTI Matteo",
+                "MULUBRHAN Henok",
+                "PARET-PEINTRE Aurélien",
+                "PELLIZZARI Giulio",
+                "STEINHAUSER Georg",
+                "TEUTENBERG Tim Torn",
+                "THOMAS Benjamin",
+                "VAN ASBROECK Tom",
+                "VINGEGAARD HANSEN Jonas",
+                "ZANA Filippo",
+                "WATSON Samuel"
+            ],
+            "preseason": {
+                "HERREGODTS Rune": 25
+            }
+        },
+        {
+            "name": "S. PIETROBAUDO",
+            "budget": 2020000,
+            "riders": [
+                "ALMEIDA Joao Pedro Gonçalves",
+                "PEDERSEN Mads",
+                "VINE Jay",
+                "JEANNIERE Emilien",
+                "TURNER Ben",
+                "CARAPAZ MONTENEGRO Richard Antonio",
+                "JEGAT Jordan",
+                "SCHACHMANN Maximilian",
+                "STUYVEN Jasper",
+                "VAN GILS Maxim",
+                "BAUHAUS Phil",
+                "RONDEL Mathys",
+                "TEUNS Dylan",
+                "WIDAR Jarno",
+                "KWIATKOWSKI Michal",
+                "BUCHMANN Emanuel",
+                "VLASOV Aleksandr",
+                "STAUNE-MITTET Johannes",
+                "HERZOG Emil",
+                "FAURE PROST Alexy"
+            ],
+            "preseason": {
+                "TEUNISSEN Mike": 3
+            }
+        },
+        {
+            "name": "SANROMARIANO",
+            "budget": 1030000,
+            "riders": [
+                "DEL TORO ROMERO Isaac",
+                "PIDCOCK Thomas",
+                "MCNULTY Brandon",
+                "GREGOIRE Romain",
+                "KOOIJ Olav",
+                "POWLESS Neilson",
+                "MATTHEWS Michael",
+                "GIRMAY HAILU Biniam",
+                "CHRISTEN Jan",
+                "SCHMID Mauro",
+                "MORGADO Antonio Tomas",
+                "KULSET Johannes",
+                "LAPEIRA Paul",
+                "MAS NICOLAU Enric",
+                "HAYTER Ethan",
+                "ADRIA OLIVERAS Roger",
+                "NORDHAGEN Jørgen",
+                "ALVAREZ MARTINEZ Hector",
+                "COSNEFROY Benoit",
+                "SPARFEL Aubin"
+            ],
+            "preseason": {
+                "HIGUITA GARCIA Sergio Andres": 120
+            }
+        },
+        {
+            "name": "TOPINA M.B.",
+            "budget": 1730000,
+            "riders": [
+                "STORER Michael",
+                "HIRSCHI Marc",
+                "ABRAHAMSEN Jonas",
+                "RICCITELLO Matthew",
+                "O'CONNOR Ben",
+                "NYS Thibau",
+                "KUSS Sepp",
+                "SEGAERT Alec",
+                "SOBRERO Matteo",
+                "BARRY Ashlin",
+                "BISSEGGER Stefan",
+                "BISIAUX Léo",
+                "BARRE Louis",
+                "ROLLAND Brieuc",
+                "BJERG Mikkel",
+                "MOURIS Michiel",
+                "RAFFERTY Darren",
+                "ISIDORE Noa",
+                "ØRN-KRISTOFF Felix",
+                "BEHRENS Niklas"
+            ],
+            "preseason": {
+                "HAIG Jack": 10,
+                "RUTSCH Jonas": 5
+            }
+        }
+    ]
 }
