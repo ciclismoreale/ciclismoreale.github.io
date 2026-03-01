@@ -12,7 +12,7 @@ title: "Classifiche"
 
 ::: {.column width="50%"}
 ### Classifica mese corrente
-{{< include classifica_totale_big.html >}}
+{{< include classifica_mensile.html >}}
 :::
 ::::
 
