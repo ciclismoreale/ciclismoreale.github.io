@@ -217,7 +217,7 @@ for team in teams_sorted_alpha:
         )
     quarto_content += '</tbody></table>\n'
     if team["preseason"] != "":
-        quarto_content += "**Pre-asta: **"
+        quarto_content += "**Punti pre-asta: **"
         quarto_content += team["preseason"]
         quarto_content += '\n'
     quarto_content += '</details>\n'
