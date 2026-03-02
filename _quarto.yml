@@ -14,12 +14,6 @@ website:
     right:
       - current_cq_ranking.qmd
       - medagliere.qmd
-  announcement: 
-    icon: exclamation-triangle
-    dismissable: false
-    content: "**SQUADRE AGGIORNATE:** controllate spelling dei nomi e budget!"
-    type: primary
-    position: below-navbar
 
 format:
   html:
