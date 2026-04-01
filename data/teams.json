@@ -2,7 +2,7 @@
     "teams": [
         {
             "name": "BABY YODA - OSF",
-            "budget": 2050000,
+            "budget": 2200000,
             "riders": [
                 "PHILIPSEN Jasper",
                 "LUND ANDRESEN Tobias",
@@ -33,7 +33,7 @@
         },
         {
             "name": "BERGERO CORSE",
-            "budget": 1220000,
+            "budget": 1370000,
             "riders": [
                 "POGACAR Tadej",
                 "ONLEY Oscar",
@@ -60,7 +60,7 @@
         },
         {
             "name": "DAINESTO PAGILLO",
-            "budget": 2180000,
+            "budget": 2330000,
             "riders": [
                 "VAN DER POEL Mathieu",
                 "GALL Felix",
@@ -87,7 +87,7 @@
         },
         {
             "name": "DPJ",
-            "budget": 2150000,
+            "budget": 2300000,
             "riders": [
                 "AYUSO PESQUERA Juan",
                 "VAUQUELIN Kévin",
@@ -114,7 +114,7 @@
         },
         {
             "name": "GIANCICLI WW",
-            "budget": 1240000,
+            "budget": 1440000,
             "riders": [
                 "EVENEPOEL Remco",
                 "VAN AERT Wout",
@@ -141,7 +141,7 @@
         },
         {
             "name": "GONDAVERI",
-            "budget": 1180000,
+            "budget": 1330000,
             "riders": [
                 "GANNA Filippo",
                 "YATES Adam",
@@ -170,7 +170,7 @@
         },
         {
             "name": "LEGNANO",
-            "budget": 1400000,
+            "budget": 1550000,
             "riders": [
                 "DE LIE Arnaud",
                 "MAGNIER Paul",
@@ -199,7 +199,7 @@
         },
         {
             "name": "MARTINONE UNO",
-            "budget": 1440000,
+            "budget": 1590000,
             "riders": [
                 "HEALY Ben",
                 "HINDLEY Jai",
@@ -231,7 +231,7 @@
         },
         {
             "name": "MASTRO BIRRAIO GCP",
-            "budget": 1480000,
+            "budget": 1650000,
             "riders": [
                 "MERLIER Tim",
                 "ROGLIC Primoz",
@@ -262,7 +262,7 @@
         },
         {
             "name": "PANETTERIA BERGERO",
-            "budget": 1210000,
+            "budget": 1360000,
             "riders": [
                 "CICCONE Giulio",
                 "SKJELMOSE JENSEN Mattias",
@@ -292,7 +292,7 @@
         },
         {
             "name": "OFFICINA BOCCETTINI CC",
-            "budget": 1300000,
+            "budget": 1480000,
             "riders": [
                 "ALBANESE Vincenzo",
                 "CORT NIELSEN Magnus",
@@ -321,7 +321,7 @@
         },
         {
             "name": "S. PIETROBAUDO",
-            "budget": 2020000,
+            "budget": 2170000,
             "riders": [
                 "ALMEIDA Joao Pedro Gonçalves",
                 "PEDERSEN Mads",
@@ -350,7 +350,7 @@
         },
         {
             "name": "SANROMARIANO",
-            "budget": 1030000,
+            "budget": 1220000,
             "riders": [
                 "DEL TORO ROMERO Isaac",
                 "PIDCOCK Thomas",
@@ -379,7 +379,7 @@
         },
         {
             "name": "TOPINA M.B.",
-            "budget": 1730000,
+            "budget": 1880000,
             "riders": [
                 "STORER Michael",
                 "HIRSCHI Marc",
