@@ -25,3 +25,7 @@ title: "Classifiche"
 {{< include monthly_rank.md >}}
 
 *\*valido per mesi già conclusi*
+
+**Assegnazione budget:** 
+- top 4 posizioni: 200 000 $, 190 000 $, 180 000 $, 170 000 $
+- altri: 150 000 $
