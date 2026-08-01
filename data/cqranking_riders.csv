@@ -14,12 +14,12 @@ Rank,Prev.,Country Flag,Rider,Team,Date of birth,CQ
 13,(19),https://cqranking.com/common/flags/FRA.gif,GREGOIRE Romain,GFC,21/01/2003,981
 14,(54),https://cqranking.com/common/flags/DEN.gif,LUND ANDRESEN Tobias,DCT,20/08/2002,979
 15,(27),https://cqranking.com/common/flags/DEN.gif,SKJELMOSE JENSEN Mattias,LTK,26/09/2000,928
-16,(49),https://cqranking.com/common/flags/ECU.gif,CARAPAZ MONTENEGRO Richard Antonio,EFE,29/05/1993,879
-17,(297),https://cqranking.com/common/flags/NZL.gif,PITHIE Laurence,RBH,17/07/2002,878
-18,(34),https://cqranking.com/common/flags/AUT.gif,GALL Felix,DCT,27/02/1998,869
-19,(69),https://cqranking.com/common/flags/ITA.gif,PELLIZZARI Giulio,RBH,21/11/2003,866
-20,(256),https://cqranking.com/common/flags/FRA.gif,COSNEFROY Benoit,UEX,17/10/1995,865
-21,(24),https://cqranking.com/common/flags/BEL.gif,VAN AERT Wout,TVL,15/09/1994,851
+16,(24),https://cqranking.com/common/flags/BEL.gif,VAN AERT Wout,TVL,15/09/1994,884
+17,(49),https://cqranking.com/common/flags/ECU.gif,CARAPAZ MONTENEGRO Richard Antonio,EFE,29/05/1993,879
+18,(297),https://cqranking.com/common/flags/NZL.gif,PITHIE Laurence,RBH,17/07/2002,878
+19,(34),https://cqranking.com/common/flags/AUT.gif,GALL Felix,DCT,27/02/1998,869
+20,(69),https://cqranking.com/common/flags/ITA.gif,PELLIZZARI Giulio,RBH,21/11/2003,866
+21,(256),https://cqranking.com/common/flags/FRA.gif,COSNEFROY Benoit,UEX,17/10/1995,865
 22,(13),https://cqranking.com/common/flags/ITA.gif,SCARONI Christian,XAT,16/10/1997,834
 23,(5),https://cqranking.com/common/flags/DEN.gif,PEDERSEN Mads,LTK,18/12/1995,823
 24,(12),https://cqranking.com/common/flags/ESP.gif,AYUSO PESQUERA Juan,LTK,16/09/2002,741
@@ -40,8 +40,8 @@ Rank,Prev.,Country Flag,Rider,Team,Date of birth,CQ
 39,(76),https://cqranking.com/common/flags/POR.gif,MORGADO Antonio Tomas,UEX,28/01/2004,609
 40,(44),https://cqranking.com/common/flags/COL.gif,BERNAL GOMEZ Egan Arley,NCI,13/01/1997,594
 41,(92),https://cqranking.com/common/flags/USA.gif,RICCITELLO Matthew,DCT,05/03/2002,591
-42,(46),https://cqranking.com/common/flags/SUI.gif,CHRISTEN Jan,UEX,26/06/2004,574
-43,(251),https://cqranking.com/common/flags/FRA.gif,LAPORTE Christophe,TVL,11/12/1992,574
+42,(251),https://cqranking.com/common/flags/FRA.gif,LAPORTE Christophe,TVL,11/12/1992,584
+43,(46),https://cqranking.com/common/flags/SUI.gif,CHRISTEN Jan,UEX,26/06/2004,574
 44,(53),https://cqranking.com/common/flags/CAN.gif,GEE-WEST Derek,LTK,03/08/1997,570
 45,(103),https://cqranking.com/common/flags/ITA.gif,TIBERI Antonio,TBV,24/06/2001,569
 46,(280),https://cqranking.com/common/flags/POR.gif,EULALIO Afonso,TBV,30/09/2001,567
@@ -57,9 +57,9 @@ Rank,Prev.,Country Flag,Rider,Team,Date of birth,CQ
 56,(79),https://cqranking.com/common/flags/ERI.gif,MULUBRHAN Henok,XAT,11/11/1999,484
 57,(14),https://cqranking.com/common/flags/FRA.gif,VAUQUELIN Kévin,NCI,26/04/2001,482
 58,(98),https://cqranking.com/common/flags/GBR.gif,ASKEY Lewis,NSN,04/05/2001,478
-59,(33),https://cqranking.com/common/flags/SLO.gif,ROGLIC Primoz,RBH,29/10/1989,471
-60,(25),https://cqranking.com/common/flags/GBR.gif,BRENNAN Matthew,TVL,06/08/2005,470
-61,(41),https://cqranking.com/common/flags/SVK.gif,KUBIS Lukas,URR,31/01/2000,461
+59,(41),https://cqranking.com/common/flags/SVK.gif,KUBIS Lukas,URR,31/01/2000,476
+60,(33),https://cqranking.com/common/flags/SLO.gif,ROGLIC Primoz,RBH,29/10/1989,471
+61,(25),https://cqranking.com/common/flags/GBR.gif,BRENNAN Matthew,TVL,06/08/2005,470
 62,(50),https://cqranking.com/common/flags/GBR.gif,YATES Adam,UEX,07/08/1992,459
 63,(153),https://cqranking.com/common/flags/USA.gif,KUSS Sepp,TVL,13/09/1994,457
 64,(101),https://cqranking.com/common/flags/FRA.gif,LAPEIRA Paul,DCT,25/05/2000,457
@@ -340,15 +340,15 @@ Rank,Prev.,Country Flag,Rider,Team,Date of birth,CQ
 339,(635),https://cqranking.com/common/flags/COL.gif,GAVIRIA RENDON Fernando,CJR,19/08/1994,143
 340,(198),https://cqranking.com/common/flags/GER.gif,BAUHAUS Phil,TBV,08/07/1994,142
 341,(421),https://cqranking.com/common/flags/SLO.gif,GOVEKAR Matevz,TBV,17/04/2000,141
-342,(558),https://cqranking.com/common/flags/ESP.gif,FERNANDEZ GARCIA Samuel,CJR,11/07/2003,140
-343,(340),https://cqranking.com/common/flags/ESP.gif,AGIRRE EGAÑA Jon,EUS,10/09/1997,140
-344,(150),https://cqranking.com/common/flags/ESP.gif,DE LA CRUZ MELGAREJO David,PQT,06/05/1989,140
-345,(887),https://cqranking.com/common/flags/ITA.gif,TONEATTI Davide,XAT,09/04/2001,139
+342,(302),https://cqranking.com/common/flags/DEN.gif,KRAGH ANDERSEN Søren,LTK,10/08/1994,141
+343,(150),https://cqranking.com/common/flags/ESP.gif,DE LA CRUZ MELGAREJO David,PQT,06/05/1989,140
+344,(558),https://cqranking.com/common/flags/ESP.gif,FERNANDEZ GARCIA Samuel,CJR,11/07/2003,140
+345,(340),https://cqranking.com/common/flags/ESP.gif,AGIRRE EGAÑA Jon,EUS,10/09/1997,140
 346,(812),https://cqranking.com/common/flags/ESP.gif,BRUSTENGA MASAGUE Marc,EKP,04/09/1999,139
-347,(130),https://cqranking.com/common/flags/ITA.gif,FRIGO Marco,NSN,02/03/2000,139
-348,(265),https://cqranking.com/common/flags/ITA.gif,CATTANEO Mattia,RBH,25/10/1990,138
+347,(887),https://cqranking.com/common/flags/ITA.gif,TONEATTI Davide,XAT,09/04/2001,139
+348,(130),https://cqranking.com/common/flags/ITA.gif,FRIGO Marco,NSN,02/03/2000,139
 349,(120),https://cqranking.com/common/flags/FRA.gif,ARMIRAIL Bruno,TVL,11/04/1994,138
-350,(302),https://cqranking.com/common/flags/DEN.gif,KRAGH ANDERSEN Søren,LTK,10/08/1994,138
+350,(265),https://cqranking.com/common/flags/ITA.gif,CATTANEO Mattia,RBH,25/10/1990,138
 351,(415),https://cqranking.com/common/flags/GRE.gif,ARVANITOU Nikiforos,TUS,13/01/2003,136
 352,(162),https://cqranking.com/common/flags/NOR.gif,BLIKRA Erlend Jordbrekk,UXM,11/01/1997,135
 353,(1985),https://cqranking.com/common/flags/ITA.gif,BESSEGA Gabriele,PTV,18/02/2004,135
@@ -435,24 +435,24 @@ Rank,Prev.,Country Flag,Rider,Team,Date of birth,CQ
 434,(175),https://cqranking.com/common/flags/COL.gif,RUBIO REYES Einer Augusto,MOV,22/02/1998,105
 435,(1123),https://cqranking.com/common/flags/GER.gif,ADAMIETZ Johannes,RRN,24/05/1998,105
 436,(184),https://cqranking.com/common/flags/FRA.gif,THOMAS Benjamin,COF,12/09/1995,105
-437,(477),https://cqranking.com/common/flags/NED.gif,GRAAT Tijmen,TVL,10/01/2003,105
-438,(177),https://cqranking.com/common/flags/NOR.gif,TRAEEN Torstein,UXM,16/07/1995,105
-439,(1449),https://cqranking.com/common/flags/MLT.gif,MIFSUD Andréa,PTV,28/05/1999,105
-440,(554),https://cqranking.com/common/flags/POR.gif,OLIVEIRA Rui Filipe Alves,UEX,05/09/1996,105
-441,(523),https://cqranking.com/common/flags/FRA.gif,LE BERRE Mathis,TEN,16/04/2001,104
-442,(863),https://cqranking.com/common/flags/LUX.gif,KOCKELMANN Mathieu,LOI,31/01/2004,104
-443,(461),https://cqranking.com/common/flags/HUN.gif,VALTER Attila,TBV,12/06/1998,104
-444,(440),https://cqranking.com/common/flags/FRA.gif,RUSSO Clément,GFC,20/01/1995,103
-445,(829),https://cqranking.com/common/flags/MEX.gif,MACIAS ESTRADA Cesar,BBH,17/09/2003,103
-446,(641),https://cqranking.com/common/flags/LAT.gif,BELOHVOSCIKS Kristians,BAI,01/02/2002,103
-447,(326),https://cqranking.com/common/flags/DEN.gif,PEDERSEN Casper,SOQ,15/03/1996,103
-448,(227),https://cqranking.com/common/flags/RUS.gif,NYCH Artem,ACR,21/03/1995,102
-449,(1185),https://cqranking.com/common/flags/USA.gif,QUINN Sean,EFE,10/05/2000,102
-450,(111),https://cqranking.com/common/flags/FRA.gif,PARET PEINTRE Aurélien,DCT,27/02/1996,101
-451,(428),https://cqranking.com/common/flags/NED.gif,EENKHOORN Pascal,SOQ,08/02/1997,101
-452,(216),https://cqranking.com/common/flags/NED.gif,VAN DEN BROEK Frank,TPP,28/12/2000,101
-453,(497),https://cqranking.com/common/flags/ESP.gif,LOPEZ CARAVACA Jordi,EUS,14/08/1998,100
-454,(844),https://cqranking.com/common/flags/DEN.gif,PEDERSEN Henrik Breiner,UXM,03/12/2004,100
+437,(844),https://cqranking.com/common/flags/DEN.gif,PEDERSEN Henrik Breiner,UXM,03/12/2004,105
+438,(477),https://cqranking.com/common/flags/NED.gif,GRAAT Tijmen,TVL,10/01/2003,105
+439,(177),https://cqranking.com/common/flags/NOR.gif,TRAEEN Torstein,UXM,16/07/1995,105
+440,(1449),https://cqranking.com/common/flags/MLT.gif,MIFSUD Andréa,PTV,28/05/1999,105
+441,(554),https://cqranking.com/common/flags/POR.gif,OLIVEIRA Rui Filipe Alves,UEX,05/09/1996,105
+442,(523),https://cqranking.com/common/flags/FRA.gif,LE BERRE Mathis,TEN,16/04/2001,104
+443,(863),https://cqranking.com/common/flags/LUX.gif,KOCKELMANN Mathieu,LOI,31/01/2004,104
+444,(461),https://cqranking.com/common/flags/HUN.gif,VALTER Attila,TBV,12/06/1998,104
+445,(440),https://cqranking.com/common/flags/FRA.gif,RUSSO Clément,GFC,20/01/1995,103
+446,(829),https://cqranking.com/common/flags/MEX.gif,MACIAS ESTRADA Cesar,BBH,17/09/2003,103
+447,(641),https://cqranking.com/common/flags/LAT.gif,BELOHVOSCIKS Kristians,BAI,01/02/2002,103
+448,(326),https://cqranking.com/common/flags/DEN.gif,PEDERSEN Casper,SOQ,15/03/1996,103
+449,(227),https://cqranking.com/common/flags/RUS.gif,NYCH Artem,ACR,21/03/1995,102
+450,(1185),https://cqranking.com/common/flags/USA.gif,QUINN Sean,EFE,10/05/2000,102
+451,(111),https://cqranking.com/common/flags/FRA.gif,PARET PEINTRE Aurélien,DCT,27/02/1996,101
+452,(428),https://cqranking.com/common/flags/NED.gif,EENKHOORN Pascal,SOQ,08/02/1997,101
+453,(216),https://cqranking.com/common/flags/NED.gif,VAN DEN BROEK Frank,TPP,28/12/2000,101
+454,(497),https://cqranking.com/common/flags/ESP.gif,LOPEZ CARAVACA Jordi,EUS,14/08/1998,100
 455,(295),https://cqranking.com/common/flags/BEL.gif,CAMPENAERTS Victor,TVL,28/10/1991,100
 456,(408),https://cqranking.com/common/flags/NED.gif,VAN DER TUUK Axel,EUS,25/05/2001,100
 457,(650),https://cqranking.com/common/flags/ITA.gif,DONATI Davide,RBC,08/04/2005,100
@@ -2052,7 +2052,7 @@ Rank,Prev.,Country Flag,Rider,Team,Date of birth,CQ
 2051,(2822),https://cqranking.com/common/flags/NOR.gif,NAKKEN Tobias Risan,DRP,03/09/2004,5
 2052,(1481),https://cqranking.com/common/flags/ITA.gif,VIVIANI Attilio,TFT,18/10/1996,5
 2053,(2723),https://cqranking.com/common/flags/KAZ.gif,PODLUZHNYY Mikhail,XAD,10/01/2006,5
-2054,(-),https://cqranking.com/common/flags/ESP.gif,GARCIA FRANCES Pablo,PTV,16/01/2001,5
+2054,(-),https://cqranking.com/common/flags/ESP.gif,GARCIA FRANCES Pablo,-,16/01/2001,5
 2055,(1761),https://cqranking.com/common/flags/ITA.gif,BRUNO Andrea Alfio,-,04/02/2003,5
 2056,(-),https://cqranking.com/common/flags/CHN.gif,GUO Shourong,TYD,03/02/2002,5
 2057,(504),https://cqranking.com/common/flags/GBR.gif,GRANGER Ben,TFT,08/08/2000,5
