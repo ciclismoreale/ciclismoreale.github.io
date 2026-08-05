@@ -334,13 +334,23 @@
    sets data-bs-theme="dark" on <html>. The Bootstrap table/utility
    classes used elsewhere already adapt automatically; these are the
    spots with hardcoded light-mode colors (custom RSS cards, the
-   monthly "fixed-table" widgets) that need an explicit dark variant
-   so they don't stay as light boxes on a dark page.
+   standings/ranking tables, the monthly "fixed-table" widgets) that
+   need an explicit dark variant.
    ============================================================ */
+
+/* Page background: Darkly's default is close to black. Lighten it a
+   bit so it's a softer dark gray instead. Card/surface backgrounds
+   below are one step lighter again, so they still read as "raised"
+   panels against the page. */
+[data-bs-theme="dark"],
+.quarto-dark {
+  --bs-body-bg: #2b2f38;
+}
+
 [data-bs-theme="dark"] .rss-card,
 .quarto-dark .rss-card {
-  background: #1f2430;
-  border-color: #343b4a;
+  background: #363c47;
+  border-color: #4a5262;
 }
 
 [data-bs-theme="dark"] .rss-date,
@@ -351,22 +361,22 @@
 .quarto-dark .rss-meta,
 .quarto-dark .rss-desc,
 .quarto-dark .rss-leader {
-  color: #9aa3b2;
+  color: #aab2c0;
 }
 
 [data-bs-theme="dark"] .rss-leader,
 .quarto-dark .rss-leader {
-  border-top-color: #343b4a;
+  border-top-color: #4a5262;
 }
 
 [data-bs-theme="dark"] .rss-rider,
 .quarto-dark .rss-rider {
-  color: #e5e7eb;
+  color: #eef0f3;
 }
 
 [data-bs-theme="dark"] .rss-scroll::-webkit-scrollbar-thumb,
 .quarto-dark .rss-scroll::-webkit-scrollbar-thumb {
-  background: #4b5563;
+  background: #59616f;
 }
 
 /* .team-budget has explicit, non-variable colors (see the rule
@@ -374,12 +384,12 @@
    the border to something visible against the dark card background. */
 [data-bs-theme="dark"] .team-budget,
 .quarto-dark .team-budget {
-  border-color: #3a4150;
+  border-color: #4a5262;
 }
 
 [data-bs-theme="dark"] .team-preseason,
 .quarto-dark .team-preseason {
-  color: #9aa3b2;
+  color: #aab2c0;
 }
 
 /* Fixed terracotta (#C1592E) reads fine on the light background but
@@ -393,32 +403,39 @@
 .quarto-dark .rss-title a,
 .quarto-dark .rss-leader strong,
 .quarto-dark .team-points {
-  color: #E8926A;
+  color: #E8926A !important;
 }
 
-/* Team names in the standings widgets (homepage sidebar + Classifiche
-   page) were rendering in a low-contrast, link-like color in dark
-   mode; force plain readable text regardless of what's cascading in. */
-[data-bs-theme="dark"] .standings-table .team-name,
-.quarto-dark .standings-table .team-name {
-  color: #e5e7eb;
+/* Standings tables (homepage sidebar + Classifiche page) and the CQ
+   ranking / team roster tables were rendering cell text in a
+   low-contrast, link-like color in dark mode. Force plain readable
+   text on every cell, !important since whatever is cascading that
+   color in appears to otherwise win. */
+[data-bs-theme="dark"] .standings-table td,
+[data-bs-theme="dark"] .cq-ranking-table td,
+[data-bs-theme="dark"] .team-roster td,
+.quarto-dark .standings-table td,
+.quarto-dark .cq-ranking-table td,
+.quarto-dark .team-roster td {
+  color: #eef0f3 !important;
 }
 
 [data-bs-theme="dark"] .fixed-table th,
 .quarto-dark .fixed-table th {
-  background: #262c38;
-  color: #e5e7eb;
+  background: #3a4150;
+  color: #eef0f3;
 }
 
 [data-bs-theme="dark"] .fixed-table th,
 [data-bs-theme="dark"] .fixed-table td,
 .quarto-dark .fixed-table th,
 .quarto-dark .fixed-table td {
-  border-color: #3a4150;
+  border-color: #4a5262;
+  color: #eef0f3;
 }
 
 [data-bs-theme="dark"] .fixed-table .fixed-col,
 .quarto-dark .fixed-table .fixed-col {
-  background: #1f2430;
-  color: #e5e7eb;
+  background: #363c47;
+  color: #eef0f3;
 }
