@@ -15,15 +15,14 @@
 
 /* ============================================================
    Header / navbar
-   Same terracotta hue as the brand primary color, just softened
-   with some transparency instead of a flat, saturated fill.
-   Padding/font-size are pinned explicitly so the bar is the same
-   height in both themes -- Darkly's navbar is taller by default
-   than Cosmo's, which otherwise makes it "grow" when switching
-   into dark mode.
+   A lighter, solid tint of the terracotta brand color (no
+   transparency). Padding/font-size are pinned explicitly so the bar
+   is the same height in both themes -- Darkly's navbar is taller by
+   default than Cosmo's, which otherwise makes it "grow" when
+   switching into dark mode.
    ============================================================ */
 .navbar {
-  background-color: rgba(193, 89, 46, 0.82) !important;
+  background-color: #D98B5F !important;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   font-size: 1rem;
@@ -407,16 +406,29 @@
 }
 
 /* Standings tables (homepage sidebar + Classifiche page) and the CQ
-   ranking / team roster tables were rendering cell text in a
+   ranking / team roster tables were rendering cell text -- including
+   header cells (<th>), which the previous rule missed -- in a
    low-contrast, link-like color in dark mode. Force plain readable
    text on every cell, !important since whatever is cascading that
    color in appears to otherwise win. */
 [data-bs-theme="dark"] .standings-table td,
+[data-bs-theme="dark"] .standings-table th,
 [data-bs-theme="dark"] .cq-ranking-table td,
+[data-bs-theme="dark"] .cq-ranking-table th,
 [data-bs-theme="dark"] .team-roster td,
+[data-bs-theme="dark"] .team-roster th,
 .quarto-dark .standings-table td,
+.quarto-dark .standings-table th,
 .quarto-dark .cq-ranking-table td,
-.quarto-dark .team-roster td {
+.quarto-dark .cq-ranking-table th,
+.quarto-dark .team-roster td,
+.quarto-dark .team-roster th {
+  color: #eef0f3 !important;
+}
+
+/* Standings widget title ("CLASSIFICA") */
+[data-bs-theme="dark"] .standings-title,
+.quarto-dark .standings-title {
   color: #eef0f3 !important;
 }
 

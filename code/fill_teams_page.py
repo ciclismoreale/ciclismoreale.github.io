@@ -110,7 +110,7 @@ def build_html_ranking(teams_sorted, title=None, small=False):
     parts = []
 
     if title:
-        parts.append(f'<div class="text-center fw-bold fs-5 mb-1">{title}</div>')
+        parts.append(f'<div class="text-center fw-bold fs-5 mb-1 standings-title">{title}</div>')
 
     parts.append('<div class="small">' if small else "<div>")
     parts.append('<table class="table table-striped table-hover table-sm mb-0 standings-table">')
