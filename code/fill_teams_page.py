@@ -196,7 +196,13 @@ for team in teams_sorted_alpha:
     quarto_content += '<table class="table table-striped table-hover table-sm team-roster">\n'
     quarto_content += "<thead><tr>\n"
 
-    headers = [("", "col-flag"), ("", ""), ("CQ", ""), ("Pre-asta", ""), ("Netti", "")]
+    headers = [
+        ("", "col-flag"),
+        ("", ""),
+        ("CQ", "text-center"),
+        ("Pre-asta", "text-center"),
+        ("Netti", "text-center"),
+    ]
 
     for h, cls in headers:
         cls_attr = f' class="{cls}"' if cls else ""

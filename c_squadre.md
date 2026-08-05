@@ -9,9 +9,9 @@
 <thead><tr>
 <th class="col-flag"></th>
 <th></th>
-<th>CQ</th>
-<th>Pre-asta</th>
-<th>Netti</th>
+<th class="text-center">CQ</th>
+<th class="text-center">Pre-asta</th>
+<th class="text-center">Netti</th>
 </tr></thead>
 <tbody>
 <tr><td class="text-center"><img class="flag" src="https://cqranking.com/common/flags/BEL.gif" width="20"></td><td>PHILIPSEN Jasper</td><td class="text-center">1300</td><td class="text-center">0</td><td class="text-center">1300</td></tr>
@@ -49,9 +49,9 @@
 <thead><tr>
 <th class="col-flag"></th>
 <th></th>
-<th>CQ</th>
-<th>Pre-asta</th>
-<th>Netti</th>
+<th class="text-center">CQ</th>
+<th class="text-center">Pre-asta</th>
+<th class="text-center">Netti</th>
 </tr></thead>
 <tbody>
 <tr><td class="text-center"><img class="flag" src="https://cqranking.com/common/flags/SLO.gif" width="20"></td><td>POGACAR Tadej</td><td class="text-center">3853</td><td class="text-center">0</td><td class="text-center">3853</td></tr>
@@ -88,9 +88,9 @@
 <thead><tr>
 <th class="col-flag"></th>
 <th></th>
-<th>CQ</th>
-<th>Pre-asta</th>
-<th>Netti</th>
+<th class="text-center">CQ</th>
+<th class="text-center">Pre-asta</th>
+<th class="text-center">Netti</th>
 </tr></thead>
 <tbody>
 <tr><td class="text-center"><img class="flag" src="https://cqranking.com/common/flags/FRA.gif" width="20"></td><td>SEIXAS Paul</td><td class="text-center">1740</td><td class="text-center">0</td><td class="text-center">1740</td></tr>
@@ -127,9 +127,9 @@
 <thead><tr>
 <th class="col-flag"></th>
 <th></th>
-<th>CQ</th>
-<th>Pre-asta</th>
-<th>Netti</th>
+<th class="text-center">CQ</th>
+<th class="text-center">Pre-asta</th>
+<th class="text-center">Netti</th>
 </tr></thead>
 <tbody>
 <tr><td class="text-center"><img class="flag" src="https://cqranking.com/common/flags/ESP.gif" width="20"></td><td>AYUSO PESQUERA Juan</td><td class="text-center">741</td><td class="text-center">0</td><td class="text-center">741</td></tr>
@@ -166,9 +166,9 @@
 <thead><tr>
 <th class="col-flag"></th>
 <th></th>
-<th>CQ</th>
-<th>Pre-asta</th>
-<th>Netti</th>
+<th class="text-center">CQ</th>
+<th class="text-center">Pre-asta</th>
+<th class="text-center">Netti</th>
 </tr></thead>
 <tbody>
 <tr><td class="text-center"><img class="flag" src="https://cqranking.com/common/flags/BEL.gif" width="20"></td><td>EVENEPOEL Remco</td><td class="text-center">2190</td><td class="text-center">0</td><td class="text-center">2190</td></tr>
@@ -205,9 +205,9 @@
 <thead><tr>
 <th class="col-flag"></th>
 <th></th>
-<th>CQ</th>
-<th>Pre-asta</th>
-<th>Netti</th>
+<th class="text-center">CQ</th>
+<th class="text-center">Pre-asta</th>
+<th class="text-center">Netti</th>
 </tr></thead>
 <tbody>
 <tr><td class="text-center"><img class="flag" src="https://cqranking.com/common/flags/NOR.gif" width="20"></td><td>JOHANNESSEN Tobias Halland</td><td class="text-center">1114</td><td class="text-center">0</td><td class="text-center">1114</td></tr>
@@ -245,9 +245,9 @@
 <thead><tr>
 <th class="col-flag"></th>
 <th></th>
-<th>CQ</th>
-<th>Pre-asta</th>
-<th>Netti</th>
+<th class="text-center">CQ</th>
+<th class="text-center">Pre-asta</th>
+<th class="text-center">Netti</th>
 </tr></thead>
 <tbody>
 <tr><td class="text-center"><img class="flag" src="https://cqranking.com/common/flags/FRA.gif" width="20"></td><td>MARTINEZ Lenny</td><td class="text-center">1248</td><td class="text-center">0</td><td class="text-center">1248</td></tr>
@@ -285,9 +285,9 @@
 <thead><tr>
 <th class="col-flag"></th>
 <th></th>
-<th>CQ</th>
-<th>Pre-asta</th>
-<th>Netti</th>
+<th class="text-center">CQ</th>
+<th class="text-center">Pre-asta</th>
+<th class="text-center">Netti</th>
 </tr></thead>
 <tbody>
 <tr><td class="text-center"><img class="flag" src="https://cqranking.com/common/flags/FRA.gif" width="20"></td><td>BAUDIN Alex</td><td class="text-center">689</td><td class="text-center">0</td><td class="text-center">689</td></tr>
@@ -325,9 +325,9 @@
 <thead><tr>
 <th class="col-flag"></th>
 <th></th>
-<th>CQ</th>
-<th>Pre-asta</th>
-<th>Netti</th>
+<th class="text-center">CQ</th>
+<th class="text-center">Pre-asta</th>
+<th class="text-center">Netti</th>
 </tr></thead>
 <tbody>
 <tr><td class="text-center"><img class="flag" src="https://cqranking.com/common/flags/NZL.gif" width="20"></td><td>PITHIE Laurence</td><td class="text-center">888</td><td class="text-center">0</td><td class="text-center">888</td></tr>
@@ -365,9 +365,9 @@
 <thead><tr>
 <th class="col-flag"></th>
 <th></th>
-<th>CQ</th>
-<th>Pre-asta</th>
-<th>Netti</th>
+<th class="text-center">CQ</th>
+<th class="text-center">Pre-asta</th>
+<th class="text-center">Netti</th>
 </tr></thead>
 <tbody>
 <tr><td class="text-center"><img class="flag" src="https://cqranking.com/common/flags/DEN.gif" width="20"></td><td>VINGEGAARD HANSEN Jonas</td><td class="text-center">2111</td><td class="text-center">0</td><td class="text-center">2111</td></tr>
@@ -405,9 +405,9 @@
 <thead><tr>
 <th class="col-flag"></th>
 <th></th>
-<th>CQ</th>
-<th>Pre-asta</th>
-<th>Netti</th>
+<th class="text-center">CQ</th>
+<th class="text-center">Pre-asta</th>
+<th class="text-center">Netti</th>
 </tr></thead>
 <tbody>
 <tr><td class="text-center"><img class="flag" src="https://cqranking.com/common/flags/GER.gif" width="20"></td><td>LIPOWITZ Florian</td><td class="text-center">1027</td><td class="text-center">0</td><td class="text-center">1027</td></tr>
@@ -445,9 +445,9 @@
 <thead><tr>
 <th class="col-flag"></th>
 <th></th>
-<th>CQ</th>
-<th>Pre-asta</th>
-<th>Netti</th>
+<th class="text-center">CQ</th>
+<th class="text-center">Pre-asta</th>
+<th class="text-center">Netti</th>
 </tr></thead>
 <tbody>
 <tr><td class="text-center"><img class="flag" src="https://cqranking.com/common/flags/ECU.gif" width="20"></td><td>CARAPAZ MONTENEGRO Richard Antonio</td><td class="text-center">993</td><td class="text-center">0</td><td class="text-center">993</td></tr>
@@ -485,9 +485,9 @@
 <thead><tr>
 <th class="col-flag"></th>
 <th></th>
-<th>CQ</th>
-<th>Pre-asta</th>
-<th>Netti</th>
+<th class="text-center">CQ</th>
+<th class="text-center">Pre-asta</th>
+<th class="text-center">Netti</th>
 </tr></thead>
 <tbody>
 <tr><td class="text-center"><img class="flag" src="https://cqranking.com/common/flags/MEX.gif" width="20"></td><td>DEL TORO ROMERO Isaac</td><td class="text-center">2029</td><td class="text-center">0</td><td class="text-center">2029</td></tr>
@@ -525,9 +525,9 @@
 <thead><tr>
 <th class="col-flag"></th>
 <th></th>
-<th>CQ</th>
-<th>Pre-asta</th>
-<th>Netti</th>
+<th class="text-center">CQ</th>
+<th class="text-center">Pre-asta</th>
+<th class="text-center">Netti</th>
 </tr></thead>
 <tbody>
 <tr><td class="text-center"><img class="flag" src="https://cqranking.com/common/flags/USA.gif" width="20"></td><td>RICCITELLO Matthew</td><td class="text-center">591</td><td class="text-center">0</td><td class="text-center">591</td></tr>
