@@ -162,21 +162,6 @@ def _normalize_date(date_text, today=None):
 
 
 
-# The calendar table links to the specific stage a rider is doing
-# (e.g. ".../race/vuelta-a-espana/2026/stage-1"), but we want the
-# link to point at the race's own overview page instead
-# (".../race/vuelta-a-espana/2026").
-_RACE_URL_RE = re.compile(
-    r"^(https://www\.procyclingstats\.com/race/[^/]+/\d{4})(?:/.*)?$"
-)
-
-
-def _canonicalize_race_url(url):
-    if not url:
-        return url
-    m = _RACE_URL_RE.match(url)
-    return m.group(1) if m else url
-
 
 def fetch_program(session, slug):
     """
@@ -224,11 +209,14 @@ def fetch_program(session, slug):
                     continue
                 race_name = race_link.get_text(strip=True)
                 href = race_link.get("href", "")
-                # Race links are always to a top-level "/race/<slug>/
-                # <year>" page, but PCS often writes the href relative
-                # *without* a leading slash (e.g. "race/vuelta-a-espana
-                # /2026"). Resolving that against the current page's own
-                # URL (urljoin(resp.url, href)) is wrong here -- it gets
+                # PCS's race links always target a top-level "/race/..."
+                # page (whatever sub-page that is -- overview, startlist,
+                # statistics -- varies by race type/status, and we keep
+                # that exactly as scraped rather than guessing at it).
+                # The href itself is often written relative *without* a
+                # leading slash (e.g. "race/gp-quebec/2026/statistics").
+                # Resolving that against the current page's own URL
+                # (urljoin(resp.url, href)) is wrong here -- it gets
                 # nested under "/rider/<slug>/...", since the calendar
                 # page itself isn't a real directory. Anchor directly to
                 # the site root instead, which matches how these links
@@ -245,7 +233,7 @@ def fetch_program(session, slug):
                         "date": _normalize_date(date_text),
                         "race": race_name,
                         "class": race_class,
-                        "url": _canonicalize_race_url(race_url),
+                        "url": race_url,
                     }
                 )
             return program

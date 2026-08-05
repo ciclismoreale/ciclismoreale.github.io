@@ -67,7 +67,7 @@ def main():
 
         if team_rows.empty and not team_no_program:
             content.append(
-                '<p class="text-muted small">Nessuna gara in programma trovata per i corridori di questa squadra.</p>\n\n'
+                '<p class="program-note">Nessuna gara in programma trovata per i corridori di questa squadra.</p>\n\n'
             )
             continue
 
@@ -121,7 +121,9 @@ def main():
         if team_no_program:
             names = ", ".join(team_no_program)
             content.append(
-                f'<p class="text-muted small">Nessuna gara in programma per: {names}.</p>\n\n'
+                '<p class="program-note">'
+                f"<strong>Nessuna gara in programma per:</strong> {names}."
+                "</p>\n\n"
             )
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
