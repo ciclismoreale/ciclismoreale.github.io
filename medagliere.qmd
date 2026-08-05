@@ -4,6 +4,7 @@ title: "Medagliere"
 
 ### 🏆 Classifica generale
 
+::: {.medal-table}
 || Squadra | Vittorie | Anni |
 |:--:|----|:--:|---------|
 |🥇| **Sanromariano** | **9** | 2025, 2024, 2022, 2016, 2013, 2012, 2011, 2009, 2007 |
@@ -14,9 +15,11 @@ title: "Medagliere"
 |6| **Legnano** | **2** | 1998, 1996 |
 |7| **Havana Kharma Kuota** | **1** | 2015 |
 |8| **Topina M.B.** | **1** | 2006 |
+:::
 
 ### Piazzamenti
 
+::: {.medal-table}
 || Squadra |🥇|🥈|🥉|
 |:-:|---|:----:|:----:|:----:|
 || **Sanromariano** | 9 | 4 | 3 |
@@ -27,3 +30,4 @@ title: "Medagliere"
 || **Legnano** | 2 | 2 | 5 |
 || **Havana Kharma Kuota** | 1 | 4 | 4 |
 || **Topina M.B.** | 1 | 2 | 3 |
+:::

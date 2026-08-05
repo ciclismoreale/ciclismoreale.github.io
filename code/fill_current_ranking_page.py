@@ -67,6 +67,7 @@ with open(output_file, "w", encoding="utf-8") as f:
         ("Rank", "col-rank"),
         ("", "col-flag"),
         ("Rider", "col-rider"),
+        ("", ""),  # Date of birth (no header in the original layout)
         ("Squadra", ""),
         ("Fantasquadra", ""),
         ("CQ pts", ""),

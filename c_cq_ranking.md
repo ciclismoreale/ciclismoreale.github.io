@@ -5,6 +5,7 @@
 <th class="col-rank">Rank</th>
 <th class="col-flag"></th>
 <th class="col-rider">Rider</th>
+<th></th>
 <th>Squadra</th>
 <th>Fantasquadra</th>
 <th>CQ pts</th>
