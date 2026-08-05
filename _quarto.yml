@@ -10,6 +10,7 @@ website:
     left:
       - classifica.qmd
       - squadre.qmd
+      - prossime_gare.qmd
       - cq_ranking.qmd
     right:
       - current_cq_ranking.qmd
