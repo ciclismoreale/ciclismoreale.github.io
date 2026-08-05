@@ -302,16 +302,12 @@
   width: 38%;
 }
 
-/* Each rider (surname only) gets a small inline "chip" inside the
-   Corridori cell so several names read as distinct entries rather
-   than a run-on list. */
+/* Each rider (surname only) in the Corridori cell; the separating
+   comma is baked into the generated HTML (fill_prossime_gare_page.py)
+   rather than done via CSS, so it still shows up if this markup is
+   ever read outside a browser (RSS, plain-text export, etc.). */
 .program-rider {
   display: inline-block;
-  margin: 0.1rem 0.5rem 0.1rem 0;
-}
-
-.program-rider:not(:last-child)::after {
-  content: ",";
 }
 
 /* ============================================================
