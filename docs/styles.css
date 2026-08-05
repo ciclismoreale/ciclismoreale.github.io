@@ -8,6 +8,15 @@
 }
 
 /* ============================================================
+   Header / navbar
+   Same terracotta hue as the brand primary color, just softened
+   with some transparency instead of a flat, saturated fill.
+   ============================================================ */
+.navbar {
+  background-color: rgba(193, 89, 46, 0.82) !important;
+}
+
+/* ============================================================
    Scrollable RSS container (recent races on the homepage)
    ============================================================ */
 .rss-scroll {
@@ -173,6 +182,15 @@
 .team-preseason {
   font-size: 0.85rem;
   color: #6b7280;
+}
+
+/* ============================================================
+   Medagliere tables (medagliere.qmd)
+   Keep the team name on a single line instead of wrapping.
+   ============================================================ */
+.medal-table table td:nth-child(2),
+.medal-table table th:nth-child(2) {
+  white-space: nowrap;
 }
 
 /* ============================================================
