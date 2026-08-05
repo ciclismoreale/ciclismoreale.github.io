@@ -113,7 +113,7 @@ def build_html_ranking(teams_sorted, title=None, small=False):
         parts.append(f'<div class="text-center fw-bold fs-5 mb-1">{title}</div>')
 
     parts.append('<div class="small">' if small else "<div>")
-    parts.append('<table class="table table-striped table-hover table-sm mb-0">')
+    parts.append('<table class="table table-striped table-hover table-sm mb-0 standings-table">')
     parts.append(
         "<thead><tr>"
         '<th class="text-center"></th>'
@@ -127,7 +127,7 @@ def build_html_ranking(teams_sorted, title=None, small=False):
         parts.append(
             "<tr>"
             f'<td class="text-center">{medal}</td>'
-            f'<td>{team["name"]}</td>'
+            f'<td class="team-name">{team["name"]}</td>'
             f'<td class="text-end">{team["points"]}</td>'
             "</tr>"
         )

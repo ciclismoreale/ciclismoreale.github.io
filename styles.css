@@ -17,9 +17,28 @@
    Header / navbar
    Same terracotta hue as the brand primary color, just softened
    with some transparency instead of a flat, saturated fill.
+   Padding/font-size are pinned explicitly so the bar is the same
+   height in both themes -- Darkly's navbar is taller by default
+   than Cosmo's, which otherwise makes it "grow" when switching
+   into dark mode.
    ============================================================ */
 .navbar {
   background-color: rgba(193, 89, 46, 0.82) !important;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  font-size: 1rem;
+  min-height: 0;
+}
+
+.navbar .navbar-brand {
+  padding-top: 0;
+  padding-bottom: 0;
+  font-size: 1.15rem;
+}
+
+.navbar .nav-link {
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
 }
 
 /* ============================================================
@@ -60,7 +79,7 @@
 
 .rss-title a {
   text-decoration: none;
-  color: var(--bs-primary, #C1592E);
+  color: #C1592E;
 }
 
 .rss-title a:hover {
@@ -121,7 +140,7 @@
 }
 
 .rss-leader strong {
-  color: var(--bs-primary, #C1592E);
+  color: #C1592E;
   font-weight: 700;
 }
 
@@ -219,12 +238,17 @@
 .team-points {
   float: right;
   font-weight: 700;
-  color: var(--bs-primary, #C1592E);
+  color: #C1592E;
 }
 
+/* Explicit background + text color (not a Bootstrap variable): Darkly
+   doesn't define --bs-tertiary-bg, so relying on it fell back to a
+   near-white pill with inherited light dark-mode text -- white on
+   white. */
 .team-budget {
   display: inline-block;
-  background: var(--bs-tertiary-bg, #f4f1ee);
+  background: #f4f1ee;
+  color: #22262b;
   border: 1px solid #e5e7eb;
   border-radius: 999px;
   padding: 0.15rem 0.75rem;
@@ -345,14 +369,39 @@
   background: #4b5563;
 }
 
+/* .team-budget has explicit, non-variable colors (see the rule
+   itself) so it looks the same regardless of theme -- just restyle
+   the border to something visible against the dark card background. */
 [data-bs-theme="dark"] .team-budget,
 .quarto-dark .team-budget {
-  border-color: #343b4a;
+  border-color: #3a4150;
 }
 
 [data-bs-theme="dark"] .team-preseason,
 .quarto-dark .team-preseason {
   color: #9aa3b2;
+}
+
+/* Fixed terracotta (#C1592E) reads fine on the light background but
+   is a bit muted on a dark one; brighten it for dark mode. Also
+   covers the case that sent us down this path: Darkly's own
+   --bs-primary is a low-contrast navy blue, so anything that used to
+   lean on that CSS variable for "accent" text was hard to read. */
+[data-bs-theme="dark"] .rss-title a,
+[data-bs-theme="dark"] .rss-leader strong,
+[data-bs-theme="dark"] .team-points,
+.quarto-dark .rss-title a,
+.quarto-dark .rss-leader strong,
+.quarto-dark .team-points {
+  color: #E8926A;
+}
+
+/* Team names in the standings widgets (homepage sidebar + Classifiche
+   page) were rendering in a low-contrast, link-like color in dark
+   mode; force plain readable text regardless of what's cascading in. */
+[data-bs-theme="dark"] .standings-table .team-name,
+.quarto-dark .standings-table .team-name {
+  color: #e5e7eb;
 }
 
 [data-bs-theme="dark"] .fixed-table th,
