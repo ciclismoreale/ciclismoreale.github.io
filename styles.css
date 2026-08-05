@@ -106,9 +106,15 @@
 /* Rows are grouped into "pages" and shown one page at a time via JS
    (see fill_ranking_page.py / fill_current_ranking_page.py). Hiding
    them by default in CSS avoids a flash of the full multi-thousand-row
-   table before the pagination script runs. */
+   table before the pagination script runs. The JS toggles the
+   "is-visible" class rather than inline styles, since ".page.is-visible"
+   (two classes) needs no !important to win over ".page" alone. */
 .cq-ranking-table tbody tr.page {
   display: none;
+}
+
+.cq-ranking-table tbody tr.page.is-visible {
+  display: table-row;
 }
 
 .cq-ranking-table thead th {

@@ -23592,10 +23592,10 @@
 <script>
 function showPage(page) {
     document.querySelectorAll('.page').forEach(row => {
-        row.style.display = 'none';
+        row.classList.remove('is-visible');
     });
     document.querySelectorAll('.page-' + page).forEach(row => {
-        row.style.display = '';
+        row.classList.add('is-visible');
     });
 
     document.querySelectorAll('#pagination button').forEach((b, i) => {

@@ -130,15 +130,16 @@ with open(output_file, "w", encoding="utf-8") as f:
     # ---- JavaScript pagination ----
     # Rows start hidden via the .cq-ranking-table tbody tr.page CSS rule
     # (styles.css) rather than a per-row inline style, so the table never
-    # flashes fully expanded before this script runs.
+    # flashes fully expanded before this script runs. Visibility is
+    # toggled with the "is-visible" class, not inline styles.
     f.write("""
 <script>
 function showPage(page) {
     document.querySelectorAll('.page').forEach(row => {
-        row.style.display = 'none';
+        row.classList.remove('is-visible');
     });
     document.querySelectorAll('.page-' + page).forEach(row => {
-        row.style.display = '';
+        row.classList.add('is-visible');
     });
 
     document.querySelectorAll('#pagination button').forEach((b, i) => {
