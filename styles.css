@@ -5,6 +5,12 @@
     flex-wrap: wrap;
   }
 
+  /* A bit more breathing room between medal / flag / name on mobile,
+     where the tighter 0.4rem gap feels cramped. */
+  .rss-results li {
+    gap: 0.7rem;
+  }
+
 }
 
 /* ============================================================

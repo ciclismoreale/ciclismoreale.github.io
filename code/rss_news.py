@@ -104,10 +104,9 @@ def render_card(entry):
         parts.append(f'<div class="rss-desc">{html.escape(fallback)}</div>')
 
     if leader:
-        leader_name, leader_nat = leader
+        leader_name, _leader_nat = leader
         parts.append(
             '<div class="rss-leader">'
-            f'{flag_img(leader_nat)}'
             f'<strong>Leader:</strong> {html.escape(leader_name)}'
             "</div>"
         )
