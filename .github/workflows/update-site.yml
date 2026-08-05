@@ -8,6 +8,10 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: site-deploy
+  cancel-in-progress: false
+
 jobs:
   update-site:
     runs-on: ubuntu-latest
@@ -23,6 +27,8 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: requirements.txt
 
       - name: Install Python dependencies
         run: |
@@ -57,6 +63,5 @@ jobs:
           git add docs
           git add data
           git add last_updated.md
-          git add data
           git commit -m "Automated site update" || echo "No changes to commit"
           git push
