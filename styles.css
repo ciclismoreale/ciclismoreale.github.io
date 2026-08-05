@@ -303,3 +303,73 @@
   min-width: 90px;
   max-width: 90px;
 }
+
+/* ============================================================
+   Dark mode
+   Quarto's light/dark toggle (see _quarto.yml "theme: {light, dark}")
+   sets data-bs-theme="dark" on <html>. The Bootstrap table/utility
+   classes used elsewhere already adapt automatically; these are the
+   spots with hardcoded light-mode colors (custom RSS cards, the
+   monthly "fixed-table" widgets) that need an explicit dark variant
+   so they don't stay as light boxes on a dark page.
+   ============================================================ */
+[data-bs-theme="dark"] .rss-card,
+.quarto-dark .rss-card {
+  background: #1f2430;
+  border-color: #343b4a;
+}
+
+[data-bs-theme="dark"] .rss-date,
+[data-bs-theme="dark"] .rss-meta,
+[data-bs-theme="dark"] .rss-desc,
+[data-bs-theme="dark"] .rss-leader,
+.quarto-dark .rss-date,
+.quarto-dark .rss-meta,
+.quarto-dark .rss-desc,
+.quarto-dark .rss-leader {
+  color: #9aa3b2;
+}
+
+[data-bs-theme="dark"] .rss-leader,
+.quarto-dark .rss-leader {
+  border-top-color: #343b4a;
+}
+
+[data-bs-theme="dark"] .rss-rider,
+.quarto-dark .rss-rider {
+  color: #e5e7eb;
+}
+
+[data-bs-theme="dark"] .rss-scroll::-webkit-scrollbar-thumb,
+.quarto-dark .rss-scroll::-webkit-scrollbar-thumb {
+  background: #4b5563;
+}
+
+[data-bs-theme="dark"] .team-budget,
+.quarto-dark .team-budget {
+  border-color: #343b4a;
+}
+
+[data-bs-theme="dark"] .team-preseason,
+.quarto-dark .team-preseason {
+  color: #9aa3b2;
+}
+
+[data-bs-theme="dark"] .fixed-table th,
+.quarto-dark .fixed-table th {
+  background: #262c38;
+  color: #e5e7eb;
+}
+
+[data-bs-theme="dark"] .fixed-table th,
+[data-bs-theme="dark"] .fixed-table td,
+.quarto-dark .fixed-table th,
+.quarto-dark .fixed-table td {
+  border-color: #3a4150;
+}
+
+[data-bs-theme="dark"] .fixed-table .fixed-col,
+.quarto-dark .fixed-table .fixed-col {
+  background: #1f2430;
+  color: #e5e7eb;
+}
