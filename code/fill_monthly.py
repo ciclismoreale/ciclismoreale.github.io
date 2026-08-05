@@ -20,53 +20,9 @@ def scrollable_table(csv_file, output_file):
         tbody += "</tr>"
     tbody += "</tbody>"
 
-    html = f"""<style>
-.table-container {{
-  width: 100%;
-  overflow-x: auto;
-}}
-
-.fixed-table {{
-  border-collapse: collapse;
-  table-layout: fixed;
-  min-width: 1000px;
-  font-size: 12px;
-}}
-
-.fixed-table th,
-.fixed-table td {{
-  border: 1px solid #ccc;
-  padding: 4px 8px;
-  white-space: nowrap;
-  text-align: center;
-}}
-
-.fixed-table th {{
-  background: #f4f4f4;
-  position: sticky;
-  top: 0;
-  z-index: 2;
-  font-weight: 600;
-}}
-
-.fixed-table .fixed-col {{
-  position: sticky;
-  left: 0;
-  background: white;
-  font-weight: 600;
-  text-align: left;
-  min-width: 150px;
-  z-index: 3;
-}}
-
-.fixed-table .month-col {{
-  width: 90px;
-  min-width: 90px;
-  max-width: 90px;
-}}
-</style>
-
-<div class="table-container">
+    # Styling for .table-container / .fixed-table lives in styles.css
+    # (shared across monthly_points.md and monthly_rank.md).
+    html = f"""<div class="table-container">
 <table class="fixed-table">
 {thead}
 {tbody}

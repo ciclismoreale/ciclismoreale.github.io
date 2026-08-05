@@ -59,7 +59,7 @@ for team in teams_data["teams"]:
             rider_row = rider_row.iloc[0]
             cq = pd.to_numeric(rider_row.get("CQ", 0), errors="coerce") or 0
             flag_html = (
-                f'<img src="{rider_row["Country Flag"]}" width="20">'
+                f'<img class="flag" src="{rider_row["Country Flag"]}" width="20">'
                 if "Country Flag" in rider_row and pd.notna(rider_row["Country Flag"])
                 else ""
             )
@@ -102,40 +102,37 @@ for team in teams_data["teams"]:
     })
 
 # HTML builders
+# Table look (stripes, hover, sizing) lives in styles.css; here we only
+# emit semantic Bootstrap classes instead of inline styles.
 medals = ["🥇", "🥈", "🥉", "🪵"]
 
 def build_html_ranking(teams_sorted, title=None, small=False):
     parts = []
 
     if title:
-        parts.append(
-            f'<div style="text-align:center;font-weight:bold;font-size:1.2em;margin-bottom:4px;">'
-            f'{title}</div>'
-        )
+        parts.append(f'<div class="text-center fw-bold fs-5 mb-1">{title}</div>')
 
-    parts.append('<div style="font-size:small;">' if small else '<div>')
-    parts.append('<table style="border-collapse:collapse;width:100%;">')
+    parts.append('<div class="small">' if small else "<div>")
+    parts.append('<table class="table table-striped table-hover table-sm mb-0">')
     parts.append(
-        '<thead>'
-        '<tr style="border-bottom:1px solid #ccc;">'
-        '<th style="text-align:center;padding:4px;"></th>'
-        '<th style="text-align:left;padding:4px;"></th>'
-        '<th style="text-align:right;padding:4px;">CQ pts</th>'
-        '</tr>'
-        '</thead><tbody>'
+        "<thead><tr>"
+        '<th class="text-center"></th>'
+        '<th></th>'
+        '<th class="text-end">CQ pts</th>'
+        "</tr></thead><tbody>"
     )
 
     for idx, team in enumerate(teams_sorted, start=1):
         medal = medals[idx - 1] if idx <= 4 else str(idx)
         parts.append(
-            '<tr>'
-            f'<td style="text-align:center;padding:4px;">{medal}</td>'
-            f'<td style="text-align:left;padding:4px;">{team["name"]}</td>'
-            f'<td style="text-align:right;padding:4px;">{team["points"]}</td>'
-            '</tr>'
+            "<tr>"
+            f'<td class="text-center">{medal}</td>'
+            f'<td>{team["name"]}</td>'
+            f'<td class="text-end">{team["points"]}</td>'
+            "</tr>"
         )
 
-    parts.append('</tbody></table></div>')
+    parts.append("</tbody></table></div>")
     return "".join(parts)
 
 # Total ranking
@@ -189,38 +186,38 @@ quarto_content = ""
 for team in teams_sorted_alpha:
     quarto_content += (
         f"### {team['name']} "
-        f"<span style='float:right'> CQ pts: {team['total_points']}</span>\n\n"
+        f'<span class="team-points">CQ pts: {team["total_points"]}</span>\n\n'
     )
-    quarto_content += f"**Budget:** {team['budget']:,}".replace(",", " ") + " $\n"
+    budget_str = f"{team['budget']:,}".replace(",", " ")
+    quarto_content += f'<span class="team-budget">Budget: {budget_str} $</span>\n\n'
 
     quarto_content += "<details>\n<summary>Corridori</summary>\n"
-    quarto_content += '<table style="border-collapse:collapse;width:100%;">\n'
-    quarto_content += '<thead><tr>\n'
+    quarto_content += '<div class="table-responsive">\n'
+    quarto_content += '<table class="table table-striped table-hover table-sm team-roster">\n'
+    quarto_content += "<thead><tr>\n"
 
-    headers = ["", "", "CQ", "Pre-asta", "Netti"]
-    widths = ["40px", "220px", "50px", "80px", "50px"]
+    headers = [("", "col-flag"), ("", ""), ("CQ", ""), ("Pre-asta", ""), ("Netti", "")]
 
-    for h, w in zip(headers, widths):
-        quarto_content += f'<th style="width:{w};text-align:center;">{h}</th>\n'
+    for h, cls in headers:
+        cls_attr = f' class="{cls}"' if cls else ""
+        quarto_content += f"<th{cls_attr}>{h}</th>\n"
 
-    quarto_content += '</tr></thead>\n<tbody>\n'
+    quarto_content += "</tr></thead>\n<tbody>\n"
 
     for flag_html, name, cq, cq_pre, net in team["riders_info"]:
         quarto_content += (
-            '<tr>'
-            f'<td style="text-align:center;">{flag_html}</td>'
-            f'<td style="text-align:left;">{name}</td>'
-            f'<td style="text-align:center;">{cq}</td>'
-            f'<td style="text-align:center;">{cq_pre}</td>'
-            f'<td style="text-align:center;">{net}</td>'
-            '</tr>\n'
+            "<tr>"
+            f'<td class="text-center">{flag_html}</td>'
+            f"<td>{name}</td>"
+            f'<td class="text-center">{cq}</td>'
+            f'<td class="text-center">{cq_pre}</td>'
+            f'<td class="text-center">{net}</td>'
+            "</tr>\n"
         )
-    quarto_content += '</tbody></table>\n'
+    quarto_content += "</tbody></table>\n</div>\n"
     if team["preseason"] != "":
-        quarto_content += "**Punti pre-asta: **"
-        quarto_content += team["preseason"]
-        quarto_content += '\n'
-    quarto_content += '</details>\n'
+        quarto_content += f'<div class="team-preseason"><strong>Punti pre-asta:</strong> {team["preseason"]}</div>\n'
+    quarto_content += "</details>\n"
 
 with open(quarto_file, "w", encoding="utf-8") as f:
     f.write(quarto_content)

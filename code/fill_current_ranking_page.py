@@ -55,35 +55,27 @@ ROWS_PER_PAGE = 100
 num_pages = math.ceil(len(df) / ROWS_PER_PAGE)
 
 # ----------------- WRITE OUTPUT -----------------
+# Table styling (zebra stripes, hover, sticky header, pagination
+# button look) lives in styles.css under .cq-ranking-table / .cq-pagination.
 with open(output_file, "w", encoding="utf-8") as f:
     # ---- Table ----
-    f.write('<table style="border-collapse: collapse; width:100%;">\n')
+    f.write('<div class="table-responsive">\n')
+    f.write('<table class="table table-striped table-hover table-sm cq-ranking-table">\n')
     f.write('<thead>\n<tr>\n')
 
     headers = [
-        "Rank",
-        "",
-        "",
-        "",
-        "Squadra",
-        "Fantasquadra",
-        "CQ pts",
-        "Base d'asta"
+        ("Rank", "col-rank"),
+        ("", "col-flag"),
+        ("Rider", "col-rider"),
+        ("Squadra", ""),
+        ("Fantasquadra", ""),
+        ("CQ pts", ""),
+        ("Base d'asta", ""),
     ]
 
-    widths = [
-        "30px",
-        "30px",
-        "200px",
-        "90px",
-        "80px",
-        "180px",
-        "60px",
-        "90px"
-    ]
-
-    for h, w in zip(headers, widths):
-        f.write(f'<th style="padding:4px;width:{w};text-align:center;">{h}</th>\n')
+    for h, cls in headers:
+        cls_attr = f' class="{cls}"' if cls else ""
+        f.write(f'<th{cls_attr}>{h}</th>\n')
 
     f.write('</tr>\n</thead>\n<tbody>\n')
 
@@ -91,7 +83,11 @@ with open(output_file, "w", encoding="utf-8") as f:
     for i, row in df.iterrows():
         page = i // ROWS_PER_PAGE
 
-        flag = f'<img src="{row["Country Flag"]}" width="20">' if pd.notna(row["Country Flag"]) else ""
+        flag = (
+            f'<img class="flag" src="{row["Country Flag"]}" width="20">'
+            if pd.notna(row["Country Flag"])
+            else ""
+        )
         rider = row["Rider"].replace("  ", "&nbsp;&nbsp;") if pd.notna(row["Rider"]) else ""
         dob = row["Date of birth"] if pd.notna(row["Date of birth"]) else ""
         true_team = row["Team"] if pd.notna(row["Team"]) else ""
@@ -105,34 +101,35 @@ with open(output_file, "w", encoding="utf-8") as f:
         base_asta = f'{base_asta_value:,}'.replace(",", " ")
 
         f.write(
-            f'<tr class="page page-{page}" style="display:none;">\n'
-            f'<td style="text-align:center;">{row["Rank"]}</td>\n'
-            f'<td style="text-align:center;">{flag}</td>\n'
-            f'<td style="text-align:left;">{rider}</td>\n'
-            f'<td style="text-align:center;">{dob}</td>\n'
-            f'<td style="text-align:center;">{true_team}</td>\n'
-            f'<td style="text-align:center;">{fanta_team}</td>\n'
-            f'<td style="text-align:center;">{cq_pts}</td>\n'
-            f'<td style="text-align:center;">{base_asta}</td>\n'
+            f'<tr class="page page-{page}">\n'
+            f'<td class="text-center">{row["Rank"]}</td>\n'
+            f'<td class="text-center">{flag}</td>\n'
+            f'<td>{rider}</td>\n'
+            f'<td class="text-center">{dob}</td>\n'
+            f'<td class="text-center">{true_team}</td>\n'
+            f'<td class="text-center">{fanta_team}</td>\n'
+            f'<td class="text-center">{cq_pts}</td>\n'
+            f'<td class="text-center">{base_asta}</td>\n'
             '</tr>\n'
         )
 
-    f.write('</tbody>\n</table>\n')
+    f.write('</tbody>\n</table>\n</div>\n')
 
     # ---- Pagination buttons ----
-    f.write("""
-<div id="pagination" style="margin-top:15px; text-align:center;">
-""")
+    f.write('<div id="pagination" class="cq-pagination">\n')
 
     for i in range(num_pages):
         f.write(
-            f'<button onclick="showPage({i})" '
-            f'style="margin:3px;padding:5px 10px;">{i+1}</button>\n'
+            f'<button class="btn btn-outline-secondary btn-sm" '
+            f'onclick="showPage({i})">{i + 1}</button>\n'
         )
 
     f.write('</div>\n')
 
     # ---- JavaScript pagination ----
+    # Rows start hidden via the .cq-ranking-table tbody tr.page CSS rule
+    # (styles.css) rather than a per-row inline style, so the table never
+    # flashes fully expanded before this script runs.
     f.write("""
 <script>
 function showPage(page) {
@@ -143,8 +140,8 @@ function showPage(page) {
         row.style.display = '';
     });
 
-    document.querySelectorAll('#pagination button').forEach((b,i) => {
-        b.style.fontWeight = (i === page) ? 'bold' : 'normal';
+    document.querySelectorAll('#pagination button').forEach((b, i) => {
+        b.classList.toggle('active', i === page);
     });
 }
 showPage(0);

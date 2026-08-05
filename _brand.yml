@@ -1,0 +1,46 @@
+meta:
+  name: "Ciclismo Reale"
+
+logo:
+  images:
+    wheel:
+      path: other/logo.png
+  small: wheel
+  medium: wheel
+  large: wheel
+
+color:
+  palette:
+    terracotta: "#C1592E"
+    terracotta-dark: "#9C4523"
+    navy: "#2C3E50"
+    cream: "#FAF7F4"
+    charcoal: "#22262B"
+    slate: "#6B7280"
+    success-green: "#2E7D32"
+    danger-red: "#C0392B"
+  foreground: charcoal
+  background: cream
+  primary: terracotta
+  secondary: navy
+  tertiary: slate
+  success: success-green
+  info: navy
+  warning: "#E8A33D"
+  danger: danger-red
+  light: cream
+  dark: charcoal
+
+typography:
+  fonts:
+    - family: "Inter"
+      source: google
+  base:
+    family: "Inter"
+    size: 1rem
+  headings:
+    family: "Inter"
+    weight: 700
+  link:
+    color: terracotta
+    decoration: none
