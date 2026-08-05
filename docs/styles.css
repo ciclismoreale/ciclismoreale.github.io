@@ -302,22 +302,16 @@
   width: 38%;
 }
 
-.program-table img.flag {
-  border-radius: 2px;
-  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.08);
-}
-
-/* Each rider gets a small inline "chip" inside the Corridori cell so
-   several names read as distinct entries rather than a run-on list. */
+/* Each rider (surname only) gets a small inline "chip" inside the
+   Corridori cell so several names read as distinct entries rather
+   than a run-on list. */
 .program-rider {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.3rem;
+  display: inline-block;
   margin: 0.1rem 0.5rem 0.1rem 0;
 }
 
-.program-rider img.flag {
-  flex-shrink: 0;
+.program-rider:not(:last-child)::after {
+  content: ",";
 }
 
 /* ============================================================
