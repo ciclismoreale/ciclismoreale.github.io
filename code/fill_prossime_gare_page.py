@@ -103,7 +103,7 @@ def main():
                     else race_name
                 )
                 race_class = row["Class"] if pd.notna(row["Class"]) else ""
-                riders_html = " ".join(
+                riders_html = ", ".join(
                     rider_badge(r) for r in sorted(row["Rider"], key=surname)
                 )
 

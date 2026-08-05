@@ -223,9 +223,22 @@ def fetch_program(session, slug):
                 if not date_text or not race_link:
                     continue
                 race_name = race_link.get_text(strip=True)
-                race_url = race_link.get("href", "")
-                if race_url.startswith("/"):
-                    race_url = "https://www.procyclingstats.com" + race_url
+                href = race_link.get("href", "")
+                # Race links are always to a top-level "/race/<slug>/
+                # <year>" page, but PCS often writes the href relative
+                # *without* a leading slash (e.g. "race/vuelta-a-espana
+                # /2026"). Resolving that against the current page's own
+                # URL (urljoin(resp.url, href)) is wrong here -- it gets
+                # nested under "/rider/<slug>/...", since the calendar
+                # page itself isn't a real directory. Anchor directly to
+                # the site root instead, which matches how these links
+                # actually resolve on PCS regardless of a leading slash.
+                if not href:
+                    race_url = ""
+                elif href.startswith("http://") or href.startswith("https://"):
+                    race_url = href
+                else:
+                    race_url = "https://www.procyclingstats.com/" + href.lstrip("/")
                 race_class = cells[2].get_text(strip=True) if len(cells) > 2 else ""
                 program.append(
                     {
