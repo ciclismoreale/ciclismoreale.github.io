@@ -61,12 +61,12 @@ def _slug_part(text):
     return text.strip("-")
 
 
-def name_to_slug(rider_name):
+def _split_name_words(rider_name):
     """
-    rider_name: CQranking format, e.g. "VAN DER POEL Mathieu" or
-    "POGACAR Tadej" (surname fully upper-case, given name(s) title
-    case). Returns a best-guess ProCyclingStats slug
-    ("firstname-lastname"), or None if the name can't be split.
+    Split a CQranking-format name ("VAN DER POEL Mathieu", "POGACAR
+    Tadej" -- surname fully upper-case, given name(s) title case) into
+    (surname_words, given_words), based on the leading run of
+    all-uppercase words.
     """
     words = rider_name.split()
     surname_words = []
@@ -81,6 +81,30 @@ def name_to_slug(rider_name):
         else:
             seen_given = True
             given_words.append(w)
+
+    return surname_words, given_words
+
+
+def surname(rider_name):
+    """
+    Best-guess surname only, in its original casing (e.g. "VAN DER
+    POEL"). Falls back to the full name unchanged if it doesn't look
+    like the expected "SURNAME(S) Given name(s)" shape.
+    """
+    surname_words, given_words = _split_name_words(rider_name)
+    if not surname_words or not given_words:
+        return rider_name
+    return " ".join(surname_words)
+
+
+def name_to_slug(rider_name):
+    """
+    rider_name: CQranking format, e.g. "VAN DER POEL Mathieu" or
+    "POGACAR Tadej" (surname fully upper-case, given name(s) title
+    case). Returns a best-guess ProCyclingStats slug
+    ("firstname-lastname"), or None if the name can't be split.
+    """
+    surname_words, given_words = _split_name_words(rider_name)
 
     if not surname_words or not given_words:
         return None

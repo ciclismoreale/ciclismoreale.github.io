@@ -12,9 +12,10 @@ from datetime import datetime
 
 import pandas as pd
 
+from pcs_common import surname
+
 PROGRAM_CSV = "data/pcs_program.csv"
 NO_PROGRAM_CSV = "data/pcs_no_program.csv"
-RIDERS_CSV = "data/cqranking_riders.csv"
 TEAMS_JSON = "data/teams.json"
 OUTPUT_FILE = "c_prossime_gare.md"
 
@@ -29,23 +30,8 @@ def format_date(iso_date):
         return iso_date or ""
 
 
-def load_flags():
-    try:
-        df = pd.read_csv(RIDERS_CSV)
-    except FileNotFoundError:
-        return {}
-    df["Rider"] = df["Rider"].astype(str).str.strip()
-    return dict(zip(df["Rider"], df.get("Country Flag", "")))
-
-
-def rider_badge(rider_name, flags):
-    flag_url = flags.get(rider_name, "")
-    flag_html = (
-        f'<img class="flag" src="{flag_url}" width="16">'
-        if isinstance(flag_url, str) and flag_url
-        else ""
-    )
-    return f'<span class="program-rider">{flag_html}{rider_name}</span>'
+def rider_badge(rider_name):
+    return f'<span class="program-rider">{surname(rider_name)}</span>'
 
 
 def main():
@@ -58,8 +44,6 @@ def main():
         no_program_df = pd.read_csv(NO_PROGRAM_CSV)
     except FileNotFoundError:
         no_program_df = pd.DataFrame(columns=["Team", "Rider"])
-
-    flags = load_flags()
 
     with open(TEAMS_JSON, "r", encoding="utf-8") as f:
         teams_data = json.load(f)
@@ -120,7 +104,7 @@ def main():
                 )
                 race_class = row["Class"] if pd.notna(row["Class"]) else ""
                 riders_html = " ".join(
-                    rider_badge(r, flags) for r in sorted(row["Rider"])
+                    rider_badge(r) for r in sorted(row["Rider"], key=surname)
                 )
 
                 content.append(
