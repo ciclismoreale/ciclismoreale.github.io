@@ -310,6 +310,15 @@
   display: inline-block;
 }
 
+/* "Nessuna gara in programma..." notes. Explicit, non-variable color
+   (not Bootstrap's .text-muted): relying on Bootstrap's own muted
+   color resolved to a low-contrast dark blue in Darkly's dark mode,
+   the same class of bug as the earlier link/team-name issues. */
+.program-note {
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+
 /* ============================================================
    Medagliere tables (medagliere.qmd)
    Keep the team name on a single line instead of wrapping.
@@ -476,6 +485,11 @@
 [data-bs-theme="dark"] .program-table a,
 .quarto-dark .program-table a {
   color: #E8926A !important;
+}
+
+[data-bs-theme="dark"] .program-note,
+.quarto-dark .program-note {
+  color: #aab2c0;
 }
 
 /* Standings widget title ("CLASSIFICA") */
