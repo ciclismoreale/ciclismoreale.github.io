@@ -69,7 +69,7 @@ with open(output_file, "w", encoding="utf-8") as f:
         ("Rider", "col-rider"),
         ("", ""),  # Date of birth (no header in the original layout)
         ("Squadra", ""),
-        ("Fantasquadra", ""),
+        ("Fantasquadra", "text-center"),
         ("CQ pts", ""),
         ("Base d'asta", ""),
     ]

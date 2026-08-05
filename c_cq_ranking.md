@@ -7,7 +7,7 @@
 <th class="col-rider">Rider</th>
 <th></th>
 <th>Squadra</th>
-<th>Fantasquadra</th>
+<th class="text-center">Fantasquadra</th>
 <th>CQ pts</th>
 </tr>
 </thead>
