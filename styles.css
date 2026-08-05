@@ -454,6 +454,16 @@
   color: #E8926A !important;
 }
 
+/* Same fix for plain markdown links in the page body (e.g. the
+   ProCyclingStats attribution on the Prossime gare page), which
+   otherwise fall back to Darkly's own link color -- a muddy green/teal
+   against the dark background rather than a low-contrast navy, but the
+   same underlying issue as everywhere else on this list. */
+[data-bs-theme="dark"] main#quarto-document-content a,
+.quarto-dark main#quarto-document-content a {
+  color: #E8926A !important;
+}
+
 /* Standings tables (homepage sidebar + Classifiche page) and the CQ
    ranking / team roster tables were rendering cell text -- including
    header cells (<th>), which the previous rule missed -- in a
