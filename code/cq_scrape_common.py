@@ -9,6 +9,7 @@ HTTP requests + BeautifulSoup. Same output CSV schema as before:
 """
 
 import time
+from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -37,7 +38,11 @@ def _fetch_page(session, year, current, start):
                 BASE_URL, params=params, headers=HEADERS, timeout=REQUEST_TIMEOUT
             )
             resp.raise_for_status()
-            return resp.text
+            # Return the final URL too (after redirects) so relative links
+            # (e.g. root-relative flag image src="/common/flags/XXX.gif")
+            # can be resolved to absolute URLs, the way a browser/Selenium
+            # would when reading element.src.
+            return resp.text, resp.url
         except requests.RequestException as exc:
             last_exc = exc
             time.sleep(1 + attempt)
@@ -72,7 +77,7 @@ def scrape_cq_ranking(year, current, max_riders=MAX_RIDERS, page_size=PAGE_SIZE)
 
     while total_rank <= max_riders:
         print(f"Scraping page starting at rank {total_rank} (start={start_rank})...")
-        html = _fetch_page(session, year, current, start_rank)
+        html, page_url = _fetch_page(session, year, current, start_rank)
         soup = BeautifulSoup(html, "lxml")
         table = _find_ranking_table(soup)
 
@@ -102,7 +107,8 @@ def scrape_cq_ranking(year, current, max_riders=MAX_RIDERS, page_size=PAGE_SIZE)
             for c in cells:
                 img = c.find("img")
                 if img:
-                    flag_url = img.get("src", "")
+                    src = img.get("src", "")
+                    flag_url = urljoin(page_url, src) if src else ""
                     continue
                 text = c.get_text(strip=True)
                 if text:
