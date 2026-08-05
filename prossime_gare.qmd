@@ -4,8 +4,10 @@ title: "Prossime gare"
 
 <hr>
 
+{{< include c_prossime_gare.md >}}
+
+<hr>
+
 Programma delle prossime gare dei corridori delle fantasquadre, ricavato da [ProCyclingStats](https://www.procyclingstats.com/).
 
 **NOTA:** l'abbinamento fra i nomi CQranking e ProCyclingStats è automatico; i corridori il cui nome non trova corrispondenza vengono semplicemente omessi.
-
-{{< include c_prossime_gare.md >}}

@@ -137,6 +137,23 @@ def _normalize_date(date_text, today=None):
         return date_text
 
 
+
+# The calendar table links to the specific stage a rider is doing
+# (e.g. ".../race/vuelta-a-espana/2026/stage-1"), but we want the
+# link to point at the race's own overview page instead
+# (".../race/vuelta-a-espana/2026").
+_RACE_URL_RE = re.compile(
+    r"^(https://www\.procyclingstats\.com/race/[^/]+/\d{4})(?:/.*)?$"
+)
+
+
+def _canonicalize_race_url(url):
+    if not url:
+        return url
+    m = _RACE_URL_RE.match(url)
+    return m.group(1) if m else url
+
+
 def fetch_program(session, slug):
     """
     Fetch the "Upcoming program" table for a rider slug.
@@ -191,7 +208,7 @@ def fetch_program(session, slug):
                         "date": _normalize_date(date_text),
                         "race": race_name,
                         "class": race_class,
-                        "url": race_url,
+                        "url": _canonicalize_race_url(race_url),
                     }
                 )
             return program

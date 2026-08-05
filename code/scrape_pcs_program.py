@@ -16,6 +16,7 @@ from pcs_common import name_to_slug, fetch_program, SLEEP_BETWEEN_REQUESTS
 
 TEAMS_JSON = "data/teams.json"
 OUTPUT_CSV = "data/pcs_program.csv"
+NO_PROGRAM_CSV = "data/pcs_no_program.csv"
 
 
 def main():
@@ -29,6 +30,11 @@ def main():
     program_cache = {}
     unmatched = []
     rows = []
+    # Riders who *do* have a matching PCS page but currently have no
+    # upcoming races listed -- distinct from riders we couldn't match
+    # at all, and worth surfacing on the page rather than silently
+    # dropping (see fill_prossime_gare_page.py).
+    no_program_rows = []
 
     for team in teams_data.get("teams", []):
         team_name = team.get("name", "-")
@@ -53,7 +59,11 @@ def main():
                     print(f"  {rider_name}: {len(program)} upcoming race(s)")
 
             program = program_cache[rider_name]
+            if program is None:
+                continue
+
             if not program:
+                no_program_rows.append({"Team": team_name, "Rider": rider_name})
                 continue
 
             for race in program:
@@ -73,8 +83,12 @@ def main():
     df = pd.DataFrame(rows, columns=["Team", "Rider", "Date", "Race", "Class", "RaceURL"])
     df.to_csv(OUTPUT_CSV, index=False, encoding="utf-8")
 
+    no_program_df = pd.DataFrame(no_program_rows, columns=["Team", "Rider"])
+    no_program_df.to_csv(NO_PROGRAM_CSV, index=False, encoding="utf-8")
+
     print(
-        f"Done. {len(program_cache) - len(unmatched)} riders matched, "
+        f"Done. {len(program_cache) - len(unmatched)} riders matched "
+        f"({len(no_program_rows)} with no upcoming races), "
         f"{len(unmatched)} skipped (no PCS match), {len(rows)} upcoming race rows saved."
     )
 
