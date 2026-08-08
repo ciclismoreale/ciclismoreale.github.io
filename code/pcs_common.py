@@ -97,25 +97,56 @@ def surname(rider_name):
     return " ".join(surname_words)
 
 
-def name_to_slug(rider_name):
+def _build_slug(surname_words, given_words):
+    surname_slug = "-".join(p for p in (_slug_part(w) for w in surname_words) if p)
+    given_slug = "-".join(p for p in (_slug_part(w) for w in given_words) if p)
+    if not surname_slug or not given_slug:
+        return None
+    return f"{given_slug}-{surname_slug}"
+
+
+def name_to_slug_candidates(rider_name):
     """
     rider_name: CQranking format, e.g. "VAN DER POEL Mathieu" or
     "POGACAR Tadej" (surname fully upper-case, given name(s) title
-    case). Returns a best-guess ProCyclingStats slug
-    ("firstname-lastname"), or None if the name can't be split.
+    case). Returns a list of best-guess ProCyclingStats slugs to try,
+    in priority order:
+
+      1. the full name ("given-word(s)-surname-word(s)").
+      2. just the first given word + first surname word, for names
+         with more than one surname or given word. Several naming
+         conventions (Spanish/Catalan double surnames in particular,
+         e.g. "MAS NICOLAU Enric") carry a second surname that
+         ProCyclingStats' own slug drops entirely -- PCS lists that
+         rider simply as "enric-mas", not "enric-mas-nicolau".
+
+    Returns an empty list if the name can't be split into
+    surname/given parts at all.
     """
     surname_words, given_words = _split_name_words(rider_name)
-
     if not surname_words or not given_words:
-        return None
+        return []
 
-    surname_slug = "-".join(p for p in (_slug_part(w) for w in surname_words) if p)
-    given_slug = "-".join(p for p in (_slug_part(w) for w in given_words) if p)
+    candidates = []
 
-    if not surname_slug or not given_slug:
-        return None
+    full = _build_slug(surname_words, given_words)
+    if full:
+        candidates.append(full)
 
-    return f"{given_slug}-{surname_slug}"
+    if len(surname_words) > 1 or len(given_words) > 1:
+        short = _build_slug(surname_words[:1], given_words[:1])
+        if short and short not in candidates:
+            candidates.append(short)
+
+    return candidates
+
+
+def name_to_slug(rider_name):
+    """Single best-guess slug (the first, most specific candidate), or
+    None. Kept for backwards compatibility -- prefer
+    name_to_slug_candidates for the full fallback list."""
+    candidates = name_to_slug_candidates(rider_name)
+    return candidates[0] if candidates else None
 
 
 def _normalize_date(date_text, today=None):

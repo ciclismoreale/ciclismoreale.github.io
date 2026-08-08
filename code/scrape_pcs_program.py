@@ -2,9 +2,10 @@
 Scrape each fantasy team's riders' upcoming race program from
 ProCyclingStats and save it to data/pcs_program.csv.
 
-Riders whose ProCyclingStats page can't be found under our best-guess
-slug (name mismatches between CQranking and ProCyclingStats) are
-skipped -- see pcs_common.name_to_slug for the matching approach.
+Riders whose ProCyclingStats page can't be found under any of our
+best-guess slugs (name mismatches between CQranking and
+ProCyclingStats) are skipped -- see pcs_common.name_to_slug_candidates
+for the matching approach.
 """
 
 import json
@@ -12,7 +13,7 @@ import time
 
 import requests
 
-from pcs_common import name_to_slug, fetch_program, SLEEP_BETWEEN_REQUESTS
+from pcs_common import name_to_slug_candidates, fetch_program, SLEEP_BETWEEN_REQUESTS
 
 TEAMS_JSON = "data/teams.json"
 OUTPUT_CSV = "data/pcs_program.csv"
@@ -40,9 +41,13 @@ def main():
         team_name = team.get("name", "-")
         for rider_name in team.get("riders", []):
             if rider_name not in program_cache:
-                slug = name_to_slug(rider_name)
+                candidates = name_to_slug_candidates(rider_name)
                 program = None
-                if slug:
+                matched_slug = None
+                tried = []
+
+                for slug in candidates:
+                    tried.append(slug)
                     try:
                         program = fetch_program(session, slug)
                     except requests.RequestException as exc:
@@ -50,13 +55,18 @@ def main():
                         program = None
                     time.sleep(SLEEP_BETWEEN_REQUESTS)
 
+                    if program is not None:
+                        matched_slug = slug
+                        break
+
                 program_cache[rider_name] = program
 
                 if program is None:
                     unmatched.append(rider_name)
-                    print(f"  no PCS match: {rider_name} (tried slug '{slug}')")
+                    tried_str = ", ".join(f"'{s}'" for s in tried) if tried else "(no candidate slugs)"
+                    print(f"  no PCS match: {rider_name} (tried {tried_str})")
                 else:
-                    print(f"  {rider_name}: {len(program)} upcoming race(s)")
+                    print(f"  {rider_name}: {len(program)} upcoming race(s) (slug '{matched_slug}')")
 
             program = program_cache[rider_name]
             if program is None:
