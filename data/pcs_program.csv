@@ -15,8 +15,8 @@ BABY YODA - OSF,BENOOT Tiesj,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,htt
 BABY YODA - OSF,BENOOT Tiesj,2026-09-13,Grand Prix Cycliste de Montréal,1.UWT,https://www.procyclingstats.com/race/gp-montreal/2026
 BABY YODA - OSF,BENOOT Tiesj,2026-10-10,Il Lombardia,1.UWT,https://www.procyclingstats.com/race/il-lombardia/2026
 BABY YODA - OSF,BENOOT Tiesj,2026-10-13,Tour of Guangxi,2.UWT,https://www.procyclingstats.com/race/tour-of-guangxi/2026
-BABY YODA - OSF,CHRISTEN Fabio,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 BABY YODA - OSF,CASTRILLO ZAPATER Pablo,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
+BABY YODA - OSF,BARONCINI Filippo,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 BABY YODA - OSF,BARONCINI Filippo,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 BABY YODA - OSF,VAN EETVELT Lennert,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,https://www.procyclingstats.com/race/gp-quebec/2026
 BABY YODA - OSF,VAN EETVELT Lennert,2026-09-13,Grand Prix Cycliste de Montréal,1.UWT,https://www.procyclingstats.com/race/gp-montreal/2026
@@ -37,17 +37,21 @@ BERGERO CORSE,MILAN Jonathan,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyc
 BERGERO CORSE,MILAN Jonathan,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 BERGERO CORSE,MILAN Jonathan,2026-09-02,ZLM Tour,2.1,https://www.procyclingstats.com/race/zlm-tour/2026
 BERGERO CORSE,HERRADA LOPEZ Jesus,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
+BERGERO CORSE,MOZZATO Luca,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 BERGERO CORSE,MOZZATO Luca,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
+BERGERO CORSE,VAN MOER Brent,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 BERGERO CORSE,VAN MOER Brent,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 BERGERO CORSE,NAESEN Oliver,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 BERGERO CORSE,NAESEN Oliver,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 BERGERO CORSE,NAESEN Oliver,2026-08-30,Bretagne Classic - CIC,1.UWT,https://www.procyclingstats.com/race/bretagne-classic/2026
 BERGERO CORSE,NAESEN Oliver,2026-09-16,Skoda Tour de Luxembourg,2.Pro,https://www.procyclingstats.com/race/tour-de-luxembourg/2026
 BERGERO CORSE,BENNETT George,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
+BERGERO CORSE,CONSONNI Simone,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 BERGERO CORSE,CONSONNI Simone,2026-08-19,Lidl Deutschland Tour,2.Pro,https://www.procyclingstats.com/race/deutschland-tour/2026
 BERGERO CORSE,CONSONNI Simone,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 BERGERO CORSE,KRON Andreas Lorentz,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 BERGERO CORSE,RACCAGNI NOVIERO Andrea,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
+BERGERO CORSE,RACCAGNI NOVIERO Andrea,2026-08-19,Lidl Deutschland Tour,2.Pro,https://www.procyclingstats.com/race/deutschland-tour/2026
 DAINESTO PAGILLO,GALL Felix,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 DAINESTO PAGILLO,GODON Dorian,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,https://www.procyclingstats.com/race/gp-quebec/2026
 DAINESTO PAGILLO,SEIXAS Paul,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,https://www.procyclingstats.com/race/gp-quebec/2026
@@ -69,6 +73,7 @@ DPJ,AYUSO PESQUERA Juan,2026-10-04,European Continental Championships ME - Road 
 DPJ,AYUSO PESQUERA Juan,2026-10-10,Il Lombardia,1.UWT,https://www.procyclingstats.com/race/il-lombardia/2026
 DPJ,SIVAKOV Pavel,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 DPJ,SHEFFIELD Magnus,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
+DPJ,HERMANS Quinten,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 DPJ,MOHORIC Matej,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 DPJ,MOHORIC Matej,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 DPJ,MOHORIC Matej,2026-08-30,Bretagne Classic - CIC,1.UWT,https://www.procyclingstats.com/race/bretagne-classic/2026
@@ -86,21 +91,29 @@ GIANCICLI WW,EVENEPOEL Remco,2026-10-04,European Continental Championships ME - 
 GIANCICLI WW,EVENEPOEL Remco,2026-10-10,Il Lombardia,1.UWT,https://www.procyclingstats.com/race/il-lombardia/2026
 GIANCICLI WW,EVENEPOEL Remco,2026-10-18,Chrono des Nations,1.1,https://www.procyclingstats.com/race/chrono-des-nations/2026
 GIANCICLI WW,VAN AERT Wout,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
+GIANCICLI WW,WAERENSKJOLD Søren,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 GIANCICLI WW,WAERENSKJOLD Søren,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 GIANCICLI WW,BILBAO LOPEZ DE ARMENTIA Pello,2026-08-19,Lidl Deutschland Tour,2.Pro,https://www.procyclingstats.com/race/deutschland-tour/2026
 GIANCICLI WW,GROENEWEGEN Dylan,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 GIANCICLI WW,GROENEWEGEN Dylan,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 GIANCICLI WW,GROENEWEGEN Dylan,2026-09-18,Kampioenschap van Vlaanderen,1.1,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen1/2026
+GIANCICLI WW,TRENTIN Matteo,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 GIANCICLI WW,TRENTIN Matteo,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
+GIANCICLI WW,VAN DEN BERG Marijn,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 GIANCICLI WW,VAN DEN BERG Marijn,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
+GIANCICLI WW,LAURANCE Axel,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 GIANCICLI WW,LAURANCE Axel,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
+GIANCICLI WW,PENHOËT Paul,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 GIANCICLI WW,PARET PEINTRE Valentin,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 GIANCICLI WW,GAUDU David,2026-08-16,La Polynormande,1.1,https://www.procyclingstats.com/race/la-poly-normande/2026
 GIANCICLI WW,GAUDU David,2026-08-18,Tour du Limousin-Périgord - Nouvelle Aquitaine,2.1,https://www.procyclingstats.com/race/tour-du-limousin/2026
 GIANCICLI WW,BOL Cees,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 GIANCICLI WW,BOL Cees,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
+GIANCICLI WW,DE PRETTO Davide,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 GIANCICLI WW,SENECHAL Florian,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 GIANCICLI WW,KRIJNSEN Jelte,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
+GIANCICLI WW,REMIJN Senna,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
+GIANCICLI WW,GRUEL Thibaud,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 GIANCICLI WW,GRUEL Thibaud,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 GONDAVERI,YATES Adam,2026-08-19,Lidl Deutschland Tour,2.Pro,https://www.procyclingstats.com/race/deutschland-tour/2026
 GONDAVERI,WELLENS Tim,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
@@ -111,19 +124,25 @@ GONDAVERI,UIJTDEBROEKS Cian,2026-08-22,La Vuelta Ciclista a España,2.UWT,https:
 GONDAVERI,MARTIN GUYONNET Guillaume,2026-08-16,La Polynormande,1.1,https://www.procyclingstats.com/race/la-poly-normande/2026
 GONDAVERI,MARTIN GUYONNET Guillaume,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 GONDAVERI,KRAGH ANDERSEN Søren,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
+GONDAVERI,AGOSTINACCHIO Mattia,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 GONDAVERI,AGOSTINACCHIO Mattia,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 GONDAVERI,AGOSTINACCHIO Mattia,2026-08-30,Philadelphia Cycling Class p/b AmeriGas,1.1,https://www.procyclingstats.com/race/philadelphia-international-championship/2026
 GONDAVERI,FINN Lorenzo,2026-08-20,Tour de l'Avenir,2.2U,https://www.procyclingstats.com/race/tour-de-l-avenir/2026
 GONDAVERI,FINN Lorenzo,2026-09-25,World Championships MU - Road Race,WC,https://www.procyclingstats.com/race/world-championships-u23/2026
+GONDAVERI,VALJAVEC Erazem,2026-08-20,Tour de l'Avenir,2.2U,https://www.procyclingstats.com/race/tour-de-l-avenir/2026
 GONDAVERI,ROWE Elliot,2026-08-16,La Polynormande,1.1,https://www.procyclingstats.com/race/la-poly-normande/2026
+GONDAVERI,ROWE Elliot,2026-08-20,Tour de l'Avenir,2.2U,https://www.procyclingstats.com/race/tour-de-l-avenir/2026
+GONDAVERI,MATTIO Pietro,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 GONDAVERI,MATTIO Pietro,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 LEGNANO,DE LIE Arnaud,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 LEGNANO,DE LIE Arnaud,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 LEGNANO,MAGNIER Paul,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
+LEGNANO,MAGNIER Paul,2026-08-19,Lidl Deutschland Tour,2.Pro,https://www.procyclingstats.com/race/deutschland-tour/2026
 LEGNANO,MAGNIER Paul,2026-08-30,Bretagne Classic - CIC,1.UWT,https://www.procyclingstats.com/race/bretagne-classic/2026
 LEGNANO,BRENNAN Matthew,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 LEGNANO,CHAMPOUSSIN Clément,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 LEGNANO,ROMEO ABAD Ivan,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
+LEGNANO,VAN POPPEL Danny,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 LEGNANO,KÜNG Stefan,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 LEGNANO,LEKNESSUND Andreas,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 LEGNANO,SÖDERQVIST Jakob,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
@@ -142,11 +161,13 @@ MARTINONE UNO,EEKHOFF Nils,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procycli
 MARTINONE UNO,EEKHOFF Nils,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 MARTINONE UNO,ASKEY Lewis,2026-08-30,Bretagne Classic - CIC,1.UWT,https://www.procyclingstats.com/race/bretagne-classic/2026
 MARTINONE UNO,WELSFORD Sam,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
+MARTINONE UNO,ETXEBERRIA ANSALAS Haimar,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 MARTINONE UNO,VERMAERKE Kevin,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 MARTINONE UNO,POOLE Max,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 MARTINONE UNO,GAUTHERAT Pierre,2026-08-16,La Polynormande,1.1,https://www.procyclingstats.com/race/la-poly-normande/2026
 MARTINONE UNO,GAUTHERAT Pierre,2026-08-18,Tour du Limousin-Périgord - Nouvelle Aquitaine,2.1,https://www.procyclingstats.com/race/tour-du-limousin/2026
 MARTINONE UNO,PAGE Hugo,2026-08-16,La Polynormande,1.1,https://www.procyclingstats.com/race/la-poly-normande/2026
+MARTINONE UNO,KOPECKY Matyas,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 MARTINONE UNO,KOPECKY Matyas,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 MARTINONE UNO,GRAAT Tijmen,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 MASTRO BIRRAIO GCP,MERLIER Tim,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
@@ -157,7 +178,9 @@ MASTRO BIRRAIO GCP,STRONG Corbin,2026-09-27,World Championships ME - Road Race,W
 MASTRO BIRRAIO GCP,BITTNER Pavel,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 MASTRO BIRRAIO GCP,BITTNER Pavel,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 MASTRO BIRRAIO GCP,BUITRAGO SANCHEZ Santiago,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
+MASTRO BIRRAIO GCP,VERMEERSCH Florian,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 MASTRO BIRRAIO GCP,VERMEERSCH Florian,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
+MASTRO BIRRAIO GCP,DEL GROSSO Tibor,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 MASTRO BIRRAIO GCP,DEL GROSSO Tibor,2026-08-19,Lidl Deutschland Tour,2.Pro,https://www.procyclingstats.com/race/deutschland-tour/2026
 MASTRO BIRRAIO GCP,MENTEN Milan,2026-08-16,La Polynormande,1.1,https://www.procyclingstats.com/race/la-poly-normande/2026
 MASTRO BIRRAIO GCP,MENTEN Milan,2026-08-18,Tour du Limousin-Périgord - Nouvelle Aquitaine,2.1,https://www.procyclingstats.com/race/tour-du-limousin/2026
@@ -167,13 +190,16 @@ MASTRO BIRRAIO GCP,DE SCHUYTENEER Steffen,2026-09-18,Kampioenschap van Vlaandere
 MASTRO BIRRAIO GCP,DE SCHUYTENEER Steffen,2026-09-20,Gooikse pijl p/b Lotto,1.1,https://www.procyclingstats.com/race/gooikse-pijl/2026
 MASTRO BIRRAIO GCP,DE SCHUYTENEER Steffen,2026-10-11,Paris - Tours Elite,1.Pro,https://www.procyclingstats.com/race/paris-tours/2026
 MASTRO BIRRAIO GCP,KIELICH Timo,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
+MASTRO BIRRAIO GCP,PITHIE Laurence,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 MASTRO BIRRAIO GCP,PITHIE Laurence,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 MASTRO BIRRAIO GCP,PITHIE Laurence,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 MASTRO BIRRAIO GCP,PITHIE Laurence,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
 MASTRO BIRRAIO GCP,KÄMNA Lennard,2026-08-19,Lidl Deutschland Tour,2.Pro,https://www.procyclingstats.com/race/deutschland-tour/2026
 MASTRO BIRRAIO GCP,KUBIS Lukas,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 MASTRO BIRRAIO GCP,KUBIS Lukas,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
+MASTRO BIRRAIO GCP,MARIT Arne,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 MASTRO BIRRAIO GCP,MARIT Arne,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
+MASTRO BIRRAIO GCP,MIHKELS Madis,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 MASTRO BIRRAIO GCP,MIHKELS Madis,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 PANETTERIA BERGERO,CICCONE Giulio,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,https://www.procyclingstats.com/race/gp-quebec/2026
 PANETTERIA BERGERO,CICCONE Giulio,2026-09-13,Grand Prix Cycliste de Montréal,1.UWT,https://www.procyclingstats.com/race/gp-montreal/2026
@@ -184,14 +210,17 @@ PANETTERIA BERGERO,TIBERI Antonio,2026-09-09,Giro della Toscana - Memorial Alfre
 PANETTERIA BERGERO,TIBERI Antonio,2026-09-10,Gran Premio città di Peccioli - Coppa Sabatini,1.Pro,https://www.procyclingstats.com/race/gp-citta-di-peccioli/2026
 PANETTERIA BERGERO,TIBERI Antonio,2026-09-13,Trofeo Matteotti,1.1,https://www.procyclingstats.com/race/trofeo-matteotti/2026
 PANETTERIA BERGERO,TIBERI Antonio,2026-10-10,Il Lombardia,1.UWT,https://www.procyclingstats.com/race/il-lombardia/2026
+PANETTERIA BERGERO,BALLERINI Davide,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 PANETTERIA BERGERO,BALLERINI Davide,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 PANETTERIA BERGERO,BALLERINI Davide,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 PANETTERIA BERGERO,DAINESE Alberto,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
-PANETTERIA BERGERO,AFFINI Edoardo,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 PANETTERIA BERGERO,TUCKWELL Luke,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 OFFICINA BOCCETTINI CC,CORT NIELSEN Magnus,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 OFFICINA BOCCETTINI CC,COSTIOU Ewen,2026-08-18,Tour du Limousin-Périgord - Nouvelle Aquitaine,2.1,https://www.procyclingstats.com/race/tour-du-limousin/2026
+OFFICINA BOCCETTINI CC,DE GENDT Aime,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 OFFICINA BOCCETTINI CC,DE GENDT Aime,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
+OFFICINA BOCCETTINI CC,GROVES Kaden,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
+OFFICINA BOCCETTINI CC,LAMPERTI Luke,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 OFFICINA BOCCETTINI CC,LAMPERTI Luke,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 OFFICINA BOCCETTINI CC,MULUBRHAN Henok,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 OFFICINA BOCCETTINI CC,PARET PEINTRE Aurélien,2026-08-18,Tour du Limousin-Périgord - Nouvelle Aquitaine,2.1,https://www.procyclingstats.com/race/tour-du-limousin/2026
@@ -203,9 +232,12 @@ OFFICINA BOCCETTINI CC,PELLIZZARI Giulio,2026-09-12,Memorial Marco Pantani,1.1,h
 OFFICINA BOCCETTINI CC,PELLIZZARI Giulio,2026-10-03,Giro dell'Emilia,1.Pro,https://www.procyclingstats.com/race/giro-dell-emilia/2026
 OFFICINA BOCCETTINI CC,PELLIZZARI Giulio,2026-10-06,Tre Valli Varesine,1.Pro,https://www.procyclingstats.com/race/tre-valli-varesine/2026
 OFFICINA BOCCETTINI CC,PELLIZZARI Giulio,2026-10-10,Il Lombardia,1.UWT,https://www.procyclingstats.com/race/il-lombardia/2026
+OFFICINA BOCCETTINI CC,TEUTENBERG Tim Torn,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 OFFICINA BOCCETTINI CC,TEUTENBERG Tim Torn,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
+OFFICINA BOCCETTINI CC,VAN ASBROECK Tom,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 OFFICINA BOCCETTINI CC,VAN ASBROECK Tom,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 OFFICINA BOCCETTINI CC,ZANA Filippo,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
+OFFICINA BOCCETTINI CC,WATSON Samuel,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 OFFICINA BOCCETTINI CC,WATSON Samuel,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 S. PIETROBAUDO,ALMEIDA Joao Pedro Gonçalves,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 S. PIETROBAUDO,PEDERSEN Mads,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
@@ -214,12 +246,14 @@ S. PIETROBAUDO,JEANNIERE Emilien,2026-08-19,Lidl Deutschland Tour,2.Pro,https://
 S. PIETROBAUDO,TURNER Ben,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 S. PIETROBAUDO,CARAPAZ MONTENEGRO Richard Antonio,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 S. PIETROBAUDO,CARAPAZ MONTENEGRO Richard Antonio,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
+S. PIETROBAUDO,SCHACHMANN Maximilian,2026-08-19,Lidl Deutschland Tour,2.Pro,https://www.procyclingstats.com/race/deutschland-tour/2026
 S. PIETROBAUDO,STUYVEN Jasper,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 S. PIETROBAUDO,VAN GILS Maxim,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,https://www.procyclingstats.com/race/gp-quebec/2026
 S. PIETROBAUDO,VAN GILS Maxim,2026-09-13,Grand Prix Cycliste de Montréal,1.UWT,https://www.procyclingstats.com/race/gp-montreal/2026
 S. PIETROBAUDO,BAUHAUS Phil,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 S. PIETROBAUDO,BAUHAUS Phil,2026-08-19,Lidl Deutschland Tour,2.Pro,https://www.procyclingstats.com/race/deutschland-tour/2026
 S. PIETROBAUDO,RONDEL Mathys,2026-10-10,Il Lombardia,1.UWT,https://www.procyclingstats.com/race/il-lombardia/2026
+S. PIETROBAUDO,TEUNS Dylan,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 S. PIETROBAUDO,WIDAR Jarno,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 S. PIETROBAUDO,WIDAR Jarno,2026-10-10,Il Lombardia,1.UWT,https://www.procyclingstats.com/race/il-lombardia/2026
 S. PIETROBAUDO,KWIATKOWSKI Michal,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,https://www.procyclingstats.com/race/gp-quebec/2026
@@ -230,9 +264,12 @@ S. PIETROBAUDO,BUCHMANN Emanuel,2026-08-22,La Vuelta Ciclista a España,2.UWT,ht
 S. PIETROBAUDO,HERZOG Emil,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 SANROMARIANO,KOOIJ Olav,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 SANROMARIANO,KOOIJ Olav,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
+SANROMARIANO,MATTHEWS Michael,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
+SANROMARIANO,GIRMAY HAILU Biniam,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 SANROMARIANO,GIRMAY HAILU Biniam,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 SANROMARIANO,CHRISTEN Jan,2026-08-30,Bretagne Classic - CIC,1.UWT,https://www.procyclingstats.com/race/bretagne-classic/2026
 SANROMARIANO,CHRISTEN Jan,2026-10-10,Il Lombardia,1.UWT,https://www.procyclingstats.com/race/il-lombardia/2026
+SANROMARIANO,MORGADO Antonio Tomas,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 SANROMARIANO,MORGADO Antonio Tomas,2026-08-19,Lidl Deutschland Tour,2.Pro,https://www.procyclingstats.com/race/deutschland-tour/2026
 SANROMARIANO,MORGADO Antonio Tomas,2026-09-16,Skoda Tour de Luxembourg,2.Pro,https://www.procyclingstats.com/race/tour-de-luxembourg/2026
 SANROMARIANO,LAPEIRA Paul,2026-08-16,La Polynormande,1.1,https://www.procyclingstats.com/race/la-poly-normande/2026
@@ -244,20 +281,25 @@ SANROMARIANO,MAS NICOLAU Enric,2026-08-22,La Vuelta Ciclista a España,2.UWT,htt
 SANROMARIANO,HAYTER Ethan,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 SANROMARIANO,ADRIA OLIVERAS Roger,2026-08-19,Lidl Deutschland Tour,2.Pro,https://www.procyclingstats.com/race/deutschland-tour/2026
 SANROMARIANO,NORDHAGEN Jørgen,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
+SANROMARIANO,COSNEFROY Benoit,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 SANROMARIANO,SPARFEL Aubin,2026-08-20,Tour de l'Avenir,2.2U,https://www.procyclingstats.com/race/tour-de-l-avenir/2026
+TOPINA M.B.,ABRAHAMSEN Jonas,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 TOPINA M.B.,ABRAHAMSEN Jonas,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 TOPINA M.B.,RICCITELLO Matthew,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 TOPINA M.B.,NYS Thibau,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
 TOPINA M.B.,SEGAERT Alec,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
 TOPINA M.B.,SEGAERT Alec,2026-08-30,Bretagne Classic - CIC,1.UWT,https://www.procyclingstats.com/race/bretagne-classic/2026
+TOPINA M.B.,BARRY Ashlin,2026-08-20,Tour de l'Avenir,2.2U,https://www.procyclingstats.com/race/tour-de-l-avenir/2026
 TOPINA M.B.,BISIAUX Léo,2026-08-22,La Vuelta Ciclista a España,2.UWT,https://www.procyclingstats.com/race/vuelta-a-espana/2026
-TOPINA M.B.,BARRE Louis,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
+TOPINA M.B.,BARRE Louis,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 TOPINA M.B.,BARRE Louis,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,https://www.procyclingstats.com/race/gp-quebec/2026
 TOPINA M.B.,BARRE Louis,2026-09-13,Grand Prix Cycliste de Montréal,1.UWT,https://www.procyclingstats.com/race/gp-montreal/2026
 TOPINA M.B.,BARRE Louis,2026-10-10,Il Lombardia,1.UWT,https://www.procyclingstats.com/race/il-lombardia/2026
 TOPINA M.B.,ROLLAND Brieuc,2026-08-16,La Polynormande,1.1,https://www.procyclingstats.com/race/la-poly-normande/2026
 TOPINA M.B.,ROLLAND Brieuc,2026-08-18,Tour du Limousin-Périgord - Nouvelle Aquitaine,2.1,https://www.procyclingstats.com/race/tour-du-limousin/2026
+TOPINA M.B.,BJERG Mikkel Norsgaard,2026-08-16,ADAC Cyclassics,1.UWT,https://www.procyclingstats.com/race/cyclassics-hamburg/2026
 TOPINA M.B.,BJERG Mikkel Norsgaard,2026-08-19,Renewi Tour,2.UWT,https://www.procyclingstats.com/race/renewi-tour/2026
+TOPINA M.B.,MOURIS Michiel,2026-08-20,Tour de l'Avenir,2.2U,https://www.procyclingstats.com/race/tour-de-l-avenir/2026
 TOPINA M.B.,MOURIS Michiel,2026-09-21,World Championships MU - ITT,WC,https://www.procyclingstats.com/race/world-championships-itt-u23/2026
 TOPINA M.B.,MOURIS Michiel,2026-09-25,World Championships MU - Road Race,WC,https://www.procyclingstats.com/race/world-championships-u23/2026
 TOPINA M.B.,MOURIS Michiel,2026-10-07,European Continental Championships MU - ITT,CC,https://www.procyclingstats.com/race/european-continental-championships-u23-itt/2026
