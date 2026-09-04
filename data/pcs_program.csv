@@ -12,6 +12,7 @@ BABY YODA - OSF,BENOOT Tiesj,2026-09-13,Grand Prix Cycliste de Montréal,1.UWT,h
 BABY YODA - OSF,BENOOT Tiesj,2026-10-10,Il Lombardia,1.UWT,https://www.procyclingstats.com/race/il-lombardia/2026
 BABY YODA - OSF,BENOOT Tiesj,2026-10-13,Tour of Guangxi,2.UWT,https://www.procyclingstats.com/race/tour-of-guangxi/2026
 BABY YODA - OSF,ZAMBANINI Edoardo,2026-09-22,CRO Race,2.Pro,https://www.procyclingstats.com/race/tour-of-croatia/2026
+BABY YODA - OSF,BARONCINI Filippo,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 BABY YODA - OSF,VAN EETVELT Lennert,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,https://www.procyclingstats.com/race/gp-quebec/2026
 BABY YODA - OSF,VAN EETVELT Lennert,2026-09-13,Grand Prix Cycliste de Montréal,1.UWT,https://www.procyclingstats.com/race/gp-montreal/2026
 BABY YODA - OSF,VAN EETVELT Lennert,2026-10-10,Il Lombardia,1.UWT,https://www.procyclingstats.com/race/il-lombardia/2026
@@ -26,7 +27,6 @@ BERGERO CORSE,FOSS Tobias Svendsen,2026-09-20,World Championships ME - ITT,WC,ht
 BERGERO CORSE,FOSS Tobias Svendsen,2026-09-22,World Championships - Mixed Relay TTT,WC,https://www.procyclingstats.com/race/world-championship-mixed-relay-ttt/2026
 BERGERO CORSE,FOSS Tobias Svendsen,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
 BERGERO CORSE,VAN MOER Brent,2026-09-22,CRO Race,2.Pro,https://www.procyclingstats.com/race/tour-of-croatia/2026
-BERGERO CORSE,MAROLT Jaka,2026-09-03,Giro della Regione Friuli Venezia Giulia,2.2,https://www.procyclingstats.com/race/giro-della-regione-friuli-venezia-giulia/2026
 BERGERO CORSE,NAESEN Oliver,2026-09-16,Skoda Tour de Luxembourg,2.Pro,https://www.procyclingstats.com/race/tour-de-luxembourg/2026
 BERGERO CORSE,BENNETT George,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
 BERGERO CORSE,SCARONI Christian,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
@@ -39,13 +39,17 @@ DAINESTO PAGILLO,SEIXAS Paul,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,htt
 DAINESTO PAGILLO,SEIXAS Paul,2026-09-13,Grand Prix Cycliste de Montréal,1.UWT,https://www.procyclingstats.com/race/gp-montreal/2026
 DAINESTO PAGILLO,SEIXAS Paul,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
 DAINESTO PAGILLO,SEIXAS Paul,2026-10-10,Il Lombardia,1.UWT,https://www.procyclingstats.com/race/il-lombardia/2026
+DAINESTO PAGILLO,VACEK Mathias,2026-09-20,World Championships ME - ITT,WC,https://www.procyclingstats.com/race/world-championship-itt/2026
+DAINESTO PAGILLO,VACEK Mathias,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
 DAINESTO PAGILLO,GROSSSCHARTNER Felix,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
+DAINESTO PAGILLO,BETTIOL Alberto,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 DAINESTO PAGILLO,BETTIOL Alberto,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,https://www.procyclingstats.com/race/gp-quebec/2026
 DAINESTO PAGILLO,BETTIOL Alberto,2026-09-13,Grand Prix Cycliste de Montréal,1.UWT,https://www.procyclingstats.com/race/gp-montreal/2026
 DAINESTO PAGILLO,BETTIOL Alberto,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
 DAINESTO PAGILLO,BETTIOL Alberto,2026-10-04,Coppa Agostoni - Giro delle Brianze,1.1,https://www.procyclingstats.com/race/coppa-agostoni/2026
 DAINESTO PAGILLO,BETTIOL Alberto,2026-10-05,Coppa Bernocchi - GP Banco BPM,1.Pro,https://www.procyclingstats.com/race/coppa-bernocchi/2026
 DAINESTO PAGILLO,BETTIOL Alberto,2026-10-08,Gran Piemonte,1.Pro,https://www.procyclingstats.com/race/gran-piemonte/2026
+DAINESTO PAGILLO,ENGELHARDT Felix,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 DAINESTO PAGILLO,ASGREEN Kasper,2026-09-20,World Championships ME - ITT,WC,https://www.procyclingstats.com/race/world-championship-itt/2026
 DAINESTO PAGILLO,ASGREEN Kasper,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
 DPJ,AYUSO PESQUERA Juan,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,https://www.procyclingstats.com/race/gp-quebec/2026
@@ -53,6 +57,7 @@ DPJ,AYUSO PESQUERA Juan,2026-09-13,Grand Prix Cycliste de Montréal,1.UWT,https:
 DPJ,AYUSO PESQUERA Juan,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
 DPJ,AYUSO PESQUERA Juan,2026-10-04,European Continental Championships ME - Road Race,CC,https://www.procyclingstats.com/race/uec-road-european-championships-me/2026
 DPJ,AYUSO PESQUERA Juan,2026-10-10,Il Lombardia,1.UWT,https://www.procyclingstats.com/race/il-lombardia/2026
+DPJ,HERMANS Quinten,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 DPJ,WOODS Michael,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,https://www.procyclingstats.com/race/gp-quebec/2026
 DPJ,WOODS Michael,2026-09-13,Grand Prix Cycliste de Montréal,1.UWT,https://www.procyclingstats.com/race/gp-montreal/2026
 DPJ,WOODS Michael,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
@@ -66,7 +71,6 @@ GIANCICLI WW,EVENEPOEL Remco,2026-10-18,Chrono des Nations,1.1,https://www.procy
 GIANCICLI WW,VAN AERT Wout,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
 GIANCICLI WW,BILBAO LOPEZ DE ARMENTIA Pello,2026-10-10,Il Lombardia,1.UWT,https://www.procyclingstats.com/race/il-lombardia/2026
 GIANCICLI WW,GROENEWEGEN Dylan,2026-09-18,Kampioenschap van Vlaanderen,1.1,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen1/2026
-GIANCICLI WW,GAUDU David,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 GIANCICLI WW,IZAGIRRE INSAUSTI Ion,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 GIANCICLI WW,VENDRAME Andrea,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 GONDAVERI,GANNA Filippo,2026-09-20,World Championships ME - ITT,WC,https://www.procyclingstats.com/race/world-championship-itt/2026
@@ -78,6 +82,7 @@ GONDAVERI,BAGIOLI Andrea,2026-09-22,CRO Race,2.Pro,https://www.procyclingstats.c
 GONDAVERI,BLACKMORE Joseph,2026-09-22,CRO Race,2.Pro,https://www.procyclingstats.com/race/tour-of-croatia/2026
 GONDAVERI,KRAGH ANDERSEN Søren,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
 GONDAVERI,FINN Lorenzo,2026-09-25,World Championships MU - Road Race,WC,https://www.procyclingstats.com/race/world-championships-u23/2026
+GONDAVERI,PERICAS CAPDEVILA Adria,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 LEGNANO,DE LIE Arnaud,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,https://www.procyclingstats.com/race/gp-quebec/2026
 LEGNANO,DE LIE Arnaud,2026-09-13,Grand Prix Cycliste de Montréal,1.UWT,https://www.procyclingstats.com/race/gp-montreal/2026
 LEGNANO,DE LIE Arnaud,2026-09-16,Lotto Grand Prix de Wallonie,1.Pro,https://www.procyclingstats.com/race/gp-de-wallonie/2026
@@ -89,14 +94,15 @@ LEGNANO,MARTINEZ Lenny,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.p
 LEGNANO,LEKNESSUND Andreas,2026-09-20,World Championships ME - ITT,WC,https://www.procyclingstats.com/race/world-championship-itt/2026
 LEGNANO,LEKNESSUND Andreas,2026-09-22,World Championships - Mixed Relay TTT,WC,https://www.procyclingstats.com/race/world-championship-mixed-relay-ttt/2026
 LEGNANO,LEKNESSUND Andreas,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
+LEGNANO,RUBIO REYES Einer Augusto,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 LEGNANO,SÖDERQVIST Jakob,2026-09-20,World Championships ME - ITT,WC,https://www.procyclingstats.com/race/world-championship-itt/2026
 LEGNANO,SÖDERQVIST Jakob,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
 LEGNANO,SÖDERQVIST Jakob,2026-10-13,Eneco Tour,2.1,https://www.procyclingstats.com/race/eneco-tour/2026
+LEGNANO,DECOMBLE Maxime,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 LEGNANO,DECOMBLE Maxime,2026-09-16,Okolo Slovenska / Tour de Slovaquie,2.1,https://www.procyclingstats.com/race/okolo-slovenska/2026
 MARTINONE UNO,HEALY Ben,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,https://www.procyclingstats.com/race/gp-quebec/2026
 MARTINONE UNO,HEALY Ben,2026-09-13,Grand Prix Cycliste de Montréal,1.UWT,https://www.procyclingstats.com/race/gp-montreal/2026
 MARTINONE UNO,HEALY Ben,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
-MARTINONE UNO,BAUDIN Alex,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 MARTINONE UNO,VERMAERKE Kevin,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
 MASTRO BIRRAIO GCP,MERLIER Tim,2026-09-18,Kampioenschap van Vlaanderen,1.1,https://www.procyclingstats.com/race/kampioenschap-van-vlaanderen1/2026
 MASTRO BIRRAIO GCP,MERLIER Tim,2026-09-22,CRO Race,2.Pro,https://www.procyclingstats.com/race/tour-of-croatia/2026
@@ -109,6 +115,7 @@ MASTRO BIRRAIO GCP,DE SCHUYTENEER Steffen,2026-09-18,Kampioenschap van Vlaandere
 MASTRO BIRRAIO GCP,DE SCHUYTENEER Steffen,2026-09-20,Gooikse pijl p/b Lotto,1.1,https://www.procyclingstats.com/race/gooikse-pijl/2026
 MASTRO BIRRAIO GCP,DE SCHUYTENEER Steffen,2026-10-11,Paris - Tours Elite,1.Pro,https://www.procyclingstats.com/race/paris-tours/2026
 MASTRO BIRRAIO GCP,PITHIE Laurence,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
+MASTRO BIRRAIO GCP,NERURKAR Lukas,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 PANETTERIA BERGERO,CICCONE Giulio,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,https://www.procyclingstats.com/race/gp-quebec/2026
 PANETTERIA BERGERO,CICCONE Giulio,2026-09-13,Grand Prix Cycliste de Montréal,1.UWT,https://www.procyclingstats.com/race/gp-montreal/2026
 PANETTERIA BERGERO,SKJELMOSE JENSEN Mattias,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
@@ -126,6 +133,7 @@ PANETTERIA BERGERO,TIBERI Antonio,2026-09-10,Gran Premio città di Peccioli - Co
 PANETTERIA BERGERO,TIBERI Antonio,2026-09-13,Trofeo Matteotti,1.1,https://www.procyclingstats.com/race/trofeo-matteotti/2026
 PANETTERIA BERGERO,TIBERI Antonio,2026-09-22,CRO Race,2.Pro,https://www.procyclingstats.com/race/tour-of-croatia/2026
 PANETTERIA BERGERO,TIBERI Antonio,2026-10-10,Il Lombardia,1.UWT,https://www.procyclingstats.com/race/il-lombardia/2026
+PANETTERIA BERGERO,BALLERINI Davide,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 PANETTERIA BERGERO,FANCELLU Alessandro,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 PANETTERIA BERGERO,FANCELLU Alessandro,2026-09-22,CRO Race,2.Pro,https://www.procyclingstats.com/race/tour-of-croatia/2026
 PANETTERIA BERGERO,FANCELLU Alessandro,2026-10-03,Giro dell'Emilia,1.Pro,https://www.procyclingstats.com/race/giro-dell-emilia/2026
@@ -138,10 +146,11 @@ OFFICINA BOCCETTINI CC,PELLIZZARI Giulio,2026-10-06,Tre Valli Varesine,1.Pro,htt
 OFFICINA BOCCETTINI CC,PELLIZZARI Giulio,2026-10-10,Il Lombardia,1.UWT,https://www.procyclingstats.com/race/il-lombardia/2026
 OFFICINA BOCCETTINI CC,TEUTENBERG Tim Torn,2026-09-22,CRO Race,2.Pro,https://www.procyclingstats.com/race/tour-of-croatia/2026
 S. PIETROBAUDO,PEDERSEN Mads,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
-S. PIETROBAUDO,JEANNIERE Emilien,2026-09-03,Tour of Istanbul,2.1,https://www.procyclingstats.com/race/tour-of-istanbul/2026
 S. PIETROBAUDO,CARAPAZ MONTENEGRO Richard Antonio,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
+S. PIETROBAUDO,JEGAT Jordan,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 S. PIETROBAUDO,VAN GILS Maxim,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,https://www.procyclingstats.com/race/gp-quebec/2026
 S. PIETROBAUDO,VAN GILS Maxim,2026-09-13,Grand Prix Cycliste de Montréal,1.UWT,https://www.procyclingstats.com/race/gp-montreal/2026
+S. PIETROBAUDO,RONDEL Mathys,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 S. PIETROBAUDO,RONDEL Mathys,2026-10-10,Il Lombardia,1.UWT,https://www.procyclingstats.com/race/il-lombardia/2026
 S. PIETROBAUDO,TEUNS Dylan,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 S. PIETROBAUDO,TEUNS Dylan,2026-09-22,CRO Race,2.Pro,https://www.procyclingstats.com/race/tour-of-croatia/2026
@@ -165,10 +174,13 @@ SANROMARIANO,MATTHEWS Michael,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,ht
 SANROMARIANO,MATTHEWS Michael,2026-09-13,Grand Prix Cycliste de Montréal,1.UWT,https://www.procyclingstats.com/race/gp-montreal/2026
 SANROMARIANO,CHRISTEN Jan,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 SANROMARIANO,CHRISTEN Jan,2026-10-10,Il Lombardia,1.UWT,https://www.procyclingstats.com/race/il-lombardia/2026
+SANROMARIANO,MORGADO Antonio Tomas,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 SANROMARIANO,MORGADO Antonio Tomas,2026-09-16,Skoda Tour de Luxembourg,2.Pro,https://www.procyclingstats.com/race/tour-de-luxembourg/2026
 SANROMARIANO,MORGADO Antonio Tomas,2026-09-22,CRO Race,2.Pro,https://www.procyclingstats.com/race/tour-of-croatia/2026
+SANROMARIANO,KULSET Johannes,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 SANROMARIANO,LAPEIRA Paul,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,https://www.procyclingstats.com/race/gp-quebec/2026
 SANROMARIANO,LAPEIRA Paul,2026-09-13,Grand Prix Cycliste de Montréal,1.UWT,https://www.procyclingstats.com/race/gp-montreal/2026
+SANROMARIANO,ADRIA OLIVERAS Roger,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 SANROMARIANO,NORDHAGEN Jørgen,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
 SANROMARIANO,COSNEFROY Benoit,2026-09-22,CRO Race,2.Pro,https://www.procyclingstats.com/race/tour-of-croatia/2026
 TOPINA M.B.,STORER Michael,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
@@ -179,13 +191,13 @@ TOPINA M.B.,BARRY Ashlin,2026-09-25,World Championships MU - Road Race,WC,https:
 TOPINA M.B.,BARRE Louis,2026-09-11,Grand Prix Cycliste de Québec,1.UWT,https://www.procyclingstats.com/race/gp-quebec/2026
 TOPINA M.B.,BARRE Louis,2026-09-13,Grand Prix Cycliste de Montréal,1.UWT,https://www.procyclingstats.com/race/gp-montreal/2026
 TOPINA M.B.,BARRE Louis,2026-10-10,Il Lombardia,1.UWT,https://www.procyclingstats.com/race/il-lombardia/2026
+TOPINA M.B.,ROLLAND Brieuc,2026-09-06,GP Industria & Artigianato,1.Pro,https://www.procyclingstats.com/race/gp-industria-artigianato/2026
 TOPINA M.B.,BJERG Mikkel Norsgaard,2026-09-20,World Championships ME - ITT,WC,https://www.procyclingstats.com/race/world-championship-itt/2026
 TOPINA M.B.,BJERG Mikkel Norsgaard,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
 TOPINA M.B.,MOURIS Michiel,2026-09-21,World Championships MU - ITT,WC,https://www.procyclingstats.com/race/world-championships-itt-u23/2026
 TOPINA M.B.,MOURIS Michiel,2026-09-25,World Championships MU - Road Race,WC,https://www.procyclingstats.com/race/world-championships-u23/2026
 TOPINA M.B.,MOURIS Michiel,2026-10-07,European Continental Championships MU - ITT,CC,https://www.procyclingstats.com/race/european-continental-championships-u23-itt/2026
 TOPINA M.B.,RAFFERTY Darren,2026-09-27,World Championships ME - Road Race,WC,https://www.procyclingstats.com/race/world-championship/2026
-TOPINA M.B.,ØRN-KRISTOFF Felix,2026-09-03,Tour of Istanbul,2.1,https://www.procyclingstats.com/race/tour-of-istanbul/2026
 TOPINA M.B.,BEHRENS Niklas,2026-10-03,Sparkassen Münsterland Giro,1.Pro,https://www.procyclingstats.com/race/munsterland-giro/2026
 TOPINA M.B.,BEHRENS Niklas,2026-10-06,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,1.1,https://www.procyclingstats.com/race/memorial-frank-vandenbroucke/2026
 TOPINA M.B.,BEHRENS Niklas,2026-10-13,Tour of Guangxi,2.UWT,https://www.procyclingstats.com/race/tour-of-guangxi/2026
