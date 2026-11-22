@@ -1,1 +1,1 @@
-Ultimo aggiornamento: 21-11-2026 16:04:39 UTC
+Ultimo aggiornamento: 22-11-2026 16:10:21 UTC
